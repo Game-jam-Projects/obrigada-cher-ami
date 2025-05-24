@@ -1,3 +1,4 @@
+using NUnit;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -63,7 +64,7 @@ public class TangaraDance
 
         GameObject first = _tangaras[0];
 
-        Coroutine moveFirst = _coroutineHandler.StartCoroutine(MoveToPosition(first, _places[^1].position, moveSpeed));
+        Coroutine moveFirst = _coroutineHandler.StartCoroutine(FlyToPosition(first, first.transform.position, _places[^1].position, moveSpeed));
         moveCoroutines.Add(moveFirst);
 
         for (int i = 1; i < count; i++)
@@ -85,6 +86,15 @@ public class TangaraDance
 
     private IEnumerator MoveToPosition(GameObject tangara, Vector3 targetPosition, float moveSpeed)
     {
+        if (tangara.TryGetComponent(out Animator animator))
+        {
+            float baseAnimSpeed = 5.0f; // change this!
+
+            animator.speed = Mathf.Clamp(moveSpeed / baseAnimSpeed, 0.5f, 2.0f);
+
+            animator.SetTrigger("hop");
+        }
+
         while (Vector3.Distance(tangara.transform.position, targetPosition) > 0.01f)
         {
             tangara.transform.position = Vector3.MoveTowards(tangara.transform.position, targetPosition, moveSpeed * Time.deltaTime);
@@ -94,6 +104,36 @@ public class TangaraDance
 
         tangara.transform.position = targetPosition;
     }
+
+    private IEnumerator FlyToPosition(GameObject tangara, Vector3 startPosition, Vector3 endPosition, float moveSpeed)
+    {
+        if (tangara.TryGetComponent(out Animator animator))
+        {
+            animator.SetTrigger("fly");
+        }
+
+        Vector3 midPosition = (startPosition + endPosition) / 2.0f + Vector3.up * -1.5f; // Arc height adjustable
+
+        float distance = Vector3.Distance(startPosition, endPosition);
+        float duration = distance / moveSpeed; 
+
+        float time = 0.0f;
+
+        while (time < duration)
+        {
+            time += Time.deltaTime;
+            float t = Mathf.Clamp01(time / duration);
+
+            Vector3 m1 = Vector3.Lerp(startPosition, midPosition, t);
+            Vector3 m2 = Vector3.Lerp(midPosition, endPosition, t);
+            tangara.transform.position = Vector3.Lerp(m1, m2, t);
+
+            yield return null;
+        }
+
+        tangara.transform.position = endPosition;
+    }
+
 
     #endregion
 }

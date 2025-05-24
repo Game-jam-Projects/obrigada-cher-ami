@@ -21,8 +21,12 @@ MonoBehaviour:
   - TotalCycles: 5
     MoveSpeed: 14
     DelayToMove: 0.1
-    NewAmount: 1
+    NewAmount: 0
   - TotalCycles: 7
     MoveSpeed: 20
+    DelayToMove: 0.1
+    NewAmount: 1
+  - TotalCycles: 10
+    MoveSpeed: 25
     DelayToMove: 0.1
     NewAmount: 2

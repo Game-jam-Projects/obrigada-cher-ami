@@ -30,10 +30,7 @@ public class Tangara : MonoBehaviour
     {
         _isAlpha = true;
 
-        if (TryGetComponent(out SpriteRenderer renderer))
-        {
-            renderer.color = Color.blue;
-        }
+        GetComponentInChildren<SpriteRenderer>().color = Color.blue;
     }
 
     #endregion
