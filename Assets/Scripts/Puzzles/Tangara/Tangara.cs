@@ -2,15 +2,15 @@ using UnityEngine;
 
 public class Tangara : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    [SerializeField] private bool _isAlpha;
 
-    // Update is called once per frame
-    void Update()
+    public void SetIsAlpha()
     {
-        
+        _isAlpha = true;
+
+        if (TryGetComponent(out SpriteRenderer renderer))
+        {
+            renderer.color = Color.blue;
+        }
     }
 }
