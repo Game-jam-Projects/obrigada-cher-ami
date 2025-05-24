@@ -2,15 +2,39 @@ using UnityEngine;
 
 public class Tangara : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    #region Fields
+
+    [SerializeField] private bool _isAlpha;
+
+    #endregion
+
+    #region Unity Methods
+
+    private void OnMouseDown()
     {
-        
+        if (_isAlpha)
+        {
+            TangaraManager.Instance.PlayerWins();
+        }
+        else
+        {
+            TangaraManager.Instance.PlayerLoses();
+        }
     }
 
-    // Update is called once per frame
-    void Update()
+    #endregion
+
+    #region Public Methods
+
+    public void SetIsAlpha()
     {
-        
+        _isAlpha = true;
+
+        if (TryGetComponent(out SpriteRenderer renderer))
+        {
+            renderer.color = Color.blue;
+        }
     }
+
+    #endregion
 }
