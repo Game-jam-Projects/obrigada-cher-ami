@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a88039714ef4ce4a916b3d98b4e2e84, type: 3}
+  m_Name: NewTangaraLevel
+  m_EditorClassIdentifier: 
+  _initialAmount: 4
+  _danceRounds:
+  - TotalCycles: 3
+    MoveSpeed: 7
+    DelayToMove: 0.1
+    NewAmount: 0
+  - TotalCycles: 5
+    MoveSpeed: 14
+    DelayToMove: 0.1
+    NewAmount: 1
+  - TotalCycles: 7
+    MoveSpeed: 20
+    DelayToMove: 0.1
+    NewAmount: 2

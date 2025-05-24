@@ -4,49 +4,53 @@ using UnityEngine;
 
 public class TangaraDance
 {
+    #region Fields
+
     private readonly MonoBehaviour _coroutineHandler;
     private readonly List<GameObject> _tangaras;
     private readonly List<Transform> _places;
 
-    private int _currentRound = 0;
+    private int _currentCycle = 0;
     private bool _isDancing = false;
 
-    public TangaraDance(MonoBehaviour coroutineHandler, List<GameObject> tangaras)
+    #endregion
+
+    #region Constructor
+
+    public TangaraDance(MonoBehaviour coroutineHandler, List<GameObject> tangaras, List<Transform> places)
     {
         _coroutineHandler = coroutineHandler;
         _tangaras = tangaras;
-
-        _places = new List<Transform>();
-
-        for (int i = 0; i < _tangaras.Count; i++)
-        {
-            Transform place = new GameObject("Position_" + i).transform;
-
-            place.position = _tangaras[i].transform.position;
-
-            _places.Add(place);
-        }
+        _places = places;
     }
 
-    public void StartDance(int totalRounds, float moveSpeed, float delayToMove)
+    #endregion
+
+    #region Public Methods
+
+    public void StartDance(int totalCycles, float moveSpeed, float delayToMove)
     {
         if (!_isDancing)
         {
-            _currentRound = 0;
+            _currentCycle = 0;
 
-            _coroutineHandler.StartCoroutine(DanceRoutine(totalRounds, moveSpeed, delayToMove));
+            _coroutineHandler.StartCoroutine(DanceRoutine(totalCycles, moveSpeed, delayToMove));
         }
     }
 
-    private IEnumerator DanceRoutine(int totalRounds, float moveSpeed, float delayToMove)
+    #endregion
+
+    #region Private Methods
+
+    private IEnumerator DanceRoutine(int totalCycles, float moveSpeed, float delayToMove)
     {
         _isDancing = true;
 
-        while (_currentRound < totalRounds)
+        while (_currentCycle < totalCycles)
         {
             yield return _coroutineHandler.StartCoroutine(RotateLeft(moveSpeed, delayToMove));
 
-            _currentRound++;
+            _currentCycle++;
         }
 
         _isDancing = false;
@@ -90,4 +94,6 @@ public class TangaraDance
 
         tangara.transform.position = targetPosition;
     }
+
+    #endregion
 }
