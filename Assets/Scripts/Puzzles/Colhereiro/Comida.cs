@@ -36,7 +36,8 @@ public class Comida : MonoBehaviour
             TipoComida.Crustaceo => new Color(255, 0, 0, 0.3f),
             TipoComida.Peixe => new Color(0, 0, 255, 0.3f),
             TipoComida.Inseto => new Color(0, 255, 0, 0.3f),
-            TipoComida.Lixo => new Color(0, 0, 0, 0.3f)
+            TipoComida.Lixo => new Color(0, 0, 0, 0.3f),
+            TipoComida.Aleatorio => _spriteRenderer.color
         };
     }
 
@@ -61,6 +62,7 @@ public class Comida : MonoBehaviour
             TipoComida.Peixe => Pontuacao.Pontos += 10,
             TipoComida.Inseto => Pontuacao.Pontos += 5,
             TipoComida.Lixo => Pontuacao.Pontos -= 15,
+            TipoComida.Aleatorio => Pontuacao.Pontos
         };
     }
 }
