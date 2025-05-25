@@ -21,6 +21,7 @@ public class Player : MonoBehaviour
 
     private Rigidbody2D _rigidBody;
     private PlayerInput _input;
+    private Animator _animator;
 
     #endregion
 
@@ -30,11 +31,13 @@ public class Player : MonoBehaviour
     {
         _rigidBody = GetComponent<Rigidbody2D>();
         _input = GetComponent<PlayerInput>();
+        _animator = GetComponent<Animator>();
     }
 
     private void Update()
     {
         CheckGround();
+        UpdateAnimator();
     }
 
     private void FixedUpdate()
@@ -44,14 +47,31 @@ public class Player : MonoBehaviour
         JumpPhysics();
     }
 
-    private void OnDrawGizmosSelected()
+    private void UpdateAnimator()
     {
-        if (_groundCheck != null)
+        var xPos = _rigidBody.linearVelocityX;
+        var yPos = _rigidBody.linearVelocityY > 0 ? _rigidBody.linearVelocityY : 0;
+
+        _animator.SetFloat("horizontal", xPos);
+        _animator.SetFloat("vertical", yPos);
+
+        Debug.Log($"x:{xPos} y:{yPos}");
+
+        if (_rigidBody.linearVelocity != Vector2.zero)
         {
-            Gizmos.color = Color.red;
-            Gizmos.DrawWireSphere(_groundCheck.position, _groundCheckRadius);
+            _animator.SetFloat("ultHorizontal", xPos);
+            _animator.SetFloat("ultVertical", yPos);
         }
     }
+
+    //private void OnDrawGizmosSelected()
+    //{
+    //    if (_groundCheck != null)
+    //    {
+    //        Gizmos.color = Color.red;
+    //        Gizmos.DrawWireSphere(_groundCheck.position, _groundCheckRadius);
+    //    }
+    //}
 
     #endregion
 
