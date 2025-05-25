@@ -15,18 +15,22 @@ MonoBehaviour:
   _initialAmount: 4
   _danceRounds:
   - TotalCycles: 3
-    MoveSpeed: 7
-    DelayToMove: 0.1
+    MoveSpeed: 8
+    FlySpeed: 14
+    DelayToMove: 0.3
     NewAmount: 0
   - TotalCycles: 5
     MoveSpeed: 14
-    DelayToMove: 0.1
+    FlySpeed: 18
+    DelayToMove: 0.2
     NewAmount: 0
   - TotalCycles: 7
     MoveSpeed: 20
-    DelayToMove: 0.1
+    FlySpeed: 25
+    DelayToMove: 0.2
     NewAmount: 1
-  - TotalCycles: 10
-    MoveSpeed: 25
+  - TotalCycles: 6
+    MoveSpeed: 45
+    FlySpeed: 35
     DelayToMove: 0.1
     NewAmount: 2

@@ -28,13 +28,13 @@ public class TangaraDance
 
     #region Public Methods
 
-    public void StartDance(int totalCycles, float moveSpeed, float delayToMove)
+    public void StartDance(int totalCycles, float moveSpeed, float flySpeed, float delayToMove)
     {
         if (!_isDancing)
         {
             _currentCycle = 0;
 
-            _coroutineHandler.StartCoroutine(DanceRoutine(totalCycles, moveSpeed, delayToMove));
+            _coroutineHandler.StartCoroutine(DanceRoutine(totalCycles, moveSpeed, flySpeed, delayToMove));
         }
     }
 
@@ -42,13 +42,13 @@ public class TangaraDance
 
     #region Private Methods
 
-    private IEnumerator DanceRoutine(int totalCycles, float moveSpeed, float delayToMove)
+    private IEnumerator DanceRoutine(int totalCycles, float moveSpeed, float flySpeed, float delayToMove)
     {
         _isDancing = true;
 
         while (_currentCycle < totalCycles)
         {
-            yield return _coroutineHandler.StartCoroutine(RotateLeft(moveSpeed, delayToMove));
+            yield return _coroutineHandler.StartCoroutine(RotateLeft(moveSpeed, flySpeed, delayToMove));
 
             _currentCycle++;
         }
@@ -56,7 +56,7 @@ public class TangaraDance
         _isDancing = false;
     }
 
-    private IEnumerator RotateLeft(float moveSpeed, float delayToMove)
+    private IEnumerator RotateLeft(float moveSpeed, float flySpeed, float delayToMove)
     {
         int count = _tangaras.Count;
         List<Coroutine> moveCoroutines = new();
@@ -66,7 +66,7 @@ public class TangaraDance
         Coroutine moveFirst = _coroutineHandler.StartCoroutine(MoveToPosition(first,
                                                                               first.transform.position,
                                                                               _places[^1].position,
-                                                                              moveSpeed,
+                                                                              flySpeed,
                                                                               DanceValues.Instance.FlyArcHeight,
                                                                               "fly"));
         moveCoroutines.Add(moveFirst);
@@ -96,7 +96,7 @@ public class TangaraDance
     private IEnumerator MoveToPosition(GameObject tangara,
                                       Vector3 startPosition,
                                       Vector3 endPosition,
-                                      float moveSpeed,
+                                      float speed,
                                       float arcHeight,
                                       string animationTrigger)
     {
@@ -108,7 +108,7 @@ public class TangaraDance
         Vector3 midPosition = (startPosition + endPosition) / 2.0f + Vector3.up * arcHeight;
 
         float distance = Vector3.Distance(startPosition, endPosition);
-        float duration = distance / moveSpeed;
+        float duration = distance / speed;
 
         float time = 0.0f;
 
