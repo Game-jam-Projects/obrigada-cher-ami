@@ -15,10 +15,11 @@ public class TangaraManager : Singleton<TangaraManager>
     [SerializeField] private RectTransform _uiChoose;
     [SerializeField] private RectTransform _uiRight;
     [SerializeField] private RectTransform _uiWrong;
-    [SerializeField] private AudioSource _sfx;
 
     [Header("Sound Effects")]
+    [SerializeField] private AudioSource _sfx;
     [SerializeField] private GameEvent _winSound;
+    [SerializeField] private GameEvent _wrongSound;
 
     private Tangara _alpha;
     private List<GameObject> _tangaras;
@@ -114,6 +115,8 @@ public class TangaraManager : Singleton<TangaraManager>
 
     public void PlayerLoses()
     {
+        _wrongSound.Broadcast();
+
         _uiWrong.gameObject.SetActive(true);
         _uiChoose.gameObject.SetActive(false);
         _uiStart.gameObject.SetActive(true);

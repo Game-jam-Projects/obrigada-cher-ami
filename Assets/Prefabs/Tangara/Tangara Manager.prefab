@@ -56,7 +56,13 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+  _uiStart: {fileID: 0}
+  _uiChoose: {fileID: 0}
+  _uiRight: {fileID: 0}
+  _uiWrong: {fileID: 0}
+  _sfx: {fileID: 0}
   _winSound: {fileID: 11400000, guid: 4ae3daab75291a846aad81689614c269, type: 2}
+  _wrongSound: {fileID: 11400000, guid: cb2002614713f1b4c87fac916b6e2991, type: 2}
 --- !u!114 &632573687765384330
 MonoBehaviour:
   m_ObjectHideFlags: 0
