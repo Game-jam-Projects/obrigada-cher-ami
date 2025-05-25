@@ -11,6 +11,10 @@ public class TangaraManager : Singleton<TangaraManager>
     [SerializeField] private Transform _startingPosition;
     [SerializeField] private float _distanceBetween = 1.5f;
     [SerializeField] private List<Transform> _predefinedPlaces;
+    [SerializeField] private RectTransform _uiStart;
+    [SerializeField] private RectTransform _uiChoose;
+    [SerializeField] private RectTransform _uiRight;
+    [SerializeField] private RectTransform _uiWrong;
 
     [Header("Sound Effects")]
     [SerializeField] private GameEvent _winSound;
@@ -37,6 +41,11 @@ public class TangaraManager : Singleton<TangaraManager>
 
         _startAction = InputSystem.actions.FindAction("Jump");
 
+        _uiStart.gameObject.SetActive(true);
+        _uiChoose.gameObject.SetActive(false);
+        _uiRight.gameObject.SetActive(false);
+        _uiWrong.gameObject.SetActive(false);
+
         _canStart = true;
     }
 
@@ -45,6 +54,10 @@ public class TangaraManager : Singleton<TangaraManager>
         if (_startAction.triggered && _canStart && !_level.IsFinished)
         {
             _canStart = false;
+
+            _uiStart.gameObject.SetActive(false);
+            _uiRight.gameObject.SetActive(false);
+            _uiWrong.gameObject.SetActive(false);
 
             if (_alpha.TryGetComponent(out Animator animator))
             {
@@ -69,6 +82,9 @@ public class TangaraManager : Singleton<TangaraManager>
     {
         _winSound.Broadcast();
 
+        _uiChoose.gameObject.SetActive(false);
+        _uiRight.gameObject.SetActive(true);
+
         _level.AdvanceRound();
 
         if (_level.IsFinished)
@@ -82,12 +98,14 @@ public class TangaraManager : Singleton<TangaraManager>
             _dance = new TangaraDance(this, _tangaras, _places);
 
             _canStart = true; //remover
+            _uiStart.gameObject.SetActive(true);
 
             DisableClicks();
         }
         else
         {
             _canStart = true;
+            _uiStart.gameObject.SetActive(true);
 
             DisableClicks();
         }
@@ -95,11 +113,18 @@ public class TangaraManager : Singleton<TangaraManager>
 
     public void PlayerLoses()
     {
-        Debug.Log("Errou rude!");
+        _uiWrong.gameObject.SetActive(true);
+        _uiChoose.gameObject.SetActive(false);
+        _uiStart.gameObject.SetActive(true);
 
         _canStart = true;
 
         DisableClicks();
+    }
+
+    public void ActivateUI()
+    {
+        _uiChoose.gameObject.SetActive(true);
     }
 
     #endregion

@@ -58,6 +58,8 @@ public class TangaraDance
             tangara.GetComponent<Collider2D>().enabled = true;
         }
 
+        TangaraManager.Instance.ActivateUI();
+
         _isDancing = false;
     }
 
