@@ -33,4 +33,4 @@ MonoBehaviour:
     MoveSpeed: 15
     FlySpeed: 25
     DelayToMove: 0.1
-    NewAmount: 2
+    NewAmount: 1

@@ -49,6 +49,13 @@ MonoBehaviour:
   _tangaraPrefab: {fileID: 2397553000736148607, guid: 95606315eabd03149809afd799a2446a, type: 3}
   _startingPosition: {fileID: 0}
   _distanceBetween: 3
+  _predefinedPlaces:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   _winSound: {fileID: 11400000, guid: 4ae3daab75291a846aad81689614c269, type: 2}
 --- !u!114 &632573687765384330
 MonoBehaviour:
