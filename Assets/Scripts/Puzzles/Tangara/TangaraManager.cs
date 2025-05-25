@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class TangaraManager : Singleton<TangaraManager>
 {
@@ -8,11 +9,15 @@ public class TangaraManager : Singleton<TangaraManager>
     [SerializeField] private TangaraLevelObject _level;
     [SerializeField] private GameObject _tangaraPrefab;
     [SerializeField] private Transform _startingPosition;
+    [SerializeField] private float _distanceBetween = 1.5f;
 
     private List<GameObject> _tangaras;
     private List<Transform> _places;
 
+    private bool _isReadyToStart = false;
+
     private TangaraDance _dance;
+    private InputAction _startAction;
 
     #endregion
 
@@ -24,13 +29,22 @@ public class TangaraManager : Singleton<TangaraManager>
         _places = CreatePlaces();
 
         _dance = new TangaraDance(this, _tangaras, _places);
+
+        _startAction = InputSystem.actions.FindAction("Jump");
+
+        _isReadyToStart = true;
     }
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space) && !_level.IsFinished)
+        if (_startAction.triggered && _isReadyToStart && !_level.IsFinished)
         {
-            _dance.StartDance(_level.CurrentRound.TotalCycles, _level.CurrentRound.MoveSpeed, _level.CurrentRound.DelayToMove);
+            _isReadyToStart = false;
+
+            _dance.StartDance(_level.CurrentRound.TotalCycles,
+                              _level.CurrentRound.MoveSpeed,
+                              _level.CurrentRound.FlySpeed,
+                              _level.CurrentRound.DelayToMove);
         }
     }
 
@@ -50,11 +64,15 @@ public class TangaraManager : Singleton<TangaraManager>
 
             _dance = new TangaraDance(this, _tangaras, _places);
         }
+
+        _isReadyToStart = true;
     }
 
     public void PlayerLoses()
     {
         Debug.Log("Errou rude!");
+
+        _isReadyToStart = true;
     }
 
     #endregion
@@ -70,7 +88,7 @@ public class TangaraManager : Singleton<TangaraManager>
 
         for (int i = 0; i < _level.StartingNumber; i++)
         {
-            position += new Vector3(1.5f, 0, 0);
+            position += new Vector3(_distanceBetween, 0, 0);
 
             GameObject tangara = Instantiate(_tangaraPrefab, position, Quaternion.identity);
 
@@ -108,7 +126,7 @@ public class TangaraManager : Singleton<TangaraManager>
 
         for (int i = 0; i < amount; i++)
         {
-            position += new Vector3(1.5f, 0, 0);
+            position += new Vector3(_distanceBetween, 0, 0);
 
             GameObject tangara = Instantiate(_tangaraPrefab, position, Quaternion.identity);
 

@@ -46,6 +46,7 @@ public class DanceRound
 {
     public int TotalCycles;
     public float MoveSpeed;
+    public float FlySpeed;
     public float DelayToMove;
     public int NewAmount;
 }
