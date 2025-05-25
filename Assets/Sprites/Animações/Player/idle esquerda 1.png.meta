@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 6ebbe0bcf92ae6143a6ad88fcd040215
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9050077012128606478
+    second: idle esquerda 1_0
+  - first:
+      213: 106841772564093834
+    second: idle esquerda 1_1
+  - first:
+      213: -5627106717885597505
+    second: idle esquerda 1_2
+  - first:
+      213: -4114130597555427987
+    second: idle esquerda 1_3
+  - first:
+      213: -6550772023708204299
+    second: idle esquerda 1_4
+  - first:
+      213: -9122004753521466611
+    second: idle esquerda 1_5
+  - first:
+      213: 440132503946540253
+    second: idle esquerda 1_6
+  - first:
+      213: -7119041943549149307
+    second: idle esquerda 1_7
+  - first:
+      213: -5110007316744680803
+    second: idle esquerda 1_8
+  - first:
+      213: 2470129868338591771
+    second: idle esquerda 1_9
+  - first:
+      213: -680156368432935129
+    second: idle esquerda 1_10
+  - first:
+      213: 6511988103995180104
+    second: idle esquerda 1_11
+  - first:
+      213: 4836135580917152529
+    second: idle esquerda 1_12
+  - first:
+      213: -5918454091380376764
+    second: idle esquerda 1_13
+  - first:
+      213: -2461480695085520980
+    second: idle esquerda 1_14
+  - first:
+      213: -8278739430420491130
+    second: idle esquerda 1_15
+  - first:
+      213: -2431553333182663885
+    second: idle esquerda 1_16
+  - first:
+      213: -3208840557781752351
+    second: idle esquerda 1_17
+  - first:
+      213: -3120684412112183502
+    second: idle esquerda 1_18
+  - first:
+      213: 8895282488993695365
+    second: idle esquerda 1_19
+  - first:
+      213: 6880643915133154499
+    second: idle esquerda 1_20
+  - first:
+      213: -4424907773166220677
+    second: idle esquerda 1_21
+  - first:
+      213: -5858480162293703332
+    second: idle esquerda 1_22
+  - first:
+      213: -8424777523754712501
+    second: idle esquerda 1_23
+  - first:
+      213: 3532463044223466872
+    second: idle esquerda 1_24
+  - first:
+      213: -5414293882463908956
+    second: idle esquerda 1_25
+  - first:
+      213: 7491172285507154829
+    second: idle esquerda 1_26
+  - first:
+      213: 6084849324304399940
+    second: idle esquerda 1_27
+  - first:
+      213: 3947867748840983568
+    second: idle esquerda 1_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle esquerda 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1696
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09aad9d715589d70800000000000000
+      internalID: 9050077012128606478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle esquerda 1_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 344
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b1bdca6049b7100800000000000000
+      internalID: 106841772564093834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle esquerda 1_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 336
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8f637f04088e1b0800000000000000
+      internalID: -5627106717885597505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle esquerda 1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65a425e40ca7e6c0800000000000000
+      internalID: -4114130597555427987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle esquerda 1_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 317
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f24e4a4d8bf615a0800000000000000
+      internalID: -6550772023708204299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle esquerda 1_5
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 312
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03ade2d101286180800000000000000
+      internalID: -9122004753521466611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle esquerda 1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 302
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd436df2e2aab1600800000000000000
+      internalID: 440132503946540253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle esquerda 1_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 289
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f75a51215143d90800000000000000
+      internalID: -7119041943549149307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle esquerda 1_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 308
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a49cd5b6b9519b0800000000000000
+      internalID: -5110007316744680803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle esquerda 1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b187767270aa74220800000000000000
+      internalID: 2470129868338591771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle esquerda 1_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 300
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fc5d3f2699f86f0800000000000000
+      internalID: -680156368432935129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle esquerda 1_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844c338bdaa3f5a50800000000000000
+      internalID: 6511988103995180104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle esquerda 1_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 269
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bb13a10b76d1340800000000000000
+      internalID: 4836135580917152529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle esquerda 1_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 277
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bb0d77c5d6ddda0800000000000000
+      internalID: -5918454091380376764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle esquerda 1_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 272
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca722fb695017ddd0800000000000000
+      internalID: -2461480695085520980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle esquerda 1_15
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 259
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68454c5c9520c1d80800000000000000
+      internalID: -8278739430420491130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle esquerda 1_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 264
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333fa3b5023614ed0800000000000000
+      internalID: -2431553333182663885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle esquerda 1_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 233
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e56d8c8388e773d0800000000000000
+      internalID: -3208840557781752351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle esquerda 1_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 240
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f54ffaf0a11b4d0800000000000000
+      internalID: -3120684412112183502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle esquerda 1_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 228
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586c8356b44627b70800000000000000
+      internalID: 8895282488993695365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle esquerda 1_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 228
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4f6738f25fc7f50800000000000000
+      internalID: 6880643915133154499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle esquerda 1_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 187
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a009013d19792c0800000000000000
+      internalID: -4424907773166220677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle esquerda 1_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 176
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d9fcaf45f72bea0800000000000000
+      internalID: -5858480162293703332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle esquerda 1_23
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 174
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42c7e08a7d251b80800000000000000
+      internalID: -8424777523754712501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle esquerda 1_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 175
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d72254c64d50130800000000000000
+      internalID: 3532463044223466872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle esquerda 1_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 162
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab0b2a66609cd4b0800000000000000
+      internalID: -5414293882463908956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle esquerda 1_26
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 165
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83b7e4f08df5f760800000000000000
+      internalID: 7491172285507154829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle esquerda 1_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 149
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e70f6b83ab17450800000000000000
+      internalID: 6084849324304399940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle esquerda 1_28
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 0
+        width: 107
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c43e50dc4a9c630800000000000000
+      internalID: 3947867748840983568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      idle esquerda 1_0: 9050077012128606478
+      idle esquerda 1_1: 106841772564093834
+      idle esquerda 1_10: -680156368432935129
+      idle esquerda 1_11: 6511988103995180104
+      idle esquerda 1_12: 4836135580917152529
+      idle esquerda 1_13: -5918454091380376764
+      idle esquerda 1_14: -2461480695085520980
+      idle esquerda 1_15: -8278739430420491130
+      idle esquerda 1_16: -2431553333182663885
+      idle esquerda 1_17: -3208840557781752351
+      idle esquerda 1_18: -3120684412112183502
+      idle esquerda 1_19: 8895282488993695365
+      idle esquerda 1_2: -5627106717885597505
+      idle esquerda 1_20: 6880643915133154499
+      idle esquerda 1_21: -4424907773166220677
+      idle esquerda 1_22: -5858480162293703332
+      idle esquerda 1_23: -8424777523754712501
+      idle esquerda 1_24: 3532463044223466872
+      idle esquerda 1_25: -5414293882463908956
+      idle esquerda 1_26: 7491172285507154829
+      idle esquerda 1_27: 6084849324304399940
+      idle esquerda 1_28: 3947867748840983568
+      idle esquerda 1_3: -4114130597555427987
+      idle esquerda 1_4: -6550772023708204299
+      idle esquerda 1_5: -9122004753521466611
+      idle esquerda 1_6: 440132503946540253
+      idle esquerda 1_7: -7119041943549149307
+      idle esquerda 1_8: -5110007316744680803
+      idle esquerda 1_9: 2470129868338591771
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: 48390d1be9dce904ba4db5f091722694
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1678987040914302250
+    second: fim voo direito 1_0
+  - first:
+      213: 8472634183369613705
+    second: fim voo direito 1_1
+  - first:
+      213: 7797028128680782439
+    second: fim voo direito 1_2
+  - first:
+      213: -6757918725862906541
+    second: fim voo direito 1_3
+  - first:
+      213: -2692613214071809132
+    second: fim voo direito 1_4
+  - first:
+      213: 4495674921483151495
+    second: fim voo direito 1_5
+  - first:
+      213: 474665243466500950
+    second: fim voo direito 1_6
+  - first:
+      213: -493570445065644697
+    second: fim voo direito 1_7
+  - first:
+      213: 4768745011593484847
+    second: fim voo direito 1_8
+  - first:
+      213: 4230566416011218064
+    second: fim voo direito 1_9
+  - first:
+      213: -3135382489311494847
+    second: fim voo direito 1_10
+  - first:
+      213: 2281295924899196894
+    second: fim voo direito 1_11
+  - first:
+      213: 1966141783580040401
+    second: fim voo direito 1_12
+  - first:
+      213: 594077001016286195
+    second: fim voo direito 1_13
+  - first:
+      213: 3672476495496730391
+    second: fim voo direito 1_14
+  - first:
+      213: 3841886468551997235
+    second: fim voo direito 1_15
+  - first:
+      213: 2967436477564077425
+    second: fim voo direito 1_16
+  - first:
+      213: 7650365167948481086
+    second: fim voo direito 1_17
+  - first:
+      213: -3183820634153431124
+    second: fim voo direito 1_18
+  - first:
+      213: 933567019280439467
+    second: fim voo direito 1_19
+  - first:
+      213: -6385613004148724154
+    second: fim voo direito 1_20
+  - first:
+      213: -1092624829370691835
+    second: fim voo direito 1_21
+  - first:
+      213: -8953583913293740774
+    second: fim voo direito 1_22
+  - first:
+      213: 6111076489170997336
+    second: fim voo direito 1_23
+  - first:
+      213: 1849217936279047030
+    second: fim voo direito 1_24
+  - first:
+      213: 4912959822532081951
+    second: fim voo direito 1_25
+  - first:
+      213: 795236843358023587
+    second: fim voo direito 1_26
+  - first:
+      213: 5089023769993271177
+    second: fim voo direito 1_27
+  - first:
+      213: -9192861228397653801
+    second: fim voo direito 1_28
+  - first:
+      213: 425941293259353118
+    second: fim voo direito 1_29
+  - first:
+      213: -6890342620907473982
+    second: fim voo direito 1_30
+  - first:
+      213: 4603526478443197657
+    second: fim voo direito 1_31
+  - first:
+      213: 864217158458007488
+    second: fim voo direito 1_32
+  - first:
+      213: -4280881155711054488
+    second: fim voo direito 1_33
+  - first:
+      213: -8687740499179828546
+    second: fim voo direito 1_34
+  - first:
+      213: -2127770100410153866
+    second: fim voo direito 1_35
+  - first:
+      213: -1120433927893459983
+    second: fim voo direito 1_36
+  - first:
+      213: 1662311559383436061
+    second: fim voo direito 1_37
+  - first:
+      213: -330660593970573481
+    second: fim voo direito 1_38
+  - first:
+      213: -2295258185395226992
+    second: fim voo direito 1_39
+  - first:
+      213: 2389878412128840982
+    second: fim voo direito 1_40
+  - first:
+      213: -7080511224068795138
+    second: fim voo direito 1_41
+  - first:
+      213: -6481163439698627479
+    second: fim voo direito 1_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fim voo direito 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1872
+        height: 1392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da91d39e2a03b8e0800000000000000
+      internalID: -1678987040914302250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1319
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981e39b56e7d49570800000000000000
+      internalID: 8472634183369613705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1385
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a2fb9c5cb943c60800000000000000
+      internalID: 7797028128680782439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_3
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1362
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3552bfb49bc0732a0800000000000000
+      internalID: -6757918725862906541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_4
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1361
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b1ab14c8ae1aad0800000000000000
+      internalID: -2692613214071809132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_5
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1364
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788a2a0a588d36e30800000000000000
+      internalID: 4495674921483151495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_6
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1370
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b8b082689569600800000000000000
+      internalID: 474665243466500950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_7
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1359
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7651b369b4c7629f0800000000000000
+      internalID: -493570445065644697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_8
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1375
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a1278725cfd2240800000000000000
+      internalID: 4768745011593484847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_9
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1364
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ccb09adbdf5ba30800000000000000
+      internalID: 4230566416011218064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_10
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1365
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dbb99ec32ec74d0800000000000000
+      internalID: -3135382489311494847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_11
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1370
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfa92f8e8ac8af10800000000000000
+      internalID: 2281295924899196894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_12
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1364
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc575cf883294b10800000000000000
+      internalID: 1966141783580040401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_13
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1354
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb1ec682e59e3800800000000000000
+      internalID: 594077001016286195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_14
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1359
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717dd004ae147f230800000000000000
+      internalID: 3672476495496730391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_15
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1383
+        width: 61
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337fb61536f115530800000000000000
+      internalID: 3841886468551997235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_16
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1375
+        width: 54
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1754eb211c37e2920800000000000000
+      internalID: 2967436477564077425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_17
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1346
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32479d369e8b2a60800000000000000
+      internalID: 7650365167948481086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1295
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafc9b8700cc0d3d0800000000000000
+      internalID: -3183820634153431124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_19
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1309
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba81b3ef142b4fc00800000000000000
+      internalID: 933567019280439467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1247
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ea99e1eceb167a0800000000000000
+      internalID: -6385613004148724154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1291
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f8694b18736d0f0800000000000000
+      internalID: -1092624829370691835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 644
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1589757eda7eb380800000000000000
+      internalID: -8953583913293740774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 615
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850574460b7eec450800000000000000
+      internalID: 6111076489170997336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 627
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b813c5aedb9a910800000000000000
+      internalID: 1849217936279047030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_25
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 617
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f197ac9bde65e2440800000000000000
+      internalID: 4912959822532081951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 590
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af68a812bf390b00800000000000000
+      internalID: 795236843358023587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_27
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 586
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987d7ffe728df9640800000000000000
+      internalID: 5089023769993271177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 579
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d095eb2b656c6080800000000000000
+      internalID: -9192861228397653801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ce4e7795f39e500800000000000000
+      internalID: 425941293259353118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 532
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3731494e59060a0800000000000000
+      internalID: -6890342620907473982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_31
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 520
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d436bd01f203ef30800000000000000
+      internalID: 4603526478443197657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfdfa24de05efb00800000000000000
+      internalID: 864217158458007488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 437
+        width: 12
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86dcd2c15414794c0800000000000000
+      internalID: -4280881155711054488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_34
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 495
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba8c9dab02fe6780800000000000000
+      internalID: -8687740499179828546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6740b59fd54a872e0800000000000000
+      internalID: -2127770100410153866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 422
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb5d95674b6370f0800000000000000
+      internalID: -1120433927893459983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_37
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 431
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b43135e87b11710800000000000000
+      internalID: 1662311559383436061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 413
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f0a2311f1496bf0800000000000000
+      internalID: -330660593970573481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 19
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096b5b757da9520e0800000000000000
+      internalID: -2295258185395226992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d6053f0cd8a2120800000000000000
+      internalID: 2389878412128840982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4963d4e88fcbd90800000000000000
+      internalID: -7080511224068795138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fim voo direito 1_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964b385b0384e06a0800000000000000
+      internalID: -6481163439698627479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fim voo direito 1_0: -1678987040914302250
+      fim voo direito 1_1: 8472634183369613705
+      fim voo direito 1_10: -3135382489311494847
+      fim voo direito 1_11: 2281295924899196894
+      fim voo direito 1_12: 1966141783580040401
+      fim voo direito 1_13: 594077001016286195
+      fim voo direito 1_14: 3672476495496730391
+      fim voo direito 1_15: 3841886468551997235
+      fim voo direito 1_16: 2967436477564077425
+      fim voo direito 1_17: 7650365167948481086
+      fim voo direito 1_18: -3183820634153431124
+      fim voo direito 1_19: 933567019280439467
+      fim voo direito 1_2: 7797028128680782439
+      fim voo direito 1_20: -6385613004148724154
+      fim voo direito 1_21: -1092624829370691835
+      fim voo direito 1_22: -8953583913293740774
+      fim voo direito 1_23: 6111076489170997336
+      fim voo direito 1_24: 1849217936279047030
+      fim voo direito 1_25: 4912959822532081951
+      fim voo direito 1_26: 795236843358023587
+      fim voo direito 1_27: 5089023769993271177
+      fim voo direito 1_28: -9192861228397653801
+      fim voo direito 1_29: 425941293259353118
+      fim voo direito 1_3: -6757918725862906541
+      fim voo direito 1_30: -6890342620907473982
+      fim voo direito 1_31: 4603526478443197657
+      fim voo direito 1_32: 864217158458007488
+      fim voo direito 1_33: -4280881155711054488
+      fim voo direito 1_34: -8687740499179828546
+      fim voo direito 1_35: -2127770100410153866
+      fim voo direito 1_36: -1120433927893459983
+      fim voo direito 1_37: 1662311559383436061
+      fim voo direito 1_38: -330660593970573481
+      fim voo direito 1_39: -2295258185395226992
+      fim voo direito 1_4: -2692613214071809132
+      fim voo direito 1_40: 2389878412128840982
+      fim voo direito 1_41: -7080511224068795138
+      fim voo direito 1_42: -6481163439698627479
+      fim voo direito 1_5: 4495674921483151495
+      fim voo direito 1_6: 474665243466500950
+      fim voo direito 1_7: -493570445065644697
+      fim voo direito 1_8: 4768745011593484847
+      fim voo direito 1_9: 4230566416011218064
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

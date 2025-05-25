@@ -79,4 +79,3 @@ Packages/packages-lock.json
 Assets/Third Party/AllIn1SpriteShader/Shaders/AllIn1SpriteShaderLit.shader
 Assets/Third Party/AllIn1SpriteShader/2DRenderer-URP-pre2021.2.unitypackage.meta
 Assets/Third Party/AllIn1SpriteShader/2DRenderer-URP-2021.2plus.unitypackage.meta
-*.meta

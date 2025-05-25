@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: 4ff3ada4618fd004bab3f648e69b6a33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1069014675123024729
+    second: comeco voo direito 1_0
+  - first:
+      213: 3176124002299456372
+    second: comeco voo direito 1_1
+  - first:
+      213: -1126373694225148991
+    second: comeco voo direito 1_2
+  - first:
+      213: -9162973557893697076
+    second: comeco voo direito 1_3
+  - first:
+      213: 1704721096222873361
+    second: comeco voo direito 1_4
+  - first:
+      213: 550741776468397651
+    second: comeco voo direito 1_5
+  - first:
+      213: -8097817686441823196
+    second: comeco voo direito 1_6
+  - first:
+      213: -7489559959190743821
+    second: comeco voo direito 1_7
+  - first:
+      213: -8205307347979589682
+    second: comeco voo direito 1_8
+  - first:
+      213: 5909815658322194197
+    second: comeco voo direito 1_9
+  - first:
+      213: -7180979685148361201
+    second: comeco voo direito 1_10
+  - first:
+      213: -5222134156851183985
+    second: comeco voo direito 1_11
+  - first:
+      213: -2686618987281227662
+    second: comeco voo direito 1_12
+  - first:
+      213: -1867636992549272993
+    second: comeco voo direito 1_13
+  - first:
+      213: -8791493104647876526
+    second: comeco voo direito 1_14
+  - first:
+      213: -5876641673595559715
+    second: comeco voo direito 1_15
+  - first:
+      213: -5018334081219023724
+    second: comeco voo direito 1_16
+  - first:
+      213: -2315841510244089781
+    second: comeco voo direito 1_17
+  - first:
+      213: 4446362381657743395
+    second: comeco voo direito 1_18
+  - first:
+      213: -748442199479928277
+    second: comeco voo direito 1_19
+  - first:
+      213: 1007753328934248916
+    second: comeco voo direito 1_20
+  - first:
+      213: 88264765468225964
+    second: comeco voo direito 1_21
+  - first:
+      213: -5422319177494141011
+    second: comeco voo direito 1_22
+  - first:
+      213: -4039761060549647656
+    second: comeco voo direito 1_23
+  - first:
+      213: -8426985643339339811
+    second: comeco voo direito 1_24
+  - first:
+      213: -5549198661963419476
+    second: comeco voo direito 1_25
+  - first:
+      213: 4387687677175282929
+    second: comeco voo direito 1_26
+  - first:
+      213: 216537983321974254
+    second: comeco voo direito 1_27
+  - first:
+      213: 728352510107330092
+    second: comeco voo direito 1_28
+  - first:
+      213: 778045176264998640
+    second: comeco voo direito 1_29
+  - first:
+      213: -1711822596514095517
+    second: comeco voo direito 1_30
+  - first:
+      213: -1398781853971888735
+    second: comeco voo direito 1_31
+  - first:
+      213: 2031095279685497955
+    second: comeco voo direito 1_32
+  - first:
+      213: 2415537978183427324
+    second: comeco voo direito 1_33
+  - first:
+      213: -3687210047409515924
+    second: comeco voo direito 1_34
+  - first:
+      213: 4784932071724165283
+    second: comeco voo direito 1_35
+  - first:
+      213: 5410585731119907702
+    second: comeco voo direito 1_36
+  - first:
+      213: -998923658237515438
+    second: comeco voo direito 1_37
+  - first:
+      213: -1255292356258610620
+    second: comeco voo direito 1_38
+  - first:
+      213: 4641813088959741208
+    second: comeco voo direito 1_39
+  - first:
+      213: -5639150201009624703
+    second: comeco voo direito 1_40
+  - first:
+      213: 1487255190171198122
+    second: comeco voo direito 1_41
+  - first:
+      213: 917855046019924303
+    second: comeco voo direito 1_42
+  - first:
+      213: 1574689868867877799
+    second: comeco voo direito 1_43
+  - first:
+      213: -4790053363947229301
+    second: comeco voo direito 1_44
+  - first:
+      213: 4096323416793906571
+    second: comeco voo direito 1_45
+  - first:
+      213: 1887833924704180758
+    second: comeco voo direito 1_46
+  - first:
+      213: -8638777531718896536
+    second: comeco voo direito 1_47
+  - first:
+      213: -2113052161280819773
+    second: comeco voo direito 1_48
+  - first:
+      213: -895787077334124530
+    second: comeco voo direito 1_49
+  - first:
+      213: 8357723658575279922
+    second: comeco voo direito 1_50
+  - first:
+      213: 7251741977105612830
+    second: comeco voo direito 1_51
+  - first:
+      213: 5441605132485844928
+    second: comeco voo direito 1_52
+  - first:
+      213: 235155364053190911
+    second: comeco voo direito 1_53
+  - first:
+      213: 6985122192526804242
+    second: comeco voo direito 1_54
+  - first:
+      213: 8391064025887541984
+    second: comeco voo direito 1_55
+  - first:
+      213: 6883128539947573305
+    second: comeco voo direito 1_56
+  - first:
+      213: 1637220220810866178
+    second: comeco voo direito 1_57
+  - first:
+      213: 7074521008633682691
+    second: comeco voo direito 1_58
+  - first:
+      213: -4264843023216671595
+    second: comeco voo direito 1_59
+  - first:
+      213: -1267675136176862131
+    second: comeco voo direito 1_60
+  - first:
+      213: -8174069797797301108
+    second: comeco voo direito 1_61
+  - first:
+      213: -8130341255115433384
+    second: comeco voo direito 1_62
+  - first:
+      213: -6805113833222718902
+    second: comeco voo direito 1_63
+  - first:
+      213: -7115153769703666571
+    second: comeco voo direito 1_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: comeco voo direito 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1410
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7accc9d11d81a21f0800000000000000
+      internalID: -1069014675123024729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1393
+        width: 90
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ba6a7c3fbd31c20800000000000000
+      internalID: 3176124002299456372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_2
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1399
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c39d57c7115e50f0800000000000000
+      internalID: -1126373694225148991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1289
+        width: 123
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1f27bb81496d080800000000000000
+      internalID: -9162973557893697076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_4
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1361
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1179a751ec268a710800000000000000
+      internalID: 1704721096222873361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_5
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1400
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ecd5d4ab0a4a700800000000000000
+      internalID: 550741776468397651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_6
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1280
+        width: 387
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42472cfd7b5ce9f80800000000000000
+      internalID: -8097817686441823196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_7
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1367
+        width: 196
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4527406ecbf0890800000000000000
+      internalID: -7489559959190743821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_8
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1417
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec726cac074e02e80800000000000000
+      internalID: -8205307347979589682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_9
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1388
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fe55a9702e30250800000000000000
+      internalID: 5909815658322194197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_10
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1386
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e7f67d509085c90800000000000000
+      internalID: -7180979685148361201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_11
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1391
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e737307a04787b0800000000000000
+      internalID: -5222134156851183985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1395
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2706840f34637bad0800000000000000
+      internalID: -2686618987281227662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_13
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1372
+        width: 82
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52c8b9ec02d416e0800000000000000
+      internalID: -1867636992549272993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_14
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1372
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250da24c9975ef580800000000000000
+      internalID: -8791493104647876526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_15
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1385
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0641d9889f17ea0800000000000000
+      internalID: -5876641673595559715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_16
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1365
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c24bccdbb4b5ab0800000000000000
+      internalID: -5018334081219023724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_17
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 1379
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b400cc19a6a7cdfd0800000000000000
+      internalID: -2315841510244089781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1821
+        height: 1376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320ae5d3707a4bd30800000000000000
+      internalID: 4446362381657743395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_19
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1374
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a3615f8cffc95f0800000000000000
+      internalID: -748442199479928277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_20
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1354
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1e75830524cfd00800000000000000
+      internalID: 1007753328934248916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_21
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1345
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1bae72654993100800000000000000
+      internalID: 88264765468225964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_22
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da76caecf6d00c4b0800000000000000
+      internalID: -5422319177494141011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_23
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1351
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2ab7018b2efe7c0800000000000000
+      internalID: -4039761060549647656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_24
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1294
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7217994355d0b80800000000000000
+      internalID: -8426985643339339811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_25
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1345
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0f895c7394df2b0800000000000000
+      internalID: -5549198661963419476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_26
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 1345
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc346702b234ec30800000000000000
+      internalID: 4387687677175282929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_27
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1339
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee52948062c410300800000000000000
+      internalID: 216537983321974254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_28
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1303
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26263cbfb0ab1a00800000000000000
+      internalID: 728352510107330092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_29
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1317
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe3b7e27fb2cca00800000000000000
+      internalID: 778045176264998640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_30
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1331
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e5a480b626e38e0800000000000000
+      internalID: -1711822596514095517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_31
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1310
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a54ebb9057869ce0800000000000000
+      internalID: -1398781853971888735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_32
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1280
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36470aa4566ef2c10800000000000000
+      internalID: 2031095279685497955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_33
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1279
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4a61b3ef6b58120800000000000000
+      internalID: 2415537978183427324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_34
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1291
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6297ef5ff564dcc0800000000000000
+      internalID: -3687210047409515924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_35
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1291
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a82e791e5e776240800000000000000
+      internalID: 4784932071724165283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_36
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1279
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67303325e03461b40800000000000000
+      internalID: 5410585731119907702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_37
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1275
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259e401b93c1322f0800000000000000
+      internalID: -998923658237515438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_38
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1277
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44241f7b04e449ee0800000000000000
+      internalID: -1255292356258610620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_39
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1208
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d343939680b6040800000000000000
+      internalID: 4641813088959741208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_40
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1196
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189afb905c6bdb1b0800000000000000
+      internalID: -5639150201009624703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_41
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1169
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2a28437bac3a410800000000000000
+      internalID: 1487255190171198122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_42
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1077
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4141552d40ecbc00800000000000000
+      internalID: 917855046019924303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_43
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 901
+        width: 27
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abb649b71c6ad510800000000000000
+      internalID: 1574689868867877799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_44
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 836
+        width: 5
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fa2c228df468db0800000000000000
+      internalID: -4790053363947229301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_45
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 295
+        width: 59
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d7d1fb17019d830800000000000000
+      internalID: 4096323416793906571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_46
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a9cecc3fee23a10800000000000000
+      internalID: 1887833924704180758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_47
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 0
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864f448ea95ec1880800000000000000
+      internalID: -8638777531718896536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_48
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd3cf6314eeca2e0800000000000000
+      internalID: -2113052161280819773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_49
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 0
+        width: 291
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e083d1536668193f0800000000000000
+      internalID: -895787077334124530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_50
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237f148e2699cf370800000000000000
+      internalID: 8357723658575279922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_51
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 0
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e104b2428ec53a460800000000000000
+      internalID: 7251741977105612830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_52
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 6
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfd2c18907748b40800000000000000
+      internalID: 5441605132485844928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_53
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 45
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff80b65ce80734300800000000000000
+      internalID: 235155364053190911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_54
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 0
+        width: 86
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215024610a320f060800000000000000
+      internalID: 6985122192526804242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_55
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 128
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea0696164c037470800000000000000
+      internalID: 8391064025887541984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_56
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 0
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930adee40f8c58f50800000000000000
+      internalID: 6883128539947573305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_57
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 67
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ea480dd1398b610800000000000000
+      internalID: 1637220220810866178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_58
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 108
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b16abff5fbd2260800000000000000
+      internalID: 7074521008633682691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_59
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 46
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5940e52dddb30d4c0800000000000000
+      internalID: -4264843023216671595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_60
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 125
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c45991e20586ee0800000000000000
+      internalID: -1267675136176862131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_61
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 29
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84fa05b3dedf8e80800000000000000
+      internalID: -8174069797797301108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_62
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 87
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a142274b93b2f80800000000000000
+      internalID: -8130341255115433384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_63
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 22
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ab9a216016f81a0800000000000000
+      internalID: -6805113833222718902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comeco voo direito 1_64
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 108
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c088a1855e14d90800000000000000
+      internalID: -7115153769703666571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      comeco voo direito 1_0: -1069014675123024729
+      comeco voo direito 1_1: 3176124002299456372
+      comeco voo direito 1_10: -7180979685148361201
+      comeco voo direito 1_11: -5222134156851183985
+      comeco voo direito 1_12: -2686618987281227662
+      comeco voo direito 1_13: -1867636992549272993
+      comeco voo direito 1_14: -8791493104647876526
+      comeco voo direito 1_15: -5876641673595559715
+      comeco voo direito 1_16: -5018334081219023724
+      comeco voo direito 1_17: -2315841510244089781
+      comeco voo direito 1_18: 4446362381657743395
+      comeco voo direito 1_19: -748442199479928277
+      comeco voo direito 1_2: -1126373694225148991
+      comeco voo direito 1_20: 1007753328934248916
+      comeco voo direito 1_21: 88264765468225964
+      comeco voo direito 1_22: -5422319177494141011
+      comeco voo direito 1_23: -4039761060549647656
+      comeco voo direito 1_24: -8426985643339339811
+      comeco voo direito 1_25: -5549198661963419476
+      comeco voo direito 1_26: 4387687677175282929
+      comeco voo direito 1_27: 216537983321974254
+      comeco voo direito 1_28: 728352510107330092
+      comeco voo direito 1_29: 778045176264998640
+      comeco voo direito 1_3: -9162973557893697076
+      comeco voo direito 1_30: -1711822596514095517
+      comeco voo direito 1_31: -1398781853971888735
+      comeco voo direito 1_32: 2031095279685497955
+      comeco voo direito 1_33: 2415537978183427324
+      comeco voo direito 1_34: -3687210047409515924
+      comeco voo direito 1_35: 4784932071724165283
+      comeco voo direito 1_36: 5410585731119907702
+      comeco voo direito 1_37: -998923658237515438
+      comeco voo direito 1_38: -1255292356258610620
+      comeco voo direito 1_39: 4641813088959741208
+      comeco voo direito 1_4: 1704721096222873361
+      comeco voo direito 1_40: -5639150201009624703
+      comeco voo direito 1_41: 1487255190171198122
+      comeco voo direito 1_42: 917855046019924303
+      comeco voo direito 1_43: 1574689868867877799
+      comeco voo direito 1_44: -4790053363947229301
+      comeco voo direito 1_45: 4096323416793906571
+      comeco voo direito 1_46: 1887833924704180758
+      comeco voo direito 1_47: -8638777531718896536
+      comeco voo direito 1_48: -2113052161280819773
+      comeco voo direito 1_49: -895787077334124530
+      comeco voo direito 1_5: 550741776468397651
+      comeco voo direito 1_50: 8357723658575279922
+      comeco voo direito 1_51: 7251741977105612830
+      comeco voo direito 1_52: 5441605132485844928
+      comeco voo direito 1_53: 235155364053190911
+      comeco voo direito 1_54: 6985122192526804242
+      comeco voo direito 1_55: 8391064025887541984
+      comeco voo direito 1_56: 6883128539947573305
+      comeco voo direito 1_57: 1637220220810866178
+      comeco voo direito 1_58: 7074521008633682691
+      comeco voo direito 1_59: -4264843023216671595
+      comeco voo direito 1_6: -8097817686441823196
+      comeco voo direito 1_60: -1267675136176862131
+      comeco voo direito 1_61: -8174069797797301108
+      comeco voo direito 1_62: -8130341255115433384
+      comeco voo direito 1_63: -6805113833222718902
+      comeco voo direito 1_64: -7115153769703666571
+      comeco voo direito 1_7: -7489559959190743821
+      comeco voo direito 1_8: -8205307347979589682
+      comeco voo direito 1_9: 5909815658322194197
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

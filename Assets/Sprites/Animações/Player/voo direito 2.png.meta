@@ -1,0 +1,1144 @@
+fileFormatVersion: 2
+guid: 3bc30ee4906bc5a44b41f90b6aa0d029
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5847039871206463572
+    second: voo direito 2_0
+  - first:
+      213: 1291550359815658055
+    second: voo direito 2_1
+  - first:
+      213: 218435211754354046
+    second: voo direito 2_2
+  - first:
+      213: 7314505609530741330
+    second: voo direito 2_3
+  - first:
+      213: -8460320877380337118
+    second: voo direito 2_4
+  - first:
+      213: 6413679984321833736
+    second: voo direito 2_5
+  - first:
+      213: -1800122217561593224
+    second: voo direito 2_6
+  - first:
+      213: 8836620773285524060
+    second: voo direito 2_7
+  - first:
+      213: -171030417763059957
+    second: voo direito 2_8
+  - first:
+      213: 4949515756706080838
+    second: voo direito 2_9
+  - first:
+      213: -8280325213688189841
+    second: voo direito 2_10
+  - first:
+      213: 9085349399554215922
+    second: voo direito 2_11
+  - first:
+      213: -3337268004937647326
+    second: voo direito 2_12
+  - first:
+      213: 1375206965819287304
+    second: voo direito 2_13
+  - first:
+      213: -1451964498193149305
+    second: voo direito 2_14
+  - first:
+      213: -600083573163973531
+    second: voo direito 2_15
+  - first:
+      213: 8299423464606740950
+    second: voo direito 2_16
+  - first:
+      213: -2399791379714387304
+    second: voo direito 2_17
+  - first:
+      213: 4104051622468501820
+    second: voo direito 2_18
+  - first:
+      213: 4839905945616781862
+    second: voo direito 2_19
+  - first:
+      213: -1173075990101799383
+    second: voo direito 2_20
+  - first:
+      213: 4558648215954917359
+    second: voo direito 2_21
+  - first:
+      213: 405942301444655906
+    second: voo direito 2_22
+  - first:
+      213: -4708786431646953968
+    second: voo direito 2_23
+  - first:
+      213: -3774297689580332440
+    second: voo direito 2_24
+  - first:
+      213: -6095132563876182858
+    second: voo direito 2_25
+  - first:
+      213: -1284184508977941868
+    second: voo direito 2_26
+  - first:
+      213: -2196006457461032621
+    second: voo direito 2_27
+  - first:
+      213: 3372598994301812387
+    second: voo direito 2_28
+  - first:
+      213: 1755760083073368226
+    second: voo direito 2_29
+  - first:
+      213: 6245192972106067808
+    second: voo direito 2_30
+  - first:
+      213: 8478548292452641572
+    second: voo direito 2_31
+  - first:
+      213: 1986566460068181785
+    second: voo direito 2_32
+  - first:
+      213: -3634476682038033750
+    second: voo direito 2_33
+  - first:
+      213: -6533653695897976931
+    second: voo direito 2_34
+  - first:
+      213: 1328575679335940389
+    second: voo direito 2_35
+  - first:
+      213: -2388926219929159483
+    second: voo direito 2_36
+  - first:
+      213: -7373038827166489003
+    second: voo direito 2_37
+  - first:
+      213: -5737983029143181578
+    second: voo direito 2_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: voo direito 2_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 1972
+        height: 1568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7613157342bdea0800000000000000
+      internalID: -5847039871206463572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_1
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 1455
+        width: 38
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a175695328ce110800000000000000
+      internalID: 1291550359815658055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_2
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 837
+        width: 37
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e753e03faa9080300800000000000000
+      internalID: 218435211754354046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_3
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 903
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2529ea31918528560800000000000000
+      internalID: 7314505609530741330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_4
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 860
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2228ce99cf6e69a80800000000000000
+      internalID: -8460320877380337118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_5
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 867
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b2980f6f7f10950800000000000000
+      internalID: 6413679984321833736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_6
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 368
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ae3fd616ea407e0800000000000000
+      internalID: -1800122217561593224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 178
+        width: 88
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52758e56cbf1aa70800000000000000
+      internalID: 8836620773285524060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_8
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 205
+        width: 87
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07327fbdb060adf0800000000000000
+      internalID: -171030417763059957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_9
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 126
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6482aa86b5630b440800000000000000
+      internalID: 4949515756706080838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_10
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 96
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ca765d610661d80800000000000000
+      internalID: -8280325213688189841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_11
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 95
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffccb48425a51e70800000000000000
+      internalID: 9085349399554215922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_12
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 87
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b3a6d5e64afa1d0800000000000000
+      internalID: -3337268004937647326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_13
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 82
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8072d420377b51310800000000000000
+      internalID: 1375206965819287304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_14
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 0
+        width: 105
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78218b25bf599dbe0800000000000000
+      internalID: -1451964498193149305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_15
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 57
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564a30a6b231ca7f0800000000000000
+      internalID: -600083573163973531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_16
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 63
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d13d683ba97d2370800000000000000
+      internalID: 8299423464606740950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_17
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 57
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892541d647a32bed0800000000000000
+      internalID: -2399791379714387304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_18
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 59
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31c919d43584f830800000000000000
+      internalID: 4104051622468501820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_19
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 49
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6221aca80dcca2340800000000000000
+      internalID: 4839905945616781862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_20
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 47
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e417b2a9568bfe0800000000000000
+      internalID: -1173075990101799383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_21
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 0
+        width: 94
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe706ff4662934f30800000000000000
+      internalID: 4558648215954917359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_22
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 42
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bc9e45f5232a500800000000000000
+      internalID: 405942301444655906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_23
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 42
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e018a40b707aeb0800000000000000
+      internalID: -4708786431646953968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_24
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 43
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a9cf79f300f9bc0800000000000000
+      internalID: -3774297689580332440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_25
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 46
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b48e3ff93db96ba0800000000000000
+      internalID: -6095132563876182858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_26
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 0
+        width: 71
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4927f443ef8ad2ee0800000000000000
+      internalID: -1284184508977941868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_27
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 35
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359329a03c73681e0800000000000000
+      internalID: -2196006457461032621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_28
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 32
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aef231aae0edce20800000000000000
+      internalID: 3372598994301812387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_29
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 39
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0066e3e76bd5810800000000000000
+      internalID: 1755760083073368226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_30
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 38
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fe5207be16ba650800000000000000
+      internalID: 6245192972106067808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_31
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b62ae20cad9a570800000000000000
+      internalID: 8478548292452641572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_32
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 23
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917b11f8ba3b19b10800000000000000
+      internalID: 1986566460068181785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_33
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 25
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2cea6c6bebf8dc0800000000000000
+      internalID: -3634476682038033750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_34
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 10
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f3592949cc355a0800000000000000
+      internalID: -6533653695897976931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_35
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 54
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521ca009a8c007210800000000000000
+      internalID: 1328575679335940389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_36
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 9
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c871829244d8ded0800000000000000
+      internalID: -2388926219929159483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_37
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556249f2044bda990800000000000000
+      internalID: -7373038827166489003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voo direito 2_38
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f663bc06d69e50b0800000000000000
+      internalID: -5737983029143181578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      voo direito 2_0: -5847039871206463572
+      voo direito 2_1: 1291550359815658055
+      voo direito 2_10: -8280325213688189841
+      voo direito 2_11: 9085349399554215922
+      voo direito 2_12: -3337268004937647326
+      voo direito 2_13: 1375206965819287304
+      voo direito 2_14: -1451964498193149305
+      voo direito 2_15: -600083573163973531
+      voo direito 2_16: 8299423464606740950
+      voo direito 2_17: -2399791379714387304
+      voo direito 2_18: 4104051622468501820
+      voo direito 2_19: 4839905945616781862
+      voo direito 2_2: 218435211754354046
+      voo direito 2_20: -1173075990101799383
+      voo direito 2_21: 4558648215954917359
+      voo direito 2_22: 405942301444655906
+      voo direito 2_23: -4708786431646953968
+      voo direito 2_24: -3774297689580332440
+      voo direito 2_25: -6095132563876182858
+      voo direito 2_26: -1284184508977941868
+      voo direito 2_27: -2196006457461032621
+      voo direito 2_28: 3372598994301812387
+      voo direito 2_29: 1755760083073368226
+      voo direito 2_3: 7314505609530741330
+      voo direito 2_30: 6245192972106067808
+      voo direito 2_31: 8478548292452641572
+      voo direito 2_32: 1986566460068181785
+      voo direito 2_33: -3634476682038033750
+      voo direito 2_34: -6533653695897976931
+      voo direito 2_35: 1328575679335940389
+      voo direito 2_36: -2388926219929159483
+      voo direito 2_37: -7373038827166489003
+      voo direito 2_38: -5737983029143181578
+      voo direito 2_4: -8460320877380337118
+      voo direito 2_5: 6413679984321833736
+      voo direito 2_6: -1800122217561593224
+      voo direito 2_7: 8836620773285524060
+      voo direito 2_8: -171030417763059957
+      voo direito 2_9: 4949515756706080838
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

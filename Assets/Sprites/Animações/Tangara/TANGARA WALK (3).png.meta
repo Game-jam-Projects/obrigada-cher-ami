@@ -1,0 +1,1530 @@
+fileFormatVersion: 2
+guid: 788e454afe126cc499c6a44802ed8b25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -217053043071582728
+    second: TANGARA WALK (3)_0
+  - first:
+      213: 5921306558242028189
+    second: TANGARA WALK (3)_1
+  - first:
+      213: -6716336362912027625
+    second: TANGARA WALK (3)_2
+  - first:
+      213: 1639358845160133957
+    second: TANGARA WALK (3)_3
+  - first:
+      213: 8370704716694672045
+    second: TANGARA WALK (3)_4
+  - first:
+      213: -4871598438768842552
+    second: TANGARA WALK (3)_5
+  - first:
+      213: 3573545403760764298
+    second: TANGARA WALK (3)_6
+  - first:
+      213: 7832364879624282791
+    second: TANGARA WALK (3)_7
+  - first:
+      213: 9166511745481961939
+    second: TANGARA WALK (3)_8
+  - first:
+      213: 8494046594778178920
+    second: TANGARA WALK (3)_9
+  - first:
+      213: -4270705079172041164
+    second: TANGARA WALK (3)_10
+  - first:
+      213: -8524287041290877455
+    second: TANGARA WALK (3)_11
+  - first:
+      213: -2416848194931694041
+    second: TANGARA WALK (3)_12
+  - first:
+      213: 4115603813347179425
+    second: TANGARA WALK (3)_13
+  - first:
+      213: 4705134313184830930
+    second: TANGARA WALK (3)_14
+  - first:
+      213: -5739816545649757756
+    second: TANGARA WALK (3)_15
+  - first:
+      213: -6246209535932546591
+    second: TANGARA WALK (3)_16
+  - first:
+      213: -3502485449167923494
+    second: TANGARA WALK (3)_17
+  - first:
+      213: 7552204774530382835
+    second: TANGARA WALK (3)_18
+  - first:
+      213: 1960008309769061571
+    second: TANGARA WALK (3)_19
+  - first:
+      213: 5402029363690918815
+    second: TANGARA WALK (3)_20
+  - first:
+      213: 7458532899521829060
+    second: TANGARA WALK (3)_21
+  - first:
+      213: -7385859788212036882
+    second: TANGARA WALK (3)_22
+  - first:
+      213: 7410219088942947095
+    second: TANGARA WALK (3)_23
+  - first:
+      213: 7891359162793122480
+    second: TANGARA WALK (3)_24
+  - first:
+      213: -6420625186884258322
+    second: TANGARA WALK (3)_25
+  - first:
+      213: 3207510844047949549
+    second: TANGARA WALK (3)_26
+  - first:
+      213: 516815909483541465
+    second: TANGARA WALK (3)_27
+  - first:
+      213: -6932082854054387381
+    second: TANGARA WALK (3)_28
+  - first:
+      213: -6672410373271615157
+    second: TANGARA WALK (3)_29
+  - first:
+      213: 3790199063415836621
+    second: TANGARA WALK (3)_30
+  - first:
+      213: -342501028917952300
+    second: TANGARA WALK (3)_31
+  - first:
+      213: 5673829835666045559
+    second: TANGARA WALK (3)_32
+  - first:
+      213: 4935415811945581697
+    second: TANGARA WALK (3)_33
+  - first:
+      213: -5151030574188094197
+    second: TANGARA WALK (3)_34
+  - first:
+      213: -2534269814874365601
+    second: TANGARA WALK (3)_35
+  - first:
+      213: -718931547626860539
+    second: TANGARA WALK (3)_36
+  - first:
+      213: 5980242866209355152
+    second: TANGARA WALK (3)_37
+  - first:
+      213: -8727592788662867688
+    second: TANGARA WALK (3)_38
+  - first:
+      213: -1050280359303397018
+    second: TANGARA WALK (3)_39
+  - first:
+      213: 77329970113626190
+    second: TANGARA WALK (3)_40
+  - first:
+      213: 8798346995951234528
+    second: TANGARA WALK (3)_41
+  - first:
+      213: -752851111239800208
+    second: TANGARA WALK (3)_42
+  - first:
+      213: 6421100352231336819
+    second: TANGARA WALK (3)_43
+  - first:
+      213: 808780773680232758
+    second: TANGARA WALK (3)_44
+  - first:
+      213: -7133007762111970099
+    second: TANGARA WALK (3)_45
+  - first:
+      213: -689275623151171389
+    second: TANGARA WALK (3)_46
+  - first:
+      213: 6854981174995229840
+    second: TANGARA WALK (3)_47
+  - first:
+      213: 1634423289127079809
+    second: TANGARA WALK (3)_48
+  - first:
+      213: -4142527112084691054
+    second: TANGARA WALK (3)_49
+  - first:
+      213: 2477526762211758916
+    second: TANGARA WALK (3)_50
+  - first:
+      213: -2633534206260678024
+    second: TANGARA WALK (3)_51
+  - first:
+      213: 1915053670673541840
+    second: TANGARA WALK (3)_52
+  - first:
+      213: 1400689505338930962
+    second: TANGARA WALK (3)_53
+  - first:
+      213: 4320581430618215091
+    second: TANGARA WALK (3)_54
+  - first:
+      213: 4665700903978336057
+    second: TANGARA WALK (3)_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1380
+        height: 1236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdfc46486fdcfcf0800000000000000
+      internalID: -217053043071582728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1165
+        width: 25
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9af43a31f4bc2250800000000000000
+      internalID: 5921306558242028189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1213
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ce690a9a7cac2a0800000000000000
+      internalID: -6716336362912027625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_3
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1136
+        width: 136
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5451a291f2c20c610800000000000000
+      internalID: 1639358845160133957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1229
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2d5460797ba2470800000000000000
+      internalID: 8370704716694672045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_5
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 845
+        width: 105
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8e5d0e70b946cb0800000000000000
+      internalID: -4871598438768842552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_6
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1095
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85e3eb7c98c79130800000000000000
+      internalID: 3573545403760764298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_7
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1107
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a220414c5622bc60800000000000000
+      internalID: 7832364879624282791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_8
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1108
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1f5e2cdddf53f70800000000000000
+      internalID: 9166511745481961939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_9
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 983
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865ae53ef5ae0e570800000000000000
+      internalID: 8494046594778178920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_10
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 974
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4367e7f8b586bb4c0800000000000000
+      internalID: -4270705079172041164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 776
+        width: 117
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5446c7916a3b980800000000000000
+      internalID: -8524287041290877455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 876
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7266d092f51a57ed0800000000000000
+      internalID: -2416848194931694041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 877
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab3dc2ecdf8d1930800000000000000
+      internalID: 4115603813347179425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_14
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 851
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d522ed9abefb4140800000000000000
+      internalID: 4705134313184830930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_15
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 805
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1f2a833431850b0800000000000000
+      internalID: -5739816545649757756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_16
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 835
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1451a55810159a0800000000000000
+      internalID: -6246209535932546591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_17
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 843
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad61f5b7a0ca46fc0800000000000000
+      internalID: -3502485449167923494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_18
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 839
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb74e8aa32dec860800000000000000
+      internalID: 7552204774530382835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_19
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 843
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c449945c29533b10800000000000000
+      internalID: 1960008309769061571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_20
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 834
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93d609c51dd7fa40800000000000000
+      internalID: 5402029363690918815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 775
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c81095b728028760800000000000000
+      internalID: 7458532899521829060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_22
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 826
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea97c297a7208990800000000000000
+      internalID: -7385859788212036882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_23
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 824
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b5348100366d660800000000000000
+      internalID: 7410219088942947095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_24
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 825
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bade4d295db38d60800000000000000
+      internalID: 7891359162793122480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_25
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 825
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee576d3196b55e6a0800000000000000
+      internalID: -6420625186884258322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 805
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deef0b85e1e538c20800000000000000
+      internalID: 3207510844047949549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 800
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3790bd4591c2700800000000000000
+      internalID: 516815909483541465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 792
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41238a3f5b4ccf90800000000000000
+      internalID: -6932082854054387381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 775
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4983811e16d663a0800000000000000
+      internalID: -6672410373271615157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 40
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf4be287fd799430800000000000000
+      internalID: 3790199063415836621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_31
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 771
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0c32cf0213f3bf0800000000000000
+      internalID: -342501028917952300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 773
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a33ee9c2e7dbe40800000000000000
+      internalID: 5673829835666045559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_33
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 769
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cccd1388e1e7440800000000000000
+      internalID: 4935415811945581697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_34
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 765
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d975eebfcd388b0800000000000000
+      internalID: -5151030574188094197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_35
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 90
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f512b6fc70774dcd0800000000000000
+      internalID: -2534269814874365601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_36
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 66
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50011e50197d506f0800000000000000
+      internalID: -718931547626860539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_37
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 79
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095f8feb3371ef250800000000000000
+      internalID: 5980242866209355152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_38
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 70
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8192d77799c51e680800000000000000
+      internalID: -8727592788662867688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_39
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 62
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661c62de397ac61f0800000000000000
+      internalID: -1050280359303397018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_40
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 71
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e404d17b23bb21100800000000000000
+      internalID: 77329970113626190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed6c482af10a1a70800000000000000
+      internalID: 8798346995951234528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_42
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a2bc137e55d85f0800000000000000
+      internalID: -752851111239800208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_43
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 44
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b62e9ffb45c1950800000000000000
+      internalID: 6421100352231336819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_44
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 26
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639306c14dd593b00800000000000000
+      internalID: 808780773680232758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_45
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 32
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4463f8b37720d90800000000000000
+      internalID: -7133007762111970099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_46
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 20
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c80db109733f66f0800000000000000
+      internalID: -689275623151171389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_47
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c94953f09c12f50800000000000000
+      internalID: 6854981174995229840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_48
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 18
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f8b096253aea610800000000000000
+      internalID: 1634423289127079809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_49
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29764c32a89c286c0800000000000000
+      internalID: -4142527112084691054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_50
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443d727b671f16220800000000000000
+      internalID: 2477526762211758916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_51
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 8
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872fdfba79ec37bd0800000000000000
+      internalID: -2633534206260678024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_52
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 8
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0daed46ca23a39a10800000000000000
+      internalID: 1915053670673541840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_53
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 0
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21738561faf307310800000000000000
+      internalID: 1400689505338930962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_54
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 6
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2d5237be9c5fb30800000000000000
+      internalID: 4320581430618215091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA WALK (3)_55
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 10
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ff8d19046efb040800000000000000
+      internalID: 4665700903978336057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

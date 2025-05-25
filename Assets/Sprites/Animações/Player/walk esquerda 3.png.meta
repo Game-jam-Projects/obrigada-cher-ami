@@ -1,0 +1,2782 @@
+fileFormatVersion: 2
+guid: 5a87556a2ec0dc64d85c7a91378294bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8173642607978362711
+    second: walk esquerda 3_0
+  - first:
+      213: -5609355608856703403
+    second: walk esquerda 3_1
+  - first:
+      213: 2685140922272497316
+    second: walk esquerda 3_2
+  - first:
+      213: 2336219643818355546
+    second: walk esquerda 3_3
+  - first:
+      213: -7900066394689428625
+    second: walk esquerda 3_4
+  - first:
+      213: -870659001314301579
+    second: walk esquerda 3_5
+  - first:
+      213: -4874490767777820315
+    second: walk esquerda 3_6
+  - first:
+      213: -4133787462422713228
+    second: walk esquerda 3_7
+  - first:
+      213: 443123680666378630
+    second: walk esquerda 3_8
+  - first:
+      213: -6376646701005007164
+    second: walk esquerda 3_9
+  - first:
+      213: -3526966027515652389
+    second: walk esquerda 3_10
+  - first:
+      213: 7765652273258559443
+    second: walk esquerda 3_11
+  - first:
+      213: 6521057635484380000
+    second: walk esquerda 3_12
+  - first:
+      213: 7813516715450797849
+    second: walk esquerda 3_13
+  - first:
+      213: -7715128385678356664
+    second: walk esquerda 3_14
+  - first:
+      213: 5914155969742246288
+    second: walk esquerda 3_15
+  - first:
+      213: 3675096969977159304
+    second: walk esquerda 3_16
+  - first:
+      213: -14113357256886524
+    second: walk esquerda 3_17
+  - first:
+      213: -5419020585769882328
+    second: walk esquerda 3_18
+  - first:
+      213: 2361759444613555504
+    second: walk esquerda 3_19
+  - first:
+      213: 12622365302147263
+    second: walk esquerda 3_20
+  - first:
+      213: 8777776242436123375
+    second: walk esquerda 3_21
+  - first:
+      213: -4445980341878722114
+    second: walk esquerda 3_22
+  - first:
+      213: 7170763150074007861
+    second: walk esquerda 3_23
+  - first:
+      213: 1480071465733422015
+    second: walk esquerda 3_24
+  - first:
+      213: -330681558584400558
+    second: walk esquerda 3_25
+  - first:
+      213: -2800814564427204502
+    second: walk esquerda 3_26
+  - first:
+      213: 8301688171101294197
+    second: walk esquerda 3_27
+  - first:
+      213: 8696979156122796903
+    second: walk esquerda 3_28
+  - first:
+      213: 2795674685282076844
+    second: walk esquerda 3_29
+  - first:
+      213: 6594602322762857015
+    second: walk esquerda 3_30
+  - first:
+      213: 927122555054340185
+    second: walk esquerda 3_31
+  - first:
+      213: -6476889848885653037
+    second: walk esquerda 3_32
+  - first:
+      213: 2303348804172399478
+    second: walk esquerda 3_33
+  - first:
+      213: 6472246360176481689
+    second: walk esquerda 3_34
+  - first:
+      213: -3182772362156970426
+    second: walk esquerda 3_35
+  - first:
+      213: 6809350663725699707
+    second: walk esquerda 3_36
+  - first:
+      213: 1497182379975656828
+    second: walk esquerda 3_37
+  - first:
+      213: -7564539365943141878
+    second: walk esquerda 3_38
+  - first:
+      213: 5721455597319268043
+    second: walk esquerda 3_39
+  - first:
+      213: -1831377822749283647
+    second: walk esquerda 3_40
+  - first:
+      213: 444820323225458305
+    second: walk esquerda 3_41
+  - first:
+      213: -5433269376314459885
+    second: walk esquerda 3_42
+  - first:
+      213: 1782387937339794217
+    second: walk esquerda 3_43
+  - first:
+      213: 6901572050401659547
+    second: walk esquerda 3_44
+  - first:
+      213: -1061303143803623903
+    second: walk esquerda 3_45
+  - first:
+      213: 7973429390396452774
+    second: walk esquerda 3_46
+  - first:
+      213: -1330510171333270443
+    second: walk esquerda 3_47
+  - first:
+      213: 8508623986839448279
+    second: walk esquerda 3_48
+  - first:
+      213: 3956239152129847754
+    second: walk esquerda 3_49
+  - first:
+      213: 7420460145505056655
+    second: walk esquerda 3_50
+  - first:
+      213: 43885284887718979
+    second: walk esquerda 3_51
+  - first:
+      213: -3564952077719495840
+    second: walk esquerda 3_52
+  - first:
+      213: -1633322180534489072
+    second: walk esquerda 3_53
+  - first:
+      213: 549295844815209404
+    second: walk esquerda 3_54
+  - first:
+      213: 7456312796045695504
+    second: walk esquerda 3_55
+  - first:
+      213: 4416555638722490613
+    second: walk esquerda 3_56
+  - first:
+      213: -4180966739413685543
+    second: walk esquerda 3_57
+  - first:
+      213: -2396816598841002500
+    second: walk esquerda 3_58
+  - first:
+      213: -4285228440228245899
+    second: walk esquerda 3_59
+  - first:
+      213: -3719742200636694003
+    second: walk esquerda 3_60
+  - first:
+      213: -696478556699519909
+    second: walk esquerda 3_61
+  - first:
+      213: 9193242340913962705
+    second: walk esquerda 3_62
+  - first:
+      213: -9149486714460394626
+    second: walk esquerda 3_63
+  - first:
+      213: -5128584674088037994
+    second: walk esquerda 3_64
+  - first:
+      213: 3749882233191993100
+    second: walk esquerda 3_65
+  - first:
+      213: 2003873098311791063
+    second: walk esquerda 3_66
+  - first:
+      213: 8663800745153761532
+    second: walk esquerda 3_67
+  - first:
+      213: -9083151300963791190
+    second: walk esquerda 3_68
+  - first:
+      213: 3148857226143781711
+    second: walk esquerda 3_69
+  - first:
+      213: 1737841933901817314
+    second: walk esquerda 3_70
+  - first:
+      213: 604991951343891667
+    second: walk esquerda 3_71
+  - first:
+      213: -5476681003685698045
+    second: walk esquerda 3_72
+  - first:
+      213: 5956700587708828445
+    second: walk esquerda 3_73
+  - first:
+      213: -3028484670928593557
+    second: walk esquerda 3_74
+  - first:
+      213: 8475895905802114874
+    second: walk esquerda 3_75
+  - first:
+      213: -4170618336404575746
+    second: walk esquerda 3_76
+  - first:
+      213: 3655820105337422177
+    second: walk esquerda 3_77
+  - first:
+      213: -1824595572357740748
+    second: walk esquerda 3_78
+  - first:
+      213: -7871348262673679999
+    second: walk esquerda 3_79
+  - first:
+      213: -566284301222148268
+    second: walk esquerda 3_80
+  - first:
+      213: -3419289313030870061
+    second: walk esquerda 3_81
+  - first:
+      213: -1543722074373740410
+    second: walk esquerda 3_82
+  - first:
+      213: 4723848487614870779
+    second: walk esquerda 3_83
+  - first:
+      213: 8514369883313236344
+    second: walk esquerda 3_84
+  - first:
+      213: 3994515103858296339
+    second: walk esquerda 3_85
+  - first:
+      213: 2434231620014619532
+    second: walk esquerda 3_86
+  - first:
+      213: 1754469450075930279
+    second: walk esquerda 3_87
+  - first:
+      213: -5727426164131247775
+    second: walk esquerda 3_88
+  - first:
+      213: 1949811984230804022
+    second: walk esquerda 3_89
+  - first:
+      213: 7508500246744159694
+    second: walk esquerda 3_90
+  - first:
+      213: -6904743492200810523
+    second: walk esquerda 3_91
+  - first:
+      213: -4580488665083298090
+    second: walk esquerda 3_92
+  - first:
+      213: 4749123756338885922
+    second: walk esquerda 3_93
+  - first:
+      213: 8347166907514847215
+    second: walk esquerda 3_94
+  - first:
+      213: 1907841894336851031
+    second: walk esquerda 3_95
+  - first:
+      213: 5495510126220630394
+    second: walk esquerda 3_96
+  - first:
+      213: 370222703098742553
+    second: walk esquerda 3_97
+  - first:
+      213: 7069113403891879162
+    second: walk esquerda 3_98
+  - first:
+      213: 5052816524060914415
+    second: walk esquerda 3_99
+  - first:
+      213: -4831979496437699159
+    second: walk esquerda 3_100
+  - first:
+      213: -7503071459710890285
+    second: walk esquerda 3_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walk esquerda 3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1984
+        height: 1352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8c3769a53619e80800000000000000
+      internalID: -8173642607978362711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1302
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e404b1bc09722b0800000000000000
+      internalID: -5609355608856703403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 916
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aebaeb3179834520800000000000000
+      internalID: 2685140922272497316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 866
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b2513636beb6020800000000000000
+      internalID: 2336219643818355546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_4
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 856
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63298a68735d5290800000000000000
+      internalID: -7900066394689428625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 855
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5792a22504ccae3f0800000000000000
+      internalID: -870659001314301579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 830
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5619ead09745a5cb0800000000000000
+      internalID: -4874490767777820315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_7
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 785
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ca4556436d1a6c0800000000000000
+      internalID: -4133787462422713228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 758
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681eea9c3aa462600800000000000000
+      internalID: 443123680666378630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_9
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 754
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c61e604c999187a0800000000000000
+      internalID: -6376646701005007164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_10
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 762
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd61f0ba513bd0fc0800000000000000
+      internalID: -3526966027515652389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 757
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7f7cc299325cb60800000000000000
+      internalID: 7765652273258559443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 748
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b25e29e537f7a50800000000000000
+      internalID: 6521057635484380000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 744
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f850f0e003f6c60800000000000000
+      internalID: 7813516715450797849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_14
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 750
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fcb171c9b5ee490800000000000000
+      internalID: -7715128385678356664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_15
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 749
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0911eba158d431250800000000000000
+      internalID: 5914155969742246288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 747
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e5a920931900330800000000000000
+      internalID: 3675096969977159304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 742
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4077d12f9fbddcff0800000000000000
+      internalID: -14113357256886524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 740
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d28aa0d75cbc4b0800000000000000
+      internalID: -5419020585769882328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_19
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 727
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0356d15a3b7a6c020800000000000000
+      internalID: 2361759444613555504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_20
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 732
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb84f0079f7dc2000800000000000000
+      internalID: 12622365302147263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_21
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 739
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feaa4406cfce0d970800000000000000
+      internalID: 8777776242436123375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 743
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1f2f35f64bc42c0800000000000000
+      internalID: -4445980341878722114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 735
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5315f98b71ba38360800000000000000
+      internalID: 7170763150074007861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_24
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 740
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb7b3508254a8410800000000000000
+      internalID: 1480071465733422015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_25
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 723
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255edcedfde296bf0800000000000000
+      internalID: -330681558584400558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_26
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 726
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6873953ef18129d0800000000000000
+      internalID: -2800814564427204502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 728
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e0e8a4865853370800000000000000
+      internalID: 8301688171101294197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_28
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 719
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7630da3c670e1b870800000000000000
+      internalID: 8696979156122796903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_29
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 722
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca84acb605b3cc620800000000000000
+      internalID: 2795674685282076844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_30
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 728
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73afe337fdbb48b50800000000000000
+      internalID: 6594602322762857015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 718
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958344d3d0dcddc00800000000000000
+      internalID: 927122555054340185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_32
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 729
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d156db9ff67d16a0800000000000000
+      internalID: -6476889848885653037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_33
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 708
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6734482a88327ff10800000000000000
+      internalID: 2303348804172399478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_34
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 695
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995522de5c902d950800000000000000
+      internalID: 6472246360176481689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_35
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 718
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ee3b0566584d3d0800000000000000
+      internalID: -3182772362156970426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_36
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 712
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72d076e95caf7e50800000000000000
+      internalID: 6809350663725699707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_37
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 714
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c754c62317f07c410800000000000000
+      internalID: 1497182379975656828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_38
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 710
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a108b768b550790800000000000000
+      internalID: -7564539365943141878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_39
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 708
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6a26c5d81b66f40800000000000000
+      internalID: 5721455597319268043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_40
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 590
+        width: 63
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca2081c293a596e0800000000000000
+      internalID: -1831377822749283647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_41
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 700
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1865aba2ab15c2600800000000000000
+      internalID: 444820323225458305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_42
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 696
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319b4c7f9462994b0800000000000000
+      internalID: -5433269376314459885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_43
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 698
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9236411b2605cb810800000000000000
+      internalID: 1782387937339794217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_44
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 697
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a84f7b63f47cf50800000000000000
+      internalID: 6901572050401659547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_45
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 695
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126649ae96e7541f0800000000000000
+      internalID: -1061303143803623903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_46
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 687
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af6d3819cf47ae60800000000000000
+      internalID: 7973429390396452774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_47
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 693
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554e2ab6c04198de0800000000000000
+      internalID: -1330510171333270443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_48
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 691
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7daeee67f64b41670800000000000000
+      internalID: 8508623986839448279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_49
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 687
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1313d3c8267e630800000000000000
+      internalID: 3956239152129847754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_50
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 675
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87b5c2ef25caf660800000000000000
+      internalID: 7420460145505056655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_51
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 686
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c69902f69eb9000800000000000000
+      internalID: 43885284887718979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_52
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 682
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b1d3629feb68ec0800000000000000
+      internalID: -3564952077719495840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_53
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 675
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010b97961264559e0800000000000000
+      internalID: -1633322180534489072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_54
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 669
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb30fca19ad7f9700800000000000000
+      internalID: 549295844815209404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_55
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 662
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ad0869bf42a7760800000000000000
+      internalID: 7456312796045695504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_56
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 665
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f07dc814f1ca4d30800000000000000
+      internalID: 4416555638722490613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_57
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 656
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da2687f6e83af5c0800000000000000
+      internalID: -4180966739413685543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_58
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 651
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf57252900cccbed0800000000000000
+      internalID: -2396816598841002500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_59
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 628
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e4bce007fc784c0800000000000000
+      internalID: -4285228440228245899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_60
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 635
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0225033d22d06cc0800000000000000
+      internalID: -3719742200636694003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_61
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 634
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b549f3a517c9556f0800000000000000
+      internalID: -696478556699519909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_62
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 621
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ded1408335f49f70800000000000000
+      internalID: 9193242340913962705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_63
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 624
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bae6b2f4e760180800000000000000
+      internalID: -9149486714460394626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_64
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 602
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691587c496b93d8b0800000000000000
+      internalID: -5128584674088037994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_65
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 598
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f05faf5024a0430800000000000000
+      internalID: 3749882233191993100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_66
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 602
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1f5d747ff2fcb10800000000000000
+      internalID: 2003873098311791063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_67
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 593
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf097abffd00c3870800000000000000
+      internalID: 8663800745153761532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_68
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 594
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae0de0340a22f180800000000000000
+      internalID: -9083151300963791190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_69
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 583
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43d8bcb6fcf2bb20800000000000000
+      internalID: 3148857226143781711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_70
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 585
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5eef9080e0e1810800000000000000
+      internalID: 1737841933901817314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_71
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 586
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4b2df69fc556800800000000000000
+      internalID: 604991951343891667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_72
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 579
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3062f23d4abeef3b0800000000000000
+      internalID: -5476681003685698045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_73
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 582
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bceb3ef937aa250800000000000000
+      internalID: 5956700587708828445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_74
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 568
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dd595cc39a8f5d0800000000000000
+      internalID: -3028484670928593557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_75
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 560
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37d58a4b6e60a570800000000000000
+      internalID: 8475895905802114874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_76
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 575
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9efdc48bcfe16c0800000000000000
+      internalID: -4170618336404575746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_77
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 577
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1614e5534051cb230800000000000000
+      internalID: 3655820105337422177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_78
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 563
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437cdda7efbbda6e0800000000000000
+      internalID: -1824595572357740748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_79
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 570
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18972f3957a53c290800000000000000
+      internalID: -7871348262673679999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_80
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 563
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45706c7ad672428f0800000000000000
+      internalID: -566284301222148268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_81
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 565
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db61886c7e3c80d0800000000000000
+      internalID: -3419289313030870061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_82
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 554
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688260dc3f8939ae0800000000000000
+      internalID: -1543722074373740410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_83
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 550
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4fc05eb2b7e8140800000000000000
+      internalID: 4723848487614870779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_84
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 542
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8796b2d3c4e192670800000000000000
+      internalID: 8514369883313236344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_85
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 524
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3160867b25e5f6730800000000000000
+      internalID: 3994515103858296339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_86
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 528
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bbef3e2c028c120800000000000000
+      internalID: 2434231620014619532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_87
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 506
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aefc055ba0295810800000000000000
+      internalID: 1754469450075930279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_88
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 500
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169cda9bf381480b0800000000000000
+      internalID: -5727426164131247775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_89
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 505
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a60ea4baf1f0b10800000000000000
+      internalID: 1949811984230804022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_90
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 502
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec55e13513d833860800000000000000
+      internalID: 7508500246744159694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_91
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 502
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e73e22706c6d20a0800000000000000
+      internalID: -6904743492200810523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_92
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 477
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6deb10cd3d5de60c0800000000000000
+      internalID: -4580488665083298090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_93
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 474
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225b2faf4e648e140800000000000000
+      internalID: 4749123756338885922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_94
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 466
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef7153c31817d370800000000000000
+      internalID: 8347166907514847215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_95
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 458
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c6e8f38140a7a10800000000000000
+      internalID: 1907841894336851031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_96
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7951f4e759f34c40800000000000000
+      internalID: 5495510126220630394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_97
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 262
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9174cf1469b432500800000000000000
+      internalID: 370222703098742553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_98
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 15
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc8de3ef298a1260800000000000000
+      internalID: 7069113403891879162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_99
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 4
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2ffdf8bd53f1640800000000000000
+      internalID: 5052816524060914415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_100
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad2cd8bf3c51fcb0800000000000000
+      internalID: -4831979496437699159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk esquerda 3_101
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de8f87a24cbfd790800000000000000
+      internalID: -7503071459710890285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      walk esquerda 3_0: -8173642607978362711
+      walk esquerda 3_1: -5609355608856703403
+      walk esquerda 3_10: -3526966027515652389
+      walk esquerda 3_100: -4831979496437699159
+      walk esquerda 3_101: -7503071459710890285
+      walk esquerda 3_11: 7765652273258559443
+      walk esquerda 3_12: 6521057635484380000
+      walk esquerda 3_13: 7813516715450797849
+      walk esquerda 3_14: -7715128385678356664
+      walk esquerda 3_15: 5914155969742246288
+      walk esquerda 3_16: 3675096969977159304
+      walk esquerda 3_17: -14113357256886524
+      walk esquerda 3_18: -5419020585769882328
+      walk esquerda 3_19: 2361759444613555504
+      walk esquerda 3_2: 2685140922272497316
+      walk esquerda 3_20: 12622365302147263
+      walk esquerda 3_21: 8777776242436123375
+      walk esquerda 3_22: -4445980341878722114
+      walk esquerda 3_23: 7170763150074007861
+      walk esquerda 3_24: 1480071465733422015
+      walk esquerda 3_25: -330681558584400558
+      walk esquerda 3_26: -2800814564427204502
+      walk esquerda 3_27: 8301688171101294197
+      walk esquerda 3_28: 8696979156122796903
+      walk esquerda 3_29: 2795674685282076844
+      walk esquerda 3_3: 2336219643818355546
+      walk esquerda 3_30: 6594602322762857015
+      walk esquerda 3_31: 927122555054340185
+      walk esquerda 3_32: -6476889848885653037
+      walk esquerda 3_33: 2303348804172399478
+      walk esquerda 3_34: 6472246360176481689
+      walk esquerda 3_35: -3182772362156970426
+      walk esquerda 3_36: 6809350663725699707
+      walk esquerda 3_37: 1497182379975656828
+      walk esquerda 3_38: -7564539365943141878
+      walk esquerda 3_39: 5721455597319268043
+      walk esquerda 3_4: -7900066394689428625
+      walk esquerda 3_40: -1831377822749283647
+      walk esquerda 3_41: 444820323225458305
+      walk esquerda 3_42: -5433269376314459885
+      walk esquerda 3_43: 1782387937339794217
+      walk esquerda 3_44: 6901572050401659547
+      walk esquerda 3_45: -1061303143803623903
+      walk esquerda 3_46: 7973429390396452774
+      walk esquerda 3_47: -1330510171333270443
+      walk esquerda 3_48: 8508623986839448279
+      walk esquerda 3_49: 3956239152129847754
+      walk esquerda 3_5: -870659001314301579
+      walk esquerda 3_50: 7420460145505056655
+      walk esquerda 3_51: 43885284887718979
+      walk esquerda 3_52: -3564952077719495840
+      walk esquerda 3_53: -1633322180534489072
+      walk esquerda 3_54: 549295844815209404
+      walk esquerda 3_55: 7456312796045695504
+      walk esquerda 3_56: 4416555638722490613
+      walk esquerda 3_57: -4180966739413685543
+      walk esquerda 3_58: -2396816598841002500
+      walk esquerda 3_59: -4285228440228245899
+      walk esquerda 3_6: -4874490767777820315
+      walk esquerda 3_60: -3719742200636694003
+      walk esquerda 3_61: -696478556699519909
+      walk esquerda 3_62: 9193242340913962705
+      walk esquerda 3_63: -9149486714460394626
+      walk esquerda 3_64: -5128584674088037994
+      walk esquerda 3_65: 3749882233191993100
+      walk esquerda 3_66: 2003873098311791063
+      walk esquerda 3_67: 8663800745153761532
+      walk esquerda 3_68: -9083151300963791190
+      walk esquerda 3_69: 3148857226143781711
+      walk esquerda 3_7: -4133787462422713228
+      walk esquerda 3_70: 1737841933901817314
+      walk esquerda 3_71: 604991951343891667
+      walk esquerda 3_72: -5476681003685698045
+      walk esquerda 3_73: 5956700587708828445
+      walk esquerda 3_74: -3028484670928593557
+      walk esquerda 3_75: 8475895905802114874
+      walk esquerda 3_76: -4170618336404575746
+      walk esquerda 3_77: 3655820105337422177
+      walk esquerda 3_78: -1824595572357740748
+      walk esquerda 3_79: -7871348262673679999
+      walk esquerda 3_8: 443123680666378630
+      walk esquerda 3_80: -566284301222148268
+      walk esquerda 3_81: -3419289313030870061
+      walk esquerda 3_82: -1543722074373740410
+      walk esquerda 3_83: 4723848487614870779
+      walk esquerda 3_84: 8514369883313236344
+      walk esquerda 3_85: 3994515103858296339
+      walk esquerda 3_86: 2434231620014619532
+      walk esquerda 3_87: 1754469450075930279
+      walk esquerda 3_88: -5727426164131247775
+      walk esquerda 3_89: 1949811984230804022
+      walk esquerda 3_9: -6376646701005007164
+      walk esquerda 3_90: 7508500246744159694
+      walk esquerda 3_91: -6904743492200810523
+      walk esquerda 3_92: -4580488665083298090
+      walk esquerda 3_93: 4749123756338885922
+      walk esquerda 3_94: 8347166907514847215
+      walk esquerda 3_95: 1907841894336851031
+      walk esquerda 3_96: 5495510126220630394
+      walk esquerda 3_97: 370222703098742553
+      walk esquerda 3_98: 7069113403891879162
+      walk esquerda 3_99: 5052816524060914415
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

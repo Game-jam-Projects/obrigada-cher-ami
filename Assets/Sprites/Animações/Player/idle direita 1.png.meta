@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: cdc3611526925f4448b00e5bd48d5712
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1365828176392877692
+    second: idle direita 1_0
+  - first:
+      213: 3735666959894124685
+    second: idle direita 1_1
+  - first:
+      213: 1235470349359880557
+    second: idle direita 1_2
+  - first:
+      213: -1044509185778485848
+    second: idle direita 1_3
+  - first:
+      213: 8852552278176766219
+    second: idle direita 1_4
+  - first:
+      213: -3053975120746814745
+    second: idle direita 1_5
+  - first:
+      213: -1287754244139728419
+    second: idle direita 1_6
+  - first:
+      213: 7409406716205817216
+    second: idle direita 1_7
+  - first:
+      213: -8709040691270357596
+    second: idle direita 1_8
+  - first:
+      213: 1209895527436452707
+    second: idle direita 1_9
+  - first:
+      213: 4825656190953128167
+    second: idle direita 1_10
+  - first:
+      213: -3101826677904508140
+    second: idle direita 1_11
+  - first:
+      213: -5630184227993473879
+    second: idle direita 1_12
+  - first:
+      213: -6763680208154050456
+    second: idle direita 1_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle direita 1_0
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 1468
+        height: 1400
+      alignment: 9
+      pivot: {x: 0.6202836, y: 0.50600606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76fd1e6d7564f210800000000000000
+      internalID: 1365828176392877692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 1_1
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1304
+        width: 20
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8817afbe41c7d330800000000000000
+      internalID: 3735666959894124685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 1_2
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 1286
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d699f18acb5452110800000000000000
+      internalID: 1235470349359880557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 1_3
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 1262
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a57a09fd682181f0800000000000000
+      internalID: -1044509185778485848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 1_4
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1247
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b091d48e4659ada70800000000000000
+      internalID: 8852552278176766219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 1_5
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 1190
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2610feec91e95d0800000000000000
+      internalID: -3053975120746814745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 1_6
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1023
+        width: 78
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1cc08765af02ee0800000000000000
+      internalID: -1287754244139728419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 1_7
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1072
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d57d3d62083d660800000000000000
+      internalID: 7409406716205817216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 1_8
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1076
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad686e32a5432780800000000000000
+      internalID: -8709040691270357596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 1_9
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 1090
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3630f2862996ac010800000000000000
+      internalID: 1209895527436452707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 1_10
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 809
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e00dedfcbc28f240800000000000000
+      internalID: 4825656190953128167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 1_11
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 828
+        width: 43
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bfba4121914f4d0800000000000000
+      internalID: -3101826677904508140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 1_12
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 849
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac217e46419dd1b0800000000000000
+      internalID: -5630184227993473879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 1_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 273
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86043aaafa49222a0800000000000000
+      internalID: -6763680208154050456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a48211284ed89f64abf0362f39119038
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      idle direita 1_0: 1365828176392877692
+      idle direita 1_1: 3735666959894124685
+      idle direita 1_10: 4825656190953128167
+      idle direita 1_11: -3101826677904508140
+      idle direita 1_12: -5630184227993473879
+      idle direita 1_13: -6763680208154050456
+      idle direita 1_2: 1235470349359880557
+      idle direita 1_3: -1044509185778485848
+      idle direita 1_4: 8852552278176766219
+      idle direita 1_5: -3053975120746814745
+      idle direita 1_6: -1287754244139728419
+      idle direita 1_7: 7409406716205817216
+      idle direita 1_8: -8709040691270357596
+      idle direita 1_9: 1209895527436452707
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1280 @@
+fileFormatVersion: 2
+guid: a1365ccb47e80ac42b0bba7a8e0a71e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1391385876171762593
+    second: TANGARA FLY (1)_0
+  - first:
+      213: -5228482292366289738
+    second: TANGARA FLY (1)_1
+  - first:
+      213: -4888154117555685084
+    second: TANGARA FLY (1)_2
+  - first:
+      213: -3245423955048268190
+    second: TANGARA FLY (1)_3
+  - first:
+      213: -5243239922267378078
+    second: TANGARA FLY (1)_4
+  - first:
+      213: 5139293237939189310
+    second: TANGARA FLY (1)_5
+  - first:
+      213: -5342282426910975680
+    second: TANGARA FLY (1)_6
+  - first:
+      213: 4564578599640526120
+    second: TANGARA FLY (1)_7
+  - first:
+      213: -861666913763124257
+    second: TANGARA FLY (1)_8
+  - first:
+      213: 7598048362930177356
+    second: TANGARA FLY (1)_9
+  - first:
+      213: -5676982826806022802
+    second: TANGARA FLY (1)_10
+  - first:
+      213: -6973662633843483639
+    second: TANGARA FLY (1)_11
+  - first:
+      213: -836146185380625749
+    second: TANGARA FLY (1)_12
+  - first:
+      213: 7000626981890352774
+    second: TANGARA FLY (1)_13
+  - first:
+      213: 5105503997957942044
+    second: TANGARA FLY (1)_14
+  - first:
+      213: 2800218094041070292
+    second: TANGARA FLY (1)_15
+  - first:
+      213: -4091939692589189223
+    second: TANGARA FLY (1)_16
+  - first:
+      213: 7709832534375051779
+    second: TANGARA FLY (1)_17
+  - first:
+      213: 2575337039080755173
+    second: TANGARA FLY (1)_18
+  - first:
+      213: 2870643386441660167
+    second: TANGARA FLY (1)_19
+  - first:
+      213: 8531340801659471289
+    second: TANGARA FLY (1)_20
+  - first:
+      213: -8422256581296570299
+    second: TANGARA FLY (1)_21
+  - first:
+      213: -2916510227263503545
+    second: TANGARA FLY (1)_22
+  - first:
+      213: 4716757887095775560
+    second: TANGARA FLY (1)_23
+  - first:
+      213: -6819477110136167616
+    second: TANGARA FLY (1)_24
+  - first:
+      213: 4176345889149670089
+    second: TANGARA FLY (1)_25
+  - first:
+      213: 5584142966012537592
+    second: TANGARA FLY (1)_26
+  - first:
+      213: 1583652992303591040
+    second: TANGARA FLY (1)_27
+  - first:
+      213: 7959818823704785880
+    second: TANGARA FLY (1)_28
+  - first:
+      213: 1586783997790595301
+    second: TANGARA FLY (1)_29
+  - first:
+      213: 658864042793295891
+    second: TANGARA FLY (1)_30
+  - first:
+      213: -2831605466945287621
+    second: TANGARA FLY (1)_31
+  - first:
+      213: -2735004750617585395
+    second: TANGARA FLY (1)_32
+  - first:
+      213: 764874485002475480
+    second: TANGARA FLY (1)_33
+  - first:
+      213: 2547820403707079709
+    second: TANGARA FLY (1)_34
+  - first:
+      213: 975881175707941926
+    second: TANGARA FLY (1)_35
+  - first:
+      213: 237065534717217466
+    second: TANGARA FLY (1)_36
+  - first:
+      213: -5505698668001617901
+    second: TANGARA FLY (1)_37
+  - first:
+      213: -2186015267508555633
+    second: TANGARA FLY (1)_38
+  - first:
+      213: 206222659064432360
+    second: TANGARA FLY (1)_39
+  - first:
+      213: -7333248623143149988
+    second: TANGARA FLY (1)_40
+  - first:
+      213: -2479558499973825736
+    second: TANGARA FLY (1)_41
+  - first:
+      213: -5796657663941168816
+    second: TANGARA FLY (1)_42
+  - first:
+      213: 3335136912238427247
+    second: TANGARA FLY (1)_43
+  - first:
+      213: 4703019675342013248
+    second: TANGARA FLY (1)_44
+  - first:
+      213: 8474804451874181679
+    second: TANGARA FLY (1)_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1704
+        height: 1368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f545941eaedc0bce0800000000000000
+      internalID: -1391385876171762593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 889
+        width: 667
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b456198e03b077b0800000000000000
+      internalID: -5228482292366289738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1162
+        width: 92
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429fab78ab9c92cb0800000000000000
+      internalID: -4888154117555685084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1349
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26efdcd9b10f5f2d0800000000000000
+      internalID: -3245423955048268190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1315
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e2b1112154c37b0800000000000000
+      internalID: -5243239922267378078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1352
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36bee388ff625740800000000000000
+      internalID: 5139293237939189310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1343
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049d826ff666cd5b0800000000000000
+      internalID: -5342282426910975680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1334
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d6cec5d04a85f30800000000000000
+      internalID: 4564578599640526120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1302
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb117ad18eba04f0800000000000000
+      internalID: -861666913763124257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1238
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4501badab0b17960800000000000000
+      internalID: 7598048362930177356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1228
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6deb3c623e4731b0800000000000000
+      internalID: -5676982826806022802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1003
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c185658c2983f90800000000000000
+      internalID: -6973662633843483639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 982
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2071879796564f0800000000000000
+      internalID: -836146185380625749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 788
+        width: 70
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686e69c2629372160800000000000000
+      internalID: 7000626981890352774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 971
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bae9506d46ad640800000000000000
+      internalID: 5105503997957942044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 966
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da70f4358f5cd620800000000000000
+      internalID: 2800218094041070292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_16
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 930
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99776e497828637c0800000000000000
+      internalID: -4091939692589189223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 858
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302bc2177d3defa60800000000000000
+      internalID: 7709832534375051779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 852
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef805f646f6db320800000000000000
+      internalID: 2575337039080755173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 851
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707fdad53f296d720800000000000000
+      internalID: 2870643386441660167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 845
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b585b41249656670800000000000000
+      internalID: 8531340801659471289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 847
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5404f9823422e1b80800000000000000
+      internalID: -8422256581296570299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 807
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7434a2096697687d0800000000000000
+      internalID: -2916510227263503545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 669
+        width: 48
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841addfce4a457140800000000000000
+      internalID: 4716757887095775560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 389
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0432d6013b95c51a0800000000000000
+      internalID: -6819477110136167616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 363
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2dded757c55f930800000000000000
+      internalID: 4176345889149670089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 326
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa6c28017cde7d40800000000000000
+      internalID: 5584142966012537592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e6db581044af510800000000000000
+      internalID: 1583652992303591040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 318
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d334671c05f67e60800000000000000
+      internalID: 7959818823704785880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8259b83a3650610800000000000000
+      internalID: 1586783997790595301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 278
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310e8f92b51c42900800000000000000
+      internalID: 658864042793295891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a0cae84dd14b8d0800000000000000
+      internalID: -2831605466945287621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 223
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09de648baf4b0ad0800000000000000
+      internalID: -2735004750617585395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_33
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 229
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d71558aa416d9a00800000000000000
+      internalID: 764874485002475480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_34
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 221
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ce372882dab5320800000000000000
+      internalID: 2547820403707079709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cff0542c60b8d00800000000000000
+      internalID: 975881175707941926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_36
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 182
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abace4909d93a4300800000000000000
+      internalID: 237065534717217466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3181c6d5b34d793b0800000000000000
+      internalID: -5505698668001617901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_38
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 162
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80729a32b6b9a1e0800000000000000
+      internalID: -2186015267508555633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_39
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 162
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e60c227a66acd200800000000000000
+      internalID: 206222659064432360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_40
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e1eeffa311b3a90800000000000000
+      internalID: -7333248623143149988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_41
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 140
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b72497ea6d69dd0800000000000000
+      internalID: -2479558499973825736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_42
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 145
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051bd3011922e8fa0800000000000000
+      internalID: -5796657663941168816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_43
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 86
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cb343f959c84e20800000000000000
+      internalID: 3335136912238427247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0430f602a7b744140800000000000000
+      internalID: 4703019675342013248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANGARA FLY (1)_45
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f221cde5fbd8c9570800000000000000
+      internalID: 8474804451874181679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

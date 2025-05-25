@@ -1,0 +1,2236 @@
+fileFormatVersion: 2
+guid: 02db4a513070f1d40bfc9e60ae8d9c76
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1063981662802201082
+    second: walk direita 1_0
+  - first:
+      213: -805686811595830719
+    second: walk direita 1_1
+  - first:
+      213: -1476176682424545749
+    second: walk direita 1_2
+  - first:
+      213: 3058259129477357068
+    second: walk direita 1_3
+  - first:
+      213: -4034905688691520012
+    second: walk direita 1_4
+  - first:
+      213: 8382953416045981400
+    second: walk direita 1_5
+  - first:
+      213: 8923949692283048933
+    second: walk direita 1_6
+  - first:
+      213: 555745553198986743
+    second: walk direita 1_7
+  - first:
+      213: 2757334349982504781
+    second: walk direita 1_8
+  - first:
+      213: 5606506074031272301
+    second: walk direita 1_9
+  - first:
+      213: 5971341772935492430
+    second: walk direita 1_10
+  - first:
+      213: 401096416441808992
+    second: walk direita 1_11
+  - first:
+      213: -5978847088611855792
+    second: walk direita 1_12
+  - first:
+      213: -1976330622911359176
+    second: walk direita 1_13
+  - first:
+      213: 4835275102060539344
+    second: walk direita 1_14
+  - first:
+      213: -2565688542992694002
+    second: walk direita 1_15
+  - first:
+      213: 3812304771627241797
+    second: walk direita 1_16
+  - first:
+      213: -8883395813056477532
+    second: walk direita 1_17
+  - first:
+      213: -317290903892683491
+    second: walk direita 1_18
+  - first:
+      213: -5063037066139641805
+    second: walk direita 1_19
+  - first:
+      213: 8582466064987583134
+    second: walk direita 1_20
+  - first:
+      213: -1148740610674591540
+    second: walk direita 1_21
+  - first:
+      213: 3886555591329498621
+    second: walk direita 1_22
+  - first:
+      213: -9000549277832731185
+    second: walk direita 1_23
+  - first:
+      213: -4016153140503241614
+    second: walk direita 1_24
+  - first:
+      213: 7629968136082627569
+    second: walk direita 1_25
+  - first:
+      213: -2938308552102073256
+    second: walk direita 1_26
+  - first:
+      213: -2247440178733910521
+    second: walk direita 1_27
+  - first:
+      213: -4981503567451176071
+    second: walk direita 1_28
+  - first:
+      213: -731042987149013204
+    second: walk direita 1_29
+  - first:
+      213: 2841187307700285255
+    second: walk direita 1_30
+  - first:
+      213: 5350967130568452306
+    second: walk direita 1_31
+  - first:
+      213: 3938695743288439414
+    second: walk direita 1_32
+  - first:
+      213: -1000007133359552231
+    second: walk direita 1_33
+  - first:
+      213: 527168474467935736
+    second: walk direita 1_34
+  - first:
+      213: -1127637105419171557
+    second: walk direita 1_35
+  - first:
+      213: 119970087921714436
+    second: walk direita 1_36
+  - first:
+      213: -2853914103363549642
+    second: walk direita 1_37
+  - first:
+      213: -1017465581205631055
+    second: walk direita 1_38
+  - first:
+      213: -1020786588510191394
+    second: walk direita 1_39
+  - first:
+      213: 7669432495247256418
+    second: walk direita 1_40
+  - first:
+      213: 7824564055207598539
+    second: walk direita 1_41
+  - first:
+      213: 1509570656598652898
+    second: walk direita 1_42
+  - first:
+      213: -2349693098478653976
+    second: walk direita 1_43
+  - first:
+      213: -8401054784187788265
+    second: walk direita 1_44
+  - first:
+      213: -3444032264707210669
+    second: walk direita 1_45
+  - first:
+      213: -5415131777890705203
+    second: walk direita 1_46
+  - first:
+      213: 2166899666987829697
+    second: walk direita 1_47
+  - first:
+      213: -5113575831802146873
+    second: walk direita 1_48
+  - first:
+      213: 406328252382920650
+    second: walk direita 1_49
+  - first:
+      213: -2460258291442552362
+    second: walk direita 1_50
+  - first:
+      213: 2153605671947794398
+    second: walk direita 1_51
+  - first:
+      213: 3047866442191130072
+    second: walk direita 1_52
+  - first:
+      213: -7094169810936404537
+    second: walk direita 1_53
+  - first:
+      213: -6445203839389876342
+    second: walk direita 1_54
+  - first:
+      213: -7565827343326477625
+    second: walk direita 1_55
+  - first:
+      213: 3545208231346959002
+    second: walk direita 1_56
+  - first:
+      213: 7951752719913051022
+    second: walk direita 1_57
+  - first:
+      213: 2383238213966883265
+    second: walk direita 1_58
+  - first:
+      213: -4706648386805696197
+    second: walk direita 1_59
+  - first:
+      213: 62936208075525271
+    second: walk direita 1_60
+  - first:
+      213: -5441918800686021612
+    second: walk direita 1_61
+  - first:
+      213: 7197285544401189189
+    second: walk direita 1_62
+  - first:
+      213: -7273962359786254961
+    second: walk direita 1_63
+  - first:
+      213: 5241185158696173981
+    second: walk direita 1_64
+  - first:
+      213: -65028683154734020
+    second: walk direita 1_65
+  - first:
+      213: 1358369895507495531
+    second: walk direita 1_66
+  - first:
+      213: -6555084402769474679
+    second: walk direita 1_67
+  - first:
+      213: -4687657370917163328
+    second: walk direita 1_68
+  - first:
+      213: 8468806361576891733
+    second: walk direita 1_69
+  - first:
+      213: -5548625368599460789
+    second: walk direita 1_70
+  - first:
+      213: 6278947003578726307
+    second: walk direita 1_71
+  - first:
+      213: -7333785366466177059
+    second: walk direita 1_72
+  - first:
+      213: 6546949218865153029
+    second: walk direita 1_73
+  - first:
+      213: -6748858704063425115
+    second: walk direita 1_74
+  - first:
+      213: 9021152978277552149
+    second: walk direita 1_75
+  - first:
+      213: -2411082613188534083
+    second: walk direita 1_76
+  - first:
+      213: -4924996090032809057
+    second: walk direita 1_77
+  - first:
+      213: -7269993526103225810
+    second: walk direita 1_78
+  - first:
+      213: -4350255494998489760
+    second: walk direita 1_79
+  - first:
+      213: -5432446692445324269
+    second: walk direita 1_80
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walk direita 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1786
+        height: 1456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606352d905afb31f0800000000000000
+      internalID: -1063981662802201082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1230
+        width: 148
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a0d921d10a1d4f0800000000000000
+      internalID: -805686811595830719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_2
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1450
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ece52e021938be0800000000000000
+      internalID: -1476176682424545749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_3
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1444
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ed793997e117a20800000000000000
+      internalID: 3058259129477357068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_4
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1448
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdc65b67a22108c0800000000000000
+      internalID: -4034905688691520012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_5
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1442
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de611497bb365470800000000000000
+      internalID: 8382953416045981400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_6
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1449
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3dcf9c6fc38db70800000000000000
+      internalID: 8923949692283048933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_7
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1445
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5bdebd2a766b700800000000000000
+      internalID: 555745553198986743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_8
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1441
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4790b97bf4044620800000000000000
+      internalID: 2757334349982504781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_9
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1446
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6134bdd19f4ecd40800000000000000
+      internalID: 5606506074031272301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_10
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1446
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43754874b77ed250800000000000000
+      internalID: 5971341772935492430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_11
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1445
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06832bec01bf09500800000000000000
+      internalID: 401096416441808992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_12
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1439
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05279ec004ed60da0800000000000000
+      internalID: -5978847088611855792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_13
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1451
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83754aef4c9a294e0800000000000000
+      internalID: -1976330622911359176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_14
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1449
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddeb9146195a1340800000000000000
+      internalID: 4835275102060539344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_15
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 985
+        width: 361
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0581ae1dd7d46cd0800000000000000
+      internalID: -2565688542992694002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_16
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1295
+        width: 131
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5415e58cdf608e430800000000000000
+      internalID: 3812304771627241797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_17
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1447
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a683930396d7b480800000000000000
+      internalID: -8883395813056477532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_18
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1443
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15930f9a91c89bf0800000000000000
+      internalID: -317290903892683491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_19
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1437
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3385c1c0d9a7cb9b0800000000000000
+      internalID: -5063037066139641805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_20
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1437
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92fd6c0a6b0b1770800000000000000
+      internalID: 8582466064987583134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_21
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1439
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8fca9308ade00f0800000000000000
+      internalID: -1148740610674591540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_22
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1427
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5c00de7b1dfe530800000000000000
+      internalID: 3886555591329498621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_23
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1432
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5a1676e10a71380800000000000000
+      internalID: -9000549277832731185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_24
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1419
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c1cb84ff1c348c0800000000000000
+      internalID: -4016153140503241614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_25
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1403
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb11ce289713e960800000000000000
+      internalID: 7629968136082627569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_26
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1389
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ca67f80f70937d0800000000000000
+      internalID: -2938308552102073256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_27
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1385
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706ff9c901d7fc0e0800000000000000
+      internalID: -2247440178733910521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_28
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 1394
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9734bb606e42edab0800000000000000
+      internalID: -4981503567451176071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_29
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1367
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f4173c640dad5f0800000000000000
+      internalID: -731042987149013204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_30
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1360
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fe2d79dcced6720800000000000000
+      internalID: 2841187307700285255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_31
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1362
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8e25e2144724a40800000000000000
+      internalID: 5350967130568452306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_32
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1369
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672fc0119ee09a630800000000000000
+      internalID: 3938695743288439414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_33
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9194f3b7fc24f12f0800000000000000
+      internalID: -1000007133359552231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_34
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1349
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f522793fe0e05700800000000000000
+      internalID: 527168474467935736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_35
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1335
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19c0ffe604d950f0800000000000000
+      internalID: -1127637105419171557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_36
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1330
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4050f3ac8283aa100800000000000000
+      internalID: 119970087921714436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_37
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1325
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636c9816e3cd468d0800000000000000
+      internalID: -2853914103363549642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_38
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1294
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf4d05d17c31e1f0800000000000000
+      internalID: -1017465581205631055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_39
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1292
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed00e50910075d1f0800000000000000
+      internalID: -1020786588510191394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_40
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1286
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bec04583c4f6a60800000000000000
+      internalID: 7669432495247256418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_41
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1261
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc950f84d8f669c60800000000000000
+      internalID: 7824564055207598539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_42
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1266
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e77aed938213f410800000000000000
+      internalID: 1509570656598652898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_43
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1276
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed2efd7396346fd0800000000000000
+      internalID: -2349693098478653976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_44
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 1108
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71414e93f25796b80800000000000000
+      internalID: -8401054784187788265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_45
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 1086
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352842b07e65430d0800000000000000
+      internalID: -3444032264707210669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_46
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 0
+        width: 245
+        height: 1075
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc025eea65699d4b0800000000000000
+      internalID: -5415131777890705203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_47
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 1068
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9c8b234cf521e10800000000000000
+      internalID: 2166899666987829697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_48
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 881
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf0965bfdde809b0800000000000000
+      internalID: -5113575831802146873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_49
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 815
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf3d79846193a500800000000000000
+      internalID: 406328252382920650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_50
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 737
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d17bd27e186bddd0800000000000000
+      internalID: -2460258291442552362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_51
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 583
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7f6b6c2f423ed10800000000000000
+      internalID: 2153605671947794398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_52
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 488
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddc2a181623c4a20800000000000000
+      internalID: 3047866442191130072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_53
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 498
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5e5dab4227c8d90800000000000000
+      internalID: -7094169810936404537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_54
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 247
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fbe2891490e86a0800000000000000
+      internalID: -6445203839389876342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_55
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 199
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c28611ed18c00790800000000000000
+      internalID: -7565827343326477625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_56
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 191
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92f9346a1c133130800000000000000
+      internalID: 3545208231346959002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_57
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 195
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83e924f7fc4a5e60800000000000000
+      internalID: 7951752719913051022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_58
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 177
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9e1a65786f21120800000000000000
+      internalID: 2383238213966883265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_59
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 161
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39f7c5aa30aeaeb0800000000000000
+      internalID: -4706648386805696197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_60
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 178
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c0ad5d5289fd000800000000000000
+      internalID: 62936208075525271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_61
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 174
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414079ceeab6a74b0800000000000000
+      internalID: -5441918800686021612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_62
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 0
+        width: 191
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549361dd115e1e360800000000000000
+      internalID: 7197285544401189189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_63
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 165
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8dc06bd5c1bd0b90800000000000000
+      internalID: -7273962359786254961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_64
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 160
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d918222022e6cb840800000000000000
+      internalID: 5241185158696173981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_65
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 150
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34c958d1c8f81ff0800000000000000
+      internalID: -65028683154734020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_66
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 158
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a0f471936e9d210800000000000000
+      internalID: 1358369895507495531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_67
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 144
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bc83c4779a705a0800000000000000
+      internalID: -6555084402769474679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_68
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 138
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ceadb9157812feb0800000000000000
+      internalID: -4687657370917163328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_69
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 112
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555eb55248e378570800000000000000
+      internalID: 8468806361576891733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_70
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 113
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4488e800a25ff2b0800000000000000
+      internalID: -5548625368599460789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_71
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 0
+        width: 35
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a730df480d432750800000000000000
+      internalID: 6278947003578726307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_72
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 78
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd753d4b019293a90800000000000000
+      internalID: -7333785366466177059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_73
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 73
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5048af890af6bda50800000000000000
+      internalID: 6546949218865153029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_74
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 64
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a51ff004cc3752a0800000000000000
+      internalID: -6748858704063425115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_75
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 34
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510d0be66d2913d70800000000000000
+      internalID: 9021152978277552149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_76
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 35
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0e6c4432d1a8ed0800000000000000
+      internalID: -2411082613188534083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_77
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 0
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b186d5626e6abb0800000000000000
+      internalID: -4924996090032809057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_78
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 10
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a4a35f76bcb1b90800000000000000
+      internalID: -7269993526103225810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_79
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 0
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0658c6a0da9c0a3c0800000000000000
+      internalID: -4350255494998489760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk direita 1_80
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cfc8bf3821c94b0800000000000000
+      internalID: -5432446692445324269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      walk direita 1_0: -1063981662802201082
+      walk direita 1_1: -805686811595830719
+      walk direita 1_10: 5971341772935492430
+      walk direita 1_11: 401096416441808992
+      walk direita 1_12: -5978847088611855792
+      walk direita 1_13: -1976330622911359176
+      walk direita 1_14: 4835275102060539344
+      walk direita 1_15: -2565688542992694002
+      walk direita 1_16: 3812304771627241797
+      walk direita 1_17: -8883395813056477532
+      walk direita 1_18: -317290903892683491
+      walk direita 1_19: -5063037066139641805
+      walk direita 1_2: -1476176682424545749
+      walk direita 1_20: 8582466064987583134
+      walk direita 1_21: -1148740610674591540
+      walk direita 1_22: 3886555591329498621
+      walk direita 1_23: -9000549277832731185
+      walk direita 1_24: -4016153140503241614
+      walk direita 1_25: 7629968136082627569
+      walk direita 1_26: -2938308552102073256
+      walk direita 1_27: -2247440178733910521
+      walk direita 1_28: -4981503567451176071
+      walk direita 1_29: -731042987149013204
+      walk direita 1_3: 3058259129477357068
+      walk direita 1_30: 2841187307700285255
+      walk direita 1_31: 5350967130568452306
+      walk direita 1_32: 3938695743288439414
+      walk direita 1_33: -1000007133359552231
+      walk direita 1_34: 527168474467935736
+      walk direita 1_35: -1127637105419171557
+      walk direita 1_36: 119970087921714436
+      walk direita 1_37: -2853914103363549642
+      walk direita 1_38: -1017465581205631055
+      walk direita 1_39: -1020786588510191394
+      walk direita 1_4: -4034905688691520012
+      walk direita 1_40: 7669432495247256418
+      walk direita 1_41: 7824564055207598539
+      walk direita 1_42: 1509570656598652898
+      walk direita 1_43: -2349693098478653976
+      walk direita 1_44: -8401054784187788265
+      walk direita 1_45: -3444032264707210669
+      walk direita 1_46: -5415131777890705203
+      walk direita 1_47: 2166899666987829697
+      walk direita 1_48: -5113575831802146873
+      walk direita 1_49: 406328252382920650
+      walk direita 1_5: 8382953416045981400
+      walk direita 1_50: -2460258291442552362
+      walk direita 1_51: 2153605671947794398
+      walk direita 1_52: 3047866442191130072
+      walk direita 1_53: -7094169810936404537
+      walk direita 1_54: -6445203839389876342
+      walk direita 1_55: -7565827343326477625
+      walk direita 1_56: 3545208231346959002
+      walk direita 1_57: 7951752719913051022
+      walk direita 1_58: 2383238213966883265
+      walk direita 1_59: -4706648386805696197
+      walk direita 1_6: 8923949692283048933
+      walk direita 1_60: 62936208075525271
+      walk direita 1_61: -5441918800686021612
+      walk direita 1_62: 7197285544401189189
+      walk direita 1_63: -7273962359786254961
+      walk direita 1_64: 5241185158696173981
+      walk direita 1_65: -65028683154734020
+      walk direita 1_66: 1358369895507495531
+      walk direita 1_67: -6555084402769474679
+      walk direita 1_68: -4687657370917163328
+      walk direita 1_69: 8468806361576891733
+      walk direita 1_7: 555745553198986743
+      walk direita 1_70: -5548625368599460789
+      walk direita 1_71: 6278947003578726307
+      walk direita 1_72: -7333785366466177059
+      walk direita 1_73: 6546949218865153029
+      walk direita 1_74: -6748858704063425115
+      walk direita 1_75: 9021152978277552149
+      walk direita 1_76: -2411082613188534083
+      walk direita 1_77: -4924996090032809057
+      walk direita 1_78: -7269993526103225810
+      walk direita 1_79: -4350255494998489760
+      walk direita 1_8: 2757334349982504781
+      walk direita 1_80: -5432446692445324269
+      walk direita 1_9: 5606506074031272301
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5824 @@
+fileFormatVersion: 2
+guid: 951fa3ea26768d74fb71c3ad39161a9b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -128004146825947300
+    second: idle direita 3_0
+  - first:
+      213: -9039369189373000474
+    second: idle direita 3_1
+  - first:
+      213: 1187292750712357077
+    second: idle direita 3_2
+  - first:
+      213: 3425738340467650879
+    second: idle direita 3_3
+  - first:
+      213: -5060764465325752363
+    second: idle direita 3_4
+  - first:
+      213: -4244557190829617149
+    second: idle direita 3_5
+  - first:
+      213: 7174722255754274769
+    second: idle direita 3_6
+  - first:
+      213: -2079166615158320562
+    second: idle direita 3_7
+  - first:
+      213: -8689666992199943312
+    second: idle direita 3_8
+  - first:
+      213: 4060577873956443128
+    second: idle direita 3_9
+  - first:
+      213: 1408999892800360041
+    second: idle direita 3_10
+  - first:
+      213: -7606390734503224427
+    second: idle direita 3_11
+  - first:
+      213: 7109925673967482642
+    second: idle direita 3_12
+  - first:
+      213: 1623410806355409504
+    second: idle direita 3_13
+  - first:
+      213: -7857548744358579930
+    second: idle direita 3_14
+  - first:
+      213: -1338568898881494859
+    second: idle direita 3_15
+  - first:
+      213: 4231523878265484684
+    second: idle direita 3_16
+  - first:
+      213: -8948240110324209335
+    second: idle direita 3_17
+  - first:
+      213: -3051097545883572620
+    second: idle direita 3_18
+  - first:
+      213: -8072808829269394123
+    second: idle direita 3_19
+  - first:
+      213: -2171914708904584619
+    second: idle direita 3_20
+  - first:
+      213: -4201070958406722343
+    second: idle direita 3_21
+  - first:
+      213: 20678646786652729
+    second: idle direita 3_22
+  - first:
+      213: 2812680946180329745
+    second: idle direita 3_23
+  - first:
+      213: 7282677627700800425
+    second: idle direita 3_24
+  - first:
+      213: -8970604967372895603
+    second: idle direita 3_25
+  - first:
+      213: 5232267447884400876
+    second: idle direita 3_26
+  - first:
+      213: -27964386479492525
+    second: idle direita 3_27
+  - first:
+      213: 5933696756636217801
+    second: idle direita 3_28
+  - first:
+      213: -5399242494386440224
+    second: idle direita 3_29
+  - first:
+      213: -2062525978108138918
+    second: idle direita 3_30
+  - first:
+      213: -3882130777005300781
+    second: idle direita 3_31
+  - first:
+      213: 4189212646274401037
+    second: idle direita 3_32
+  - first:
+      213: -6516333336653365368
+    second: idle direita 3_33
+  - first:
+      213: -765122098220713998
+    second: idle direita 3_34
+  - first:
+      213: 8708113659853728237
+    second: idle direita 3_35
+  - first:
+      213: -3890917807758974714
+    second: idle direita 3_36
+  - first:
+      213: -2427988223615645244
+    second: idle direita 3_37
+  - first:
+      213: -3604377066682899397
+    second: idle direita 3_38
+  - first:
+      213: -1816578827257542143
+    second: idle direita 3_39
+  - first:
+      213: 8691421472427226679
+    second: idle direita 3_40
+  - first:
+      213: 1674010464927289537
+    second: idle direita 3_41
+  - first:
+      213: 1448408678971105410
+    second: idle direita 3_42
+  - first:
+      213: -3641307312156789565
+    second: idle direita 3_43
+  - first:
+      213: 7712432741534140740
+    second: idle direita 3_44
+  - first:
+      213: 7970212773099236261
+    second: idle direita 3_45
+  - first:
+      213: -2611575673121911797
+    second: idle direita 3_46
+  - first:
+      213: 8864135944170138996
+    second: idle direita 3_47
+  - first:
+      213: -7613120809048206757
+    second: idle direita 3_48
+  - first:
+      213: 8816564679030863500
+    second: idle direita 3_49
+  - first:
+      213: 4579274516493772932
+    second: idle direita 3_50
+  - first:
+      213: 1710001274900111557
+    second: idle direita 3_51
+  - first:
+      213: 1280003157074358978
+    second: idle direita 3_52
+  - first:
+      213: -2185525569425723507
+    second: idle direita 3_53
+  - first:
+      213: -9140030298073974979
+    second: idle direita 3_54
+  - first:
+      213: -9008287486958530188
+    second: idle direita 3_55
+  - first:
+      213: 3930801927067481434
+    second: idle direita 3_56
+  - first:
+      213: -6474428334926625813
+    second: idle direita 3_57
+  - first:
+      213: 884552328446646851
+    second: idle direita 3_58
+  - first:
+      213: -4631264316537188311
+    second: idle direita 3_59
+  - first:
+      213: -5177544881700740922
+    second: idle direita 3_60
+  - first:
+      213: -8967253832662162688
+    second: idle direita 3_61
+  - first:
+      213: -972157219931337171
+    second: idle direita 3_62
+  - first:
+      213: 378390395683648630
+    second: idle direita 3_63
+  - first:
+      213: 3565942397283016936
+    second: idle direita 3_64
+  - first:
+      213: 569513389619927298
+    second: idle direita 3_65
+  - first:
+      213: -4266535741410087403
+    second: idle direita 3_66
+  - first:
+      213: 2900865684972431856
+    second: idle direita 3_67
+  - first:
+      213: 6868240505189514847
+    second: idle direita 3_68
+  - first:
+      213: 5431915736993843730
+    second: idle direita 3_69
+  - first:
+      213: 9026286671468754959
+    second: idle direita 3_70
+  - first:
+      213: 2125502238830410607
+    second: idle direita 3_71
+  - first:
+      213: -2000155389993224779
+    second: idle direita 3_72
+  - first:
+      213: -1947778454015218150
+    second: idle direita 3_73
+  - first:
+      213: -6530185123512829110
+    second: idle direita 3_74
+  - first:
+      213: 3695956425044507758
+    second: idle direita 3_75
+  - first:
+      213: -9021075206051095926
+    second: idle direita 3_76
+  - first:
+      213: -6251459590147545648
+    second: idle direita 3_77
+  - first:
+      213: -6957814377572167943
+    second: idle direita 3_78
+  - first:
+      213: 9119717314560325251
+    second: idle direita 3_79
+  - first:
+      213: -7664018906917010691
+    second: idle direita 3_80
+  - first:
+      213: 1628382583274730421
+    second: idle direita 3_81
+  - first:
+      213: -8586678836350558198
+    second: idle direita 3_82
+  - first:
+      213: 7021853570175941692
+    second: idle direita 3_83
+  - first:
+      213: -8929599090493937454
+    second: idle direita 3_84
+  - first:
+      213: 8255784635167657808
+    second: idle direita 3_85
+  - first:
+      213: 6233074651854667619
+    second: idle direita 3_86
+  - first:
+      213: 4514268495469065135
+    second: idle direita 3_87
+  - first:
+      213: -3252508898236617543
+    second: idle direita 3_88
+  - first:
+      213: -3536753752437124857
+    second: idle direita 3_89
+  - first:
+      213: 6190273523765075415
+    second: idle direita 3_90
+  - first:
+      213: 8545030847936100803
+    second: idle direita 3_91
+  - first:
+      213: -4702329336725932572
+    second: idle direita 3_92
+  - first:
+      213: 8363633359513536631
+    second: idle direita 3_93
+  - first:
+      213: 171488291103194039
+    second: idle direita 3_94
+  - first:
+      213: 5062532290392642127
+    second: idle direita 3_95
+  - first:
+      213: -7632914753210803998
+    second: idle direita 3_96
+  - first:
+      213: -8113145243040150957
+    second: idle direita 3_97
+  - first:
+      213: 1462909717921138449
+    second: idle direita 3_98
+  - first:
+      213: 1456658211878026828
+    second: idle direita 3_99
+  - first:
+      213: -3122783303066913479
+    second: idle direita 3_100
+  - first:
+      213: 4813345264055032139
+    second: idle direita 3_101
+  - first:
+      213: -4757139044552991057
+    second: idle direita 3_102
+  - first:
+      213: 2003410450172603304
+    second: idle direita 3_103
+  - first:
+      213: 5063530572142728259
+    second: idle direita 3_104
+  - first:
+      213: -2013353199529183636
+    second: idle direita 3_105
+  - first:
+      213: -708543442692896331
+    second: idle direita 3_106
+  - first:
+      213: -899951147835826736
+    second: idle direita 3_107
+  - first:
+      213: 7739796274333385610
+    second: idle direita 3_108
+  - first:
+      213: 1229016659007858714
+    second: idle direita 3_109
+  - first:
+      213: 8661870905322159243
+    second: idle direita 3_110
+  - first:
+      213: 276430969435859361
+    second: idle direita 3_111
+  - first:
+      213: 4025897234527184650
+    second: idle direita 3_112
+  - first:
+      213: -2451755777697156271
+    second: idle direita 3_113
+  - first:
+      213: -3407708087044267086
+    second: idle direita 3_114
+  - first:
+      213: -4010878743363636149
+    second: idle direita 3_115
+  - first:
+      213: 5918370558683433299
+    second: idle direita 3_116
+  - first:
+      213: -2972736795192909534
+    second: idle direita 3_117
+  - first:
+      213: 7413134029566718297
+    second: idle direita 3_118
+  - first:
+      213: -431226523609739845
+    second: idle direita 3_119
+  - first:
+      213: -6327054296998251011
+    second: idle direita 3_120
+  - first:
+      213: 3279083301751082340
+    second: idle direita 3_121
+  - first:
+      213: 7195342556815713804
+    second: idle direita 3_122
+  - first:
+      213: -8388965865868765290
+    second: idle direita 3_123
+  - first:
+      213: -2983600345542582135
+    second: idle direita 3_124
+  - first:
+      213: 4262932713894185481
+    second: idle direita 3_125
+  - first:
+      213: 8758898710335835851
+    second: idle direita 3_126
+  - first:
+      213: 3257975935275947455
+    second: idle direita 3_127
+  - first:
+      213: -8395099557136606097
+    second: idle direita 3_128
+  - first:
+      213: 8434941468283686975
+    second: idle direita 3_129
+  - first:
+      213: -5363812916688527708
+    second: idle direita 3_130
+  - first:
+      213: 5858105348014798185
+    second: idle direita 3_131
+  - first:
+      213: -4816802311184639578
+    second: idle direita 3_132
+  - first:
+      213: -1457697206709617868
+    second: idle direita 3_133
+  - first:
+      213: 2441505322496288021
+    second: idle direita 3_134
+  - first:
+      213: -1458043568845631873
+    second: idle direita 3_135
+  - first:
+      213: 419193380691073142
+    second: idle direita 3_136
+  - first:
+      213: -4350965951956015025
+    second: idle direita 3_137
+  - first:
+      213: 8168919895412819791
+    second: idle direita 3_138
+  - first:
+      213: -4774339254195273471
+    second: idle direita 3_139
+  - first:
+      213: 8422512533365821038
+    second: idle direita 3_140
+  - first:
+      213: -3798021387672382752
+    second: idle direita 3_141
+  - first:
+      213: -418046758853811357
+    second: idle direita 3_142
+  - first:
+      213: -8519464972062545039
+    second: idle direita 3_143
+  - first:
+      213: -6651437557204621196
+    second: idle direita 3_144
+  - first:
+      213: 8405239202627843828
+    second: idle direita 3_145
+  - first:
+      213: -8716290433843701551
+    second: idle direita 3_146
+  - first:
+      213: -6695550491352127423
+    second: idle direita 3_147
+  - first:
+      213: 3267384781948698
+    second: idle direita 3_148
+  - first:
+      213: -5513422904428353064
+    second: idle direita 3_149
+  - first:
+      213: 5338867823056870254
+    second: idle direita 3_150
+  - first:
+      213: 2746799072171091103
+    second: idle direita 3_151
+  - first:
+      213: 859749993721640091
+    second: idle direita 3_152
+  - first:
+      213: 5728286832470703049
+    second: idle direita 3_153
+  - first:
+      213: 6510941285839599837
+    second: idle direita 3_154
+  - first:
+      213: -6771358222813007111
+    second: idle direita 3_155
+  - first:
+      213: -9203378042214290218
+    second: idle direita 3_156
+  - first:
+      213: 4001398958314568118
+    second: idle direita 3_157
+  - first:
+      213: -5042663429504068325
+    second: idle direita 3_158
+  - first:
+      213: -3353777764619017454
+    second: idle direita 3_159
+  - first:
+      213: -5024466074517705090
+    second: idle direita 3_160
+  - first:
+      213: 4032635153389623305
+    second: idle direita 3_161
+  - first:
+      213: -2887967127530283918
+    second: idle direita 3_162
+  - first:
+      213: -5365295885409820550
+    second: idle direita 3_163
+  - first:
+      213: -7547464438473192527
+    second: idle direita 3_164
+  - first:
+      213: -8091002077303065087
+    second: idle direita 3_165
+  - first:
+      213: -3063140702710063950
+    second: idle direita 3_166
+  - first:
+      213: -2380293861580311126
+    second: idle direita 3_167
+  - first:
+      213: 1328112133710158668
+    second: idle direita 3_168
+  - first:
+      213: -8370468323298277333
+    second: idle direita 3_169
+  - first:
+      213: -6671244230898012956
+    second: idle direita 3_170
+  - first:
+      213: -911046330000597648
+    second: idle direita 3_171
+  - first:
+      213: 7736541194744606269
+    second: idle direita 3_172
+  - first:
+      213: 7528113841925008905
+    second: idle direita 3_173
+  - first:
+      213: -146554777590470594
+    second: idle direita 3_174
+  - first:
+      213: 7730704827549355800
+    second: idle direita 3_175
+  - first:
+      213: 249493214620107195
+    second: idle direita 3_176
+  - first:
+      213: -7115056826842501477
+    second: idle direita 3_177
+  - first:
+      213: -3581055516247882481
+    second: idle direita 3_178
+  - first:
+      213: 6269967372075724534
+    second: idle direita 3_179
+  - first:
+      213: 6080744623921467338
+    second: idle direita 3_180
+  - first:
+      213: -3723802698639322765
+    second: idle direita 3_181
+  - first:
+      213: -3016357987341193338
+    second: idle direita 3_182
+  - first:
+      213: -4535450658119481861
+    second: idle direita 3_183
+  - first:
+      213: 5638600503204552898
+    second: idle direita 3_184
+  - first:
+      213: -1837034199929782225
+    second: idle direita 3_185
+  - first:
+      213: 2099701031188908231
+    second: idle direita 3_186
+  - first:
+      213: 3509711049870058866
+    second: idle direita 3_187
+  - first:
+      213: -779699872459118488
+    second: idle direita 3_188
+  - first:
+      213: 5584958357992800326
+    second: idle direita 3_189
+  - first:
+      213: -1956969890425420861
+    second: idle direita 3_190
+  - first:
+      213: -4813396054011634030
+    second: idle direita 3_191
+  - first:
+      213: -4961409102694988582
+    second: idle direita 3_192
+  - first:
+      213: 931350446064997749
+    second: idle direita 3_193
+  - first:
+      213: -6811881074538919707
+    second: idle direita 3_194
+  - first:
+      213: 4396040912278093435
+    second: idle direita 3_195
+  - first:
+      213: -6775164736032860009
+    second: idle direita 3_196
+  - first:
+      213: -684317599773776280
+    second: idle direita 3_197
+  - first:
+      213: -1511967938987244742
+    second: idle direita 3_198
+  - first:
+      213: 678876901648040498
+    second: idle direita 3_199
+  - first:
+      213: 1262409836467667839
+    second: idle direita 3_200
+  - first:
+      213: -724422962143807613
+    second: idle direita 3_201
+  - first:
+      213: -3479222795357748519
+    second: idle direita 3_202
+  - first:
+      213: 837495473975565248
+    second: idle direita 3_203
+  - first:
+      213: -5729144637395725855
+    second: idle direita 3_204
+  - first:
+      213: 6960578853262446573
+    second: idle direita 3_205
+  - first:
+      213: -1902049988798807595
+    second: idle direita 3_206
+  - first:
+      213: 5904216107838781094
+    second: idle direita 3_207
+  - first:
+      213: 8259084459348454177
+    second: idle direita 3_208
+  - first:
+      213: -2139791020989112001
+    second: idle direita 3_209
+  - first:
+      213: -3234132008922382629
+    second: idle direita 3_210
+  - first:
+      213: -8643077727004080022
+    second: idle direita 3_211
+  - first:
+      213: 5956041109087749129
+    second: idle direita 3_212
+  - first:
+      213: 3253660076280056760
+    second: idle direita 3_213
+  - first:
+      213: -6670059221397786376
+    second: idle direita 3_214
+  - first:
+      213: -8852693776919903972
+    second: idle direita 3_215
+  - first:
+      213: 1943242579806872581
+    second: idle direita 3_216
+  - first:
+      213: 2736480541520053574
+    second: idle direita 3_217
+  - first:
+      213: -7486013657498540219
+    second: idle direita 3_218
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle direita 3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 790
+        width: 115
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5799aa18ec393ef0800000000000000
+      internalID: -128004146825947300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1382
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4cfc96d95bd8280800000000000000
+      internalID: -9039369189373000474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1366
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d04b9a577c1a7010800000000000000
+      internalID: 1187292750712357077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1334
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31b20dcedaaa8f20800000000000000
+      internalID: 3425738340467650879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1378
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfb658288d84c9b0800000000000000
+      internalID: -5060764465325752363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_5
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1361
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30055cb39bd4815c0800000000000000
+      internalID: -4244557190829617149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_6
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 1775
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7a258d0ebb19360800000000000000
+      internalID: 7174722255754274769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_7
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1236
+        width: 93
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4213aabaf05523e0800000000000000
+      internalID: -2079166615158320562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_8
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 0
+        width: 299
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b3c7119e9186780800000000000000
+      internalID: -8689666992199943312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_9
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1357
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f31cffff021a5830800000000000000
+      internalID: 4060577873956443128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_10
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1382
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ecde2ffe5cd8310800000000000000
+      internalID: 1408999892800360041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_11
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1386
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bdc176deba07690800000000000000
+      internalID: -7606390734503224427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_12
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 1386
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217f2400bb78ba260800000000000000
+      internalID: 7109925673967482642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_13
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1373
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a3855f683878610800000000000000
+      internalID: 1623410806355409504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_14
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 1386
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621b03f4c0164f290800000000000000
+      internalID: -7857548744358579930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1362
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b068c2bda27c6de0800000000000000
+      internalID: -1338568898881494859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_16
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 1368
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85f8963c8469ba30800000000000000
+      internalID: 4231523878265484684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_17
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1365
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949293b870771d380800000000000000
+      internalID: -8948240110324209335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_18
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1350
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4762b8a82f258a5d0800000000000000
+      internalID: -3051097545883572620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_19
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1351
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53db2cf242f97ff80800000000000000
+      internalID: -8072808829269394123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_20
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1353
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55adb4d541fcbd1e0800000000000000
+      internalID: -2171914708904584619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_21
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1354
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc15f7b83cc2b5c0800000000000000
+      internalID: -4201070958406722343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_22
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 1354
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a7724ae17794000800000000000000
+      internalID: 20678646786652729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1336
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11196971b66a80720800000000000000
+      internalID: 2812680946180329745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_24
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1345
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab6ac497b4411560800000000000000
+      internalID: 7282677627700800425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_25
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1345
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a426b7f42028380800000000000000
+      internalID: -8970604967372895603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1303
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce84df8a58fbc9840800000000000000
+      internalID: 5232267447884400876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1321
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3523785e986ac9ff0800000000000000
+      internalID: -27964386479492525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1337
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1703813c9b85250800000000000000
+      internalID: 5933696756636217801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_29
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1330
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7f6e9ce890215b0800000000000000
+      internalID: -5399242494386440224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_30
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 1330
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a69d6fc8f6063e0800000000000000
+      internalID: -2062525978108138918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_31
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1328
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3ecf070a6ef1ac0800000000000000
+      internalID: -3882130777005300781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_32
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1323
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0382c5d4b2132a30800000000000000
+      internalID: 4189212646274401037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_33
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1312
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f7db6fa555195a0800000000000000
+      internalID: -6516333336653365368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1284
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7b0c5618db165f0800000000000000
+      internalID: -765122098220713998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_35
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1294
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9ee4f6c3f69d870800000000000000
+      internalID: 8708113659853728237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1243
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601e84a6edea00ac0800000000000000
+      internalID: -3890917807758974714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1287
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9ce8c139d0e4ed0800000000000000
+      internalID: -2427988223615645244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_38
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1282
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b342dc7972eaafdc0800000000000000
+      internalID: -3604377066682899397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_39
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1278
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a81d66e273ac6e0800000000000000
+      internalID: -1816578827257542143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_40
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 1286
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7363a31b7c12e9870800000000000000
+      internalID: 8691421472427226679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_41
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1280
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0174806a74b3710800000000000000
+      internalID: 1674010464927289537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_42
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1273
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2806aaff408c91410800000000000000
+      internalID: 1448408678971105410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_43
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1265
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4bcd4ca4a777dc0800000000000000
+      internalID: -3641307312156789565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_44
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1269
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4490c3957b0180b60800000000000000
+      internalID: 7712432741534140740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1253
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab6cd40a42eb9e60800000000000000
+      internalID: 7970212773099236261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1227
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c448313c1d1cbd0800000000000000
+      internalID: -2611575673121911797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_47
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1231
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d68015dacb30b70800000000000000
+      internalID: 8864135944170138996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_48
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 1236
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b521c80d5f2c85690800000000000000
+      internalID: -7613120809048206757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_49
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 1227
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86f3e80ddaba5a70800000000000000
+      internalID: 8816564679030863500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_50
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 1217
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4882c9429e9dc8f30800000000000000
+      internalID: 4579274516493772932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_51
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1022
+        width: 140
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0e2eb79152bb710800000000000000
+      internalID: 1710001274900111557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_52
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1201
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2bbc0f61c73c110800000000000000
+      internalID: 1280003157074358978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_53
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1199
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fa8d2f2147ba1e0800000000000000
+      internalID: -2185525569425723507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_54
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1204
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d373efeaed6182180800000000000000
+      internalID: -9140030298073974979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_55
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1206
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4719d3132422cf280800000000000000
+      internalID: -9008287486958530188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_56
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1192
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a553741c6830d8630800000000000000
+      internalID: 3930801927067481434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_57
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1193
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be389fc7bb53626a0800000000000000
+      internalID: -6474428334926625813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_58
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1186
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a9e4af7af864c00800000000000000
+      internalID: 884552328446646851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_59
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 1183
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920dbdf34a17abfb0800000000000000
+      internalID: -4631264316537188311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_60
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1175
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0e595ac5aa528b0800000000000000
+      internalID: -5177544881700740922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_61
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 1182
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0036965562aed8380800000000000000
+      internalID: -8967253832662162688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_62
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1178
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e4920c8243282f0800000000000000
+      internalID: -972157219931337171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_63
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1175
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674b4216f00504500800000000000000
+      internalID: 378390395683648630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_64
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 1173
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e02f8797b5cc7130800000000000000
+      internalID: 3565942397283016936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_65
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 1147
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209df13196157e700800000000000000
+      internalID: 569513389619927298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_66
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1173
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e6eb729583ac4c0800000000000000
+      internalID: -4266535741410087403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_67
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 1171
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9e6e598f1f14820800000000000000
+      internalID: 2900865684972431856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_68
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 1163
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e35c79954e05f50800000000000000
+      internalID: 6868240505189514847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_69
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1160
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a4f51559a026b40800000000000000
+      internalID: 5431915736993843730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_70
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 1153
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08fcb587efc34d70800000000000000
+      internalID: 9026286671468754959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_71
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 1161
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bb8ca560d4f7d10800000000000000
+      internalID: 2125502238830410607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_72
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1139
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5fed325450e34e0800000000000000
+      internalID: -2000155389993224779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_73
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 1146
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e634bd0d918f4e0800000000000000
+      internalID: -1947778454015218150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_74
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1113
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b3a738a3f1065a0800000000000000
+      internalID: -6530185123512829110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_75
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1118
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cb91c59ccaa4330800000000000000
+      internalID: 3695956425044507758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_76
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1098
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a9d3355e3bec280800000000000000
+      internalID: -9021075206051095926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_77
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1081
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5eb89df9a5e39a0800000000000000
+      internalID: -6251459590147545648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_78
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1082
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe84bb00b0e07f90800000000000000
+      internalID: -6957814377572167943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_79
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1084
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386f85a449ebf8e70800000000000000
+      internalID: 9119717314560325251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_80
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 1084
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2855de86fe3a590800000000000000
+      internalID: -7664018906917010691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_81
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1061
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3f58af45d299610800000000000000
+      internalID: 1628382583274730421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_82
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 1059
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00e5fea71df5d880800000000000000
+      internalID: -8586678836350558198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_83
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1039
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c35236e92a27160800000000000000
+      internalID: 7021853570175941692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_84
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 1045
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8257030f0b31480800000000000000
+      internalID: -8929599090493937454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_85
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 467
+        width: 164
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fcb497260729270800000000000000
+      internalID: 8255784635167657808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_86
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1036
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ff9422f54508650800000000000000
+      internalID: 6233074651854667619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_87
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1019
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3bb2d6747e5ae30800000000000000
+      internalID: 4514268495469065135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_88
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1020
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc2fcbb364ccd2d0800000000000000
+      internalID: -3252508898236617543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_89
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1018
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70194ff533deaeec0800000000000000
+      internalID: -3536753752437124857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_90
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1025
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddd58ee8f448e550800000000000000
+      internalID: 6190273523765075415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_91
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1019
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c97cfd584c069670800000000000000
+      internalID: 8545030847936100803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_92
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 1011
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e57d8bd168fdbeb0800000000000000
+      internalID: -4702329336725932572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_93
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1011
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77849616a38911470800000000000000
+      internalID: 8363633359513536631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_94
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1006
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb385231bf316200800000000000000
+      internalID: 171488291103194039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_95
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1015
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f425cc0bb4ab14640800000000000000
+      internalID: 5062532290392642127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_96
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 1009
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8180e0970721690800000000000000
+      internalID: -7632914753210803998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_97
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 998
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a01710361586f80800000000000000
+      internalID: -8113145243040150957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_98
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1006
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117082b33ac4d4410800000000000000
+      internalID: 1462909717921138449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_99
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1004
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e352e0de6173410800000000000000
+      internalID: 1456658211878026828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_100
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 1004
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935fc2e8125a9a4d0800000000000000
+      internalID: -3122783303066913479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_101
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1005
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b491f45f3007cc240800000000000000
+      internalID: 4813345264055032139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_102
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 997
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae174e4e3f3bfdb0800000000000000
+      internalID: -4757139044552991057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_103
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 996
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abe7dd903b8dcb10800000000000000
+      internalID: 2003410450172603304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_104
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 986
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344d5e54a36454640800000000000000
+      internalID: 5063530572142728259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_105
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 998
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66baa6aee12f04e0800000000000000
+      internalID: -2013353199529183636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_106
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 980
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b98b5e2e7fba26f0800000000000000
+      internalID: -708543442692896331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_107
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 985
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd5a0ef23bb283f0800000000000000
+      internalID: -899951147835826736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_108
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 968
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83888d44b7496b60800000000000000
+      internalID: 7739796274333385610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_109
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 982
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a186337c3285e0110800000000000000
+      internalID: 1229016659007858714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_110
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 981
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cb40222b5253870800000000000000
+      internalID: 8661870905322159243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_111
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 961
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9242a808416d300800000000000000
+      internalID: 276430969435859361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_112
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 978
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a076836643cded730800000000000000
+      internalID: 4025897234527184650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_113
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 957
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15379523c1d99fdd0800000000000000
+      internalID: -2451755777697156271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_114
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 967
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b32085bc8365b0d0800000000000000
+      internalID: -3407708087044267086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_115
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 962
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4435a0980f7658c0800000000000000
+      internalID: -4010878743363636149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_116
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 961
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359c47f8aa6422250800000000000000
+      internalID: 5918370558683433299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_117
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 959
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2212bcf82a7beb6d0800000000000000
+      internalID: -2972736795192909534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_118
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 690
+        width: 71
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9513fa89f1eb0e660800000000000000
+      internalID: 7413134029566718297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_119
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 910
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbdc382f2c9f30af0800000000000000
+      internalID: -431226523609739845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_120
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 924
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df57fc893a9c138a0800000000000000
+      internalID: -6327054296998251011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_121
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 916
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46dc9cdb3e4a18d20800000000000000
+      internalID: 3279083301751082340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_122
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 898
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c066040deedfad360800000000000000
+      internalID: 7195342556815713804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_123
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 895
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697d30cddf7649b80800000000000000
+      internalID: -8388965865868765290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_124
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 875
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980a3342b4f1896d0800000000000000
+      internalID: -2983600345542582135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_125
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 891
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a0e01a7baf82b30800000000000000
+      internalID: 4262932713894185481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_126
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 881
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcec13d68fbdd8970800000000000000
+      internalID: 8758898710335835851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_127
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 872
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5d4e40ad7a63d20800000000000000
+      internalID: 3257975935275947455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_128
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 867
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c55d29e6d9e7b80800000000000000
+      internalID: -8395099557136606097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_129
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 860
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30d24e339eee0570800000000000000
+      internalID: 8434941468283686975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_130
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 859
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aed02b2298ef85b0800000000000000
+      internalID: -5363812916688527708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_131
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 852
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965fc35c6cb2c4150800000000000000
+      internalID: 5858105348014798185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_132
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 858
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a91f8881d7472db0800000000000000
+      internalID: -4816802311184639578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_133
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 849
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b7efb1d1835cbe0800000000000000
+      internalID: -1457697206709617868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_134
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 823
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515ed98b728f1e120800000000000000
+      internalID: 2441505322496288021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_135
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 845
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ec9e3691df3cbe0800000000000000
+      internalID: -1458043568845631873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_136
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 792
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6785944a82641d500800000000000000
+      internalID: 419193380691073142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_137
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 836
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48a7d3e4834e93c0800000000000000
+      internalID: -4350965951956015025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_138
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 825
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47c3b43d55dd5170800000000000000
+      internalID: 8168919895412819791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_139
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 818
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101cc7c6eb32ebdb0800000000000000
+      internalID: -4774339254195273471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_140
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 478
+        width: 153
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e8b835686c2e470800000000000000
+      internalID: 8422512533365821038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_141
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 802
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e29372bba7ba4bc0800000000000000
+      internalID: -3798021387672382752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_142
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 792
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363e30f00bcc23af0800000000000000
+      internalID: -418046758853811357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_143
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 802
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b24d7feb7c4c980800000000000000
+      internalID: -8519464972062545039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_144
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 794
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478602558c851b3a0800000000000000
+      internalID: -6651437557204621196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_145
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 778
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6f1dc958865a470800000000000000
+      internalID: 8405239202627843828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_146
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 775
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d85c930804890780800000000000000
+      internalID: -8716290433843701551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_147
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 760
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148a34b7d40a413a0800000000000000
+      internalID: -6695550491352127423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_148
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 759
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17c54d4bab9b0000800000000000000
+      internalID: 3267384781948698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_149
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 765
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9ab0d64136c73b0800000000000000
+      internalID: -5513422904428353064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_150
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 763
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b5110aff7771a40800000000000000
+      internalID: 5338867823056870254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_151
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 753
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f946126f3379e1620800000000000000
+      internalID: 2746799072171091103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_152
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 737
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b943c6b60127eeb00800000000000000
+      internalID: 859749993721640091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_153
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 735
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbb6fc3686fe7f40800000000000000
+      internalID: 5728286832470703049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_154
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 733
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8f4ef5a928b5a50800000000000000
+      internalID: 6510941285839599837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_155
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 742
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f27f42929d4702a0800000000000000
+      internalID: -6771358222813007111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_156
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 729
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcef24ae68074080800000000000000
+      internalID: -9203378042214290218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_157
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 723
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b935faf623d78730800000000000000
+      internalID: 4001398958314568118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_158
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 710
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b159e8af35cd40ab0800000000000000
+      internalID: -5042663429504068325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_159
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 696
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213a74464ecf471d0800000000000000
+      internalID: -3353777764619017454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_160
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 702
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7eee5ad9b2854ab0800000000000000
+      internalID: -5024466074517705090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_161
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 693
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9089a826e4cc6f730800000000000000
+      internalID: 4032635153389623305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_162
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 700
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c5d88d231ebe7d0800000000000000
+      internalID: -2887967127530283918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_163
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 698
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70684b91d3aa85b0800000000000000
+      internalID: -5365295885409820550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_164
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 687
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb89e5d415024790800000000000000
+      internalID: -7547464438473192527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_165
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 664
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10637698a7cf6bf80800000000000000
+      internalID: -8091002077303065087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_166
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 696
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc1de592c98d75d0800000000000000
+      internalID: -3063140702710063950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_167
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 675
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5767f185f77fed0800000000000000
+      internalID: -2380293861580311126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_168
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 688
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b1eafe2f66e6210800000000000000
+      internalID: 1328112133710158668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_169
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 682
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28852a986f16db80800000000000000
+      internalID: -8370468323298277333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_170
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 680
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec237fb7bafa63a0800000000000000
+      internalID: -6671244230898012956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_171
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 668
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d146690305b53f0800000000000000
+      internalID: -911046330000597648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_172
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 665
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3eade60a37bd5b60800000000000000
+      internalID: 7736541194744606269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_173
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 656
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e24a057ab397860800000000000000
+      internalID: 7528113841925008905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_174
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 657
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38659dc43557fdf0800000000000000
+      internalID: -146554777590470594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_175
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 661
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f0a75e41bf84b60800000000000000
+      internalID: 7730704827549355800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_176
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 647
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb14d4fb1c0667300800000000000000
+      internalID: 249493214620107195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_177
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 640
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ea55f538d324d90800000000000000
+      internalID: -7115056826842501477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_178
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 651
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0587113bf88d4ec0800000000000000
+      internalID: -3581055516247882481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_179
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 647
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6feecddea16630750800000000000000
+      internalID: 6269967372075724534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_180
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 638
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf84bea405236450800000000000000
+      internalID: 6080744623921467338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_181
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 635
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37156f5dc25625cc0800000000000000
+      internalID: -3723802698639322765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_182
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 620
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fad11546eb326d0800000000000000
+      internalID: -3016357987341193338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_183
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 604
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf50a7208a7de01c0800000000000000
+      internalID: -4535450658119481861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_184
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 607
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0a8d77845504e40800000000000000
+      internalID: 5638600503204552898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_185
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 589
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2001f0d02b8186e0800000000000000
+      internalID: -1837034199929782225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_186
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 606
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8498296f2a32d10800000000000000
+      internalID: 2099701031188908231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_187
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 71
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275a4c7ca9ff4b030800000000000000
+      internalID: 3509711049870058866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_188
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86828a6d813fd25f0800000000000000
+      internalID: -779699872459118488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64082854902c18d40800000000000000
+      internalID: 5584958357992800326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_190
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 502
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3ce0dc04277d4e0800000000000000
+      internalID: -1956969890425420861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_191
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 566
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e9e559ac1633db0800000000000000
+      internalID: -4813396054011634030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_192
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 557
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4c97035b8852bb0800000000000000
+      internalID: -4961409102694988582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_193
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 485
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5751b13db42dcec00800000000000000
+      internalID: 931350446064997749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_194
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 536
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8c6ebe0465771a0800000000000000
+      internalID: -6811881074538919707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_195
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 160
+        width: 83
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e7b622befd10d30800000000000000
+      internalID: 4396040912278093435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_196
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 148
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7981206a197c9f1a0800000000000000
+      internalID: -6775164736032860009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_197
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 144
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866afe7c4c0d086f0800000000000000
+      internalID: -684317599773776280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_198
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 159
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33c2e49b29640be0800000000000000
+      internalID: -1511967938987244742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_199
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 499
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23203f8f1fadb6900800000000000000
+      internalID: 678876901648040498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_200
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 497
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f734d97ce0bf48110800000000000000
+      internalID: 1262409836467667839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_201
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 0
+        width: 136
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3873842772552f5f0800000000000000
+      internalID: -724422962143807613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_202
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 117
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d282442d4157bfc0800000000000000
+      internalID: -3479222795357748519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_203
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 118
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb9f4342b16f9b00800000000000000
+      internalID: 837495473975565248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_204
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 115
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1913d7e4dfd70b0800000000000000
+      internalID: -5729144637395725855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_205
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 122
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defcdcb9691f89060800000000000000
+      internalID: 6960578853262446573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_206
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 117
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d18c98dc9f8a95e0800000000000000
+      internalID: -1902049988798807595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_207
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 569
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6bed8a44dffe150800000000000000
+      internalID: 5904216107838781094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_208
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 35
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12be969ae892e9270800000000000000
+      internalID: 8259084459348454177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_209
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 46
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31af5c476fed42e0800000000000000
+      internalID: -2139791020989112001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_210
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 33
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdef573b21e0e13d0800000000000000
+      internalID: -3234132008922382629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_211
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 26
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68c4dba99e9d0880800000000000000
+      internalID: -8643077727004080022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_212
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 26
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9048cce05db18a250800000000000000
+      internalID: 5956041109087749129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_213
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 20
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb0b8ac992572d20800000000000000
+      internalID: 3253660076280056760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_214
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 17
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f034c54a703f63a0800000000000000
+      internalID: -6670059221397786376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_215
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11c069d9e9e42580800000000000000
+      internalID: -8852693776919903972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_216
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 0
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5046dc1a4d8c7fa10800000000000000
+      internalID: 1943242579806872581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_217
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 6
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6454214dd8ee9f520800000000000000
+      internalID: 2736480541520053574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle direita 3_218
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547a319bd365c1890800000000000000
+      internalID: -7486013657498540219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      idle direita 3_0: -128004146825947300
+      idle direita 3_1: -9039369189373000474
+      idle direita 3_10: 1408999892800360041
+      idle direita 3_100: -3122783303066913479
+      idle direita 3_101: 4813345264055032139
+      idle direita 3_102: -4757139044552991057
+      idle direita 3_103: 2003410450172603304
+      idle direita 3_104: 5063530572142728259
+      idle direita 3_105: -2013353199529183636
+      idle direita 3_106: -708543442692896331
+      idle direita 3_107: -899951147835826736
+      idle direita 3_108: 7739796274333385610
+      idle direita 3_109: 1229016659007858714
+      idle direita 3_11: -7606390734503224427
+      idle direita 3_110: 8661870905322159243
+      idle direita 3_111: 276430969435859361
+      idle direita 3_112: 4025897234527184650
+      idle direita 3_113: -2451755777697156271
+      idle direita 3_114: -3407708087044267086
+      idle direita 3_115: -4010878743363636149
+      idle direita 3_116: 5918370558683433299
+      idle direita 3_117: -2972736795192909534
+      idle direita 3_118: 7413134029566718297
+      idle direita 3_119: -431226523609739845
+      idle direita 3_12: 7109925673967482642
+      idle direita 3_120: -6327054296998251011
+      idle direita 3_121: 3279083301751082340
+      idle direita 3_122: 7195342556815713804
+      idle direita 3_123: -8388965865868765290
+      idle direita 3_124: -2983600345542582135
+      idle direita 3_125: 4262932713894185481
+      idle direita 3_126: 8758898710335835851
+      idle direita 3_127: 3257975935275947455
+      idle direita 3_128: -8395099557136606097
+      idle direita 3_129: 8434941468283686975
+      idle direita 3_13: 1623410806355409504
+      idle direita 3_130: -5363812916688527708
+      idle direita 3_131: 5858105348014798185
+      idle direita 3_132: -4816802311184639578
+      idle direita 3_133: -1457697206709617868
+      idle direita 3_134: 2441505322496288021
+      idle direita 3_135: -1458043568845631873
+      idle direita 3_136: 419193380691073142
+      idle direita 3_137: -4350965951956015025
+      idle direita 3_138: 8168919895412819791
+      idle direita 3_139: -4774339254195273471
+      idle direita 3_14: -7857548744358579930
+      idle direita 3_140: 8422512533365821038
+      idle direita 3_141: -3798021387672382752
+      idle direita 3_142: -418046758853811357
+      idle direita 3_143: -8519464972062545039
+      idle direita 3_144: -6651437557204621196
+      idle direita 3_145: 8405239202627843828
+      idle direita 3_146: -8716290433843701551
+      idle direita 3_147: -6695550491352127423
+      idle direita 3_148: 3267384781948698
+      idle direita 3_149: -5513422904428353064
+      idle direita 3_15: -1338568898881494859
+      idle direita 3_150: 5338867823056870254
+      idle direita 3_151: 2746799072171091103
+      idle direita 3_152: 859749993721640091
+      idle direita 3_153: 5728286832470703049
+      idle direita 3_154: 6510941285839599837
+      idle direita 3_155: -6771358222813007111
+      idle direita 3_156: -9203378042214290218
+      idle direita 3_157: 4001398958314568118
+      idle direita 3_158: -5042663429504068325
+      idle direita 3_159: -3353777764619017454
+      idle direita 3_16: 4231523878265484684
+      idle direita 3_160: -5024466074517705090
+      idle direita 3_161: 4032635153389623305
+      idle direita 3_162: -2887967127530283918
+      idle direita 3_163: -5365295885409820550
+      idle direita 3_164: -7547464438473192527
+      idle direita 3_165: -8091002077303065087
+      idle direita 3_166: -3063140702710063950
+      idle direita 3_167: -2380293861580311126
+      idle direita 3_168: 1328112133710158668
+      idle direita 3_169: -8370468323298277333
+      idle direita 3_17: -8948240110324209335
+      idle direita 3_170: -6671244230898012956
+      idle direita 3_171: -911046330000597648
+      idle direita 3_172: 7736541194744606269
+      idle direita 3_173: 7528113841925008905
+      idle direita 3_174: -146554777590470594
+      idle direita 3_175: 7730704827549355800
+      idle direita 3_176: 249493214620107195
+      idle direita 3_177: -7115056826842501477
+      idle direita 3_178: -3581055516247882481
+      idle direita 3_179: 6269967372075724534
+      idle direita 3_18: -3051097545883572620
+      idle direita 3_180: 6080744623921467338
+      idle direita 3_181: -3723802698639322765
+      idle direita 3_182: -3016357987341193338
+      idle direita 3_183: -4535450658119481861
+      idle direita 3_184: 5638600503204552898
+      idle direita 3_185: -1837034199929782225
+      idle direita 3_186: 2099701031188908231
+      idle direita 3_187: 3509711049870058866
+      idle direita 3_188: -779699872459118488
+      idle direita 3_189: 5584958357992800326
+      idle direita 3_19: -8072808829269394123
+      idle direita 3_190: -1956969890425420861
+      idle direita 3_191: -4813396054011634030
+      idle direita 3_192: -4961409102694988582
+      idle direita 3_193: 931350446064997749
+      idle direita 3_194: -6811881074538919707
+      idle direita 3_195: 4396040912278093435
+      idle direita 3_196: -6775164736032860009
+      idle direita 3_197: -684317599773776280
+      idle direita 3_198: -1511967938987244742
+      idle direita 3_199: 678876901648040498
+      idle direita 3_2: 1187292750712357077
+      idle direita 3_20: -2171914708904584619
+      idle direita 3_200: 1262409836467667839
+      idle direita 3_201: -724422962143807613
+      idle direita 3_202: -3479222795357748519
+      idle direita 3_203: 837495473975565248
+      idle direita 3_204: -5729144637395725855
+      idle direita 3_205: 6960578853262446573
+      idle direita 3_206: -1902049988798807595
+      idle direita 3_207: 5904216107838781094
+      idle direita 3_208: 8259084459348454177
+      idle direita 3_209: -2139791020989112001
+      idle direita 3_21: -4201070958406722343
+      idle direita 3_210: -3234132008922382629
+      idle direita 3_211: -8643077727004080022
+      idle direita 3_212: 5956041109087749129
+      idle direita 3_213: 3253660076280056760
+      idle direita 3_214: -6670059221397786376
+      idle direita 3_215: -8852693776919903972
+      idle direita 3_216: 1943242579806872581
+      idle direita 3_217: 2736480541520053574
+      idle direita 3_218: -7486013657498540219
+      idle direita 3_22: 20678646786652729
+      idle direita 3_23: 2812680946180329745
+      idle direita 3_24: 7282677627700800425
+      idle direita 3_25: -8970604967372895603
+      idle direita 3_26: 5232267447884400876
+      idle direita 3_27: -27964386479492525
+      idle direita 3_28: 5933696756636217801
+      idle direita 3_29: -5399242494386440224
+      idle direita 3_3: 3425738340467650879
+      idle direita 3_30: -2062525978108138918
+      idle direita 3_31: -3882130777005300781
+      idle direita 3_32: 4189212646274401037
+      idle direita 3_33: -6516333336653365368
+      idle direita 3_34: -765122098220713998
+      idle direita 3_35: 8708113659853728237
+      idle direita 3_36: -3890917807758974714
+      idle direita 3_37: -2427988223615645244
+      idle direita 3_38: -3604377066682899397
+      idle direita 3_39: -1816578827257542143
+      idle direita 3_4: -5060764465325752363
+      idle direita 3_40: 8691421472427226679
+      idle direita 3_41: 1674010464927289537
+      idle direita 3_42: 1448408678971105410
+      idle direita 3_43: -3641307312156789565
+      idle direita 3_44: 7712432741534140740
+      idle direita 3_45: 7970212773099236261
+      idle direita 3_46: -2611575673121911797
+      idle direita 3_47: 8864135944170138996
+      idle direita 3_48: -7613120809048206757
+      idle direita 3_49: 8816564679030863500
+      idle direita 3_5: -4244557190829617149
+      idle direita 3_50: 4579274516493772932
+      idle direita 3_51: 1710001274900111557
+      idle direita 3_52: 1280003157074358978
+      idle direita 3_53: -2185525569425723507
+      idle direita 3_54: -9140030298073974979
+      idle direita 3_55: -9008287486958530188
+      idle direita 3_56: 3930801927067481434
+      idle direita 3_57: -6474428334926625813
+      idle direita 3_58: 884552328446646851
+      idle direita 3_59: -4631264316537188311
+      idle direita 3_6: 7174722255754274769
+      idle direita 3_60: -5177544881700740922
+      idle direita 3_61: -8967253832662162688
+      idle direita 3_62: -972157219931337171
+      idle direita 3_63: 378390395683648630
+      idle direita 3_64: 3565942397283016936
+      idle direita 3_65: 569513389619927298
+      idle direita 3_66: -4266535741410087403
+      idle direita 3_67: 2900865684972431856
+      idle direita 3_68: 6868240505189514847
+      idle direita 3_69: 5431915736993843730
+      idle direita 3_7: -2079166615158320562
+      idle direita 3_70: 9026286671468754959
+      idle direita 3_71: 2125502238830410607
+      idle direita 3_72: -2000155389993224779
+      idle direita 3_73: -1947778454015218150
+      idle direita 3_74: -6530185123512829110
+      idle direita 3_75: 3695956425044507758
+      idle direita 3_76: -9021075206051095926
+      idle direita 3_77: -6251459590147545648
+      idle direita 3_78: -6957814377572167943
+      idle direita 3_79: 9119717314560325251
+      idle direita 3_8: -8689666992199943312
+      idle direita 3_80: -7664018906917010691
+      idle direita 3_81: 1628382583274730421
+      idle direita 3_82: -8586678836350558198
+      idle direita 3_83: 7021853570175941692
+      idle direita 3_84: -8929599090493937454
+      idle direita 3_85: 8255784635167657808
+      idle direita 3_86: 6233074651854667619
+      idle direita 3_87: 4514268495469065135
+      idle direita 3_88: -3252508898236617543
+      idle direita 3_89: -3536753752437124857
+      idle direita 3_9: 4060577873956443128
+      idle direita 3_90: 6190273523765075415
+      idle direita 3_91: 8545030847936100803
+      idle direita 3_92: -4702329336725932572
+      idle direita 3_93: 8363633359513536631
+      idle direita 3_94: 171488291103194039
+      idle direita 3_95: 5062532290392642127
+      idle direita 3_96: -7632914753210803998
+      idle direita 3_97: -8113145243040150957
+      idle direita 3_98: 1462909717921138449
+      idle direita 3_99: 1456658211878026828
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
