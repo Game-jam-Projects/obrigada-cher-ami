@@ -5,6 +5,7 @@ public class Tangara : MonoBehaviour
     #region Fields
 
     private bool _isAlpha;
+    private SpriteRenderer _spriteRenderer;
 
     #endregion
 
@@ -28,6 +29,12 @@ public class Tangara : MonoBehaviour
         }
     }
 
+    private void Awake()
+    {
+        _spriteRenderer = GetComponentInChildren<SpriteRenderer>();
+        _spriteRenderer.enabled = false;
+    }
+
     #endregion
 
     #region Public Methods
@@ -37,11 +44,16 @@ public class Tangara : MonoBehaviour
         TangaraManager.Instance.StartDance();
     }
 
+    public void ActivateSprite()
+    {
+        _spriteRenderer.enabled = true;
+    }
+
     public void SetIsAlpha()
     {
         _isAlpha = true;
 
-        //GetComponentInChildren<SpriteRenderer>().color = Color.blue;
+        //_spriteRenderer.color = Color.blue;
     }
 
     #endregion

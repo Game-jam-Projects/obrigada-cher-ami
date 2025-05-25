@@ -58,6 +58,8 @@ public class TangaraDance
             tangara.GetComponent<Collider2D>().enabled = true;
         }
 
+        TangaraManager.Instance.ActivateUI();
+
         _isDancing = false;
     }
 
@@ -141,6 +143,7 @@ public class TangaraDance
         if (animationTrigger == "fly")
         {
             animator.SetTrigger("rest");
+            TangaraManager.Instance.StopSound();
         }
     }
 
