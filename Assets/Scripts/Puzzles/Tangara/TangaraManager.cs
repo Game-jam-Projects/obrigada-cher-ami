@@ -15,6 +15,7 @@ public class TangaraManager : Singleton<TangaraManager>
     [SerializeField] private RectTransform _uiChoose;
     [SerializeField] private RectTransform _uiRight;
     [SerializeField] private RectTransform _uiWrong;
+    [SerializeField] private AudioSource _sfx;
 
     [Header("Sound Effects")]
     [SerializeField] private GameEvent _winSound;
@@ -125,6 +126,11 @@ public class TangaraManager : Singleton<TangaraManager>
     public void ActivateUI()
     {
         _uiChoose.gameObject.SetActive(true);
+    }
+
+    public void StopSound()
+    {
+        _sfx.Stop();
     }
 
     #endregion

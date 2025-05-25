@@ -143,6 +143,7 @@ public class TangaraDance
         if (animationTrigger == "fly")
         {
             animator.SetTrigger("rest");
+            TangaraManager.Instance.StopSound();
         }
     }
 

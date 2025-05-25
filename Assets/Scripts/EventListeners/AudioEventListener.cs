@@ -30,7 +30,7 @@ public class AudioEventListener : MonoBehaviour, IEventListener
             if (VolumeInfo.Tipo == VolumeType.Musica && _audioSource.isPlaying)
             {
                 //_audioSource.Stop();
-                return;
+                //return;
             }
 
             _audioSource.PlayOneShot(audioClip);
