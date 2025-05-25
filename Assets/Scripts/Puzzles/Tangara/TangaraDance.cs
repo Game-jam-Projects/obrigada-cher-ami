@@ -133,11 +133,15 @@ public class TangaraDance
 
             tangara.transform.position = pos;
 
-
             yield return null;
         }
 
         tangara.transform.position = endPosition;
+
+        if (animationTrigger == "fly")
+        {
+            animator.SetTrigger("rest");
+        }
     }
 
     #endregion
