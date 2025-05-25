@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 4552918436165340460}
   - component: {fileID: 4121607901521019964}
   - component: {fileID: 8111729953655268415}
+  - component: {fileID: 1304611479197374101}
   m_Layer: 0
   m_Name: Tangara
   m_TagString: Untagged
@@ -106,6 +107,18 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &1304611479197374101
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2397553000736148607}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a542c8968f837647a2e7be1f07b7f6b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &3774364010280896883
 GameObject:
   m_ObjectHideFlags: 0

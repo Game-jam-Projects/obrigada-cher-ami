@@ -10,6 +10,10 @@ public class TangaraManager : Singleton<TangaraManager>
     [SerializeField] private GameObject _tangaraPrefab;
     [SerializeField] private Transform _startingPosition;
     [SerializeField] private float _distanceBetween = 1.5f;
+    [SerializeField] private List<Transform> _predefinedPlaces;
+
+    [Header("Sound Effects")]
+    [SerializeField] private GameEvent _winSound;
 
     private Tangara _alpha;
     private List<GameObject> _tangaras;
@@ -63,7 +67,8 @@ public class TangaraManager : Singleton<TangaraManager>
 
     public void PlayerWins()
     {
-        Debug.Log("Aeee, você acertou!");
+        _winSound.Broadcast();
+
         _level.AdvanceRound();
 
         if (_level.IsFinished)
@@ -110,9 +115,9 @@ public class TangaraManager : Singleton<TangaraManager>
 
         for (int i = 0; i < _level.StartingNumber; i++)
         {
-            position += new Vector3(_distanceBetween, 0, 0);
+            //position += new Vector3(_distanceBetween, 0, 0);
 
-            GameObject tangara = Instantiate(_tangaraPrefab, position, Quaternion.identity);
+            GameObject tangara = Instantiate(_tangaraPrefab, _predefinedPlaces[i].position, Quaternion.identity);
 
             if (alphaIndex == i)
             {
@@ -149,9 +154,9 @@ public class TangaraManager : Singleton<TangaraManager>
 
         for (int i = 0; i < amount; i++)
         {
-            position += new Vector3(_distanceBetween, 0, 0);
+            //position += new Vector3(_distanceBetween, 0, 0);
 
-            GameObject tangara = Instantiate(_tangaraPrefab, position, Quaternion.identity);
+            GameObject tangara = Instantiate(_tangaraPrefab, _predefinedPlaces[lastIndex + i + 1].position, Quaternion.identity);
 
             _tangaras.Add(tangara);
 
