@@ -53,6 +53,11 @@ public class TangaraDance
             _currentCycle++;
         }
 
+        foreach (var tangara in _tangaras)
+        {
+            tangara.GetComponent<Collider2D>().enabled = true;
+        }
+
         _isDancing = false;
     }
 

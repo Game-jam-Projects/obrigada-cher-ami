@@ -42,7 +42,7 @@ CapsuleCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2397553000736148607}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
@@ -84,7 +84,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f0c655bf9482e0c4fa88717cd6cbee88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _isAlpha: 0
 --- !u!95 &7653220469673378571
 Animator:
   serializedVersion: 7
