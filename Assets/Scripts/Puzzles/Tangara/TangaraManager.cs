@@ -11,10 +11,11 @@ public class TangaraManager : Singleton<TangaraManager>
     [SerializeField] private Transform _startingPosition;
     [SerializeField] private float _distanceBetween = 1.5f;
 
+    private Tangara _alpha;
     private List<GameObject> _tangaras;
     private List<Transform> _places;
 
-    private bool _isReadyToStart = false;
+    private bool _canStart = false;
 
     private TangaraDance _dance;
     private InputAction _startAction;
@@ -32,19 +33,19 @@ public class TangaraManager : Singleton<TangaraManager>
 
         _startAction = InputSystem.actions.FindAction("Jump");
 
-        _isReadyToStart = true;
+        _canStart = true;
     }
 
     private void Update()
     {
-        if (_startAction.triggered && _isReadyToStart && !_level.IsFinished)
+        if (_startAction.triggered && _canStart && !_level.IsFinished)
         {
-            _isReadyToStart = false;
+            _canStart = false;
 
-            _dance.StartDance(_level.CurrentRound.TotalCycles,
-                              _level.CurrentRound.MoveSpeed,
-                              _level.CurrentRound.FlySpeed,
-                              _level.CurrentRound.DelayToMove);
+            if (_alpha.TryGetComponent(out Animator animator))
+            {
+                animator.SetTrigger("flip");
+            }
         }
     }
 
@@ -52,27 +53,48 @@ public class TangaraManager : Singleton<TangaraManager>
 
     #region Public Methods
 
+    public void StartDance()
+    {
+        _dance.StartDance(_level.CurrentRound.TotalCycles,
+                          _level.CurrentRound.MoveSpeed,
+                          _level.CurrentRound.FlySpeed,
+                          _level.CurrentRound.DelayToMove);
+    }
+
     public void PlayerWins()
     {
         Debug.Log("Aeee, você acertou!");
         _level.AdvanceRound();
 
-        if (_level.IsFinished) Debug.Log("ACABOU!");
+        if (_level.IsFinished)
+        {
+            Debug.Log("ACABOU!");
+        }
         else if (_level.CurrentRound.NewAmount > 0)
         {
             AddMore(_level.CurrentRound.NewAmount);
 
             _dance = new TangaraDance(this, _tangaras, _places);
-        }
 
-        _isReadyToStart = true;
+            _canStart = true; //remover
+
+            DisableClicks();
+        }
+        else
+        {
+            _canStart = true;
+
+            DisableClicks();
+        }
     }
 
     public void PlayerLoses()
     {
         Debug.Log("Errou rude!");
 
-        _isReadyToStart = true;
+        _canStart = true;
+
+        DisableClicks();
     }
 
     #endregion
@@ -94,7 +116,8 @@ public class TangaraManager : Singleton<TangaraManager>
 
             if (alphaIndex == i)
             {
-                tangara.GetComponent<Tangara>().SetIsAlpha();
+                _alpha = tangara.GetComponent<Tangara>();
+                _alpha.SetIsAlpha();
             }
 
             tangaras.Add(tangara);
@@ -136,6 +159,14 @@ public class TangaraManager : Singleton<TangaraManager>
 
             place.position = tangara.transform.position;
             _places.Add(place);
+        }
+    }
+
+    private void DisableClicks()
+    {
+        foreach (var tangara in _tangaras)
+        {
+            tangara.GetComponent<Collider2D>().enabled = false;
         }
     }
 

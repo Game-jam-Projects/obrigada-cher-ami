@@ -4,7 +4,13 @@ public class Tangara : MonoBehaviour
 {
     #region Fields
 
-    [SerializeField] private bool _isAlpha;
+    private bool _isAlpha;
+
+    #endregion
+
+    #region Properties
+
+    public bool IsAlpha => _isAlpha;
 
     #endregion
 
@@ -25,6 +31,11 @@ public class Tangara : MonoBehaviour
     #endregion
 
     #region Public Methods
+
+    public void TriggerDance()
+    {
+        TangaraManager.Instance.StartDance();
+    }
 
     public void SetIsAlpha()
     {
