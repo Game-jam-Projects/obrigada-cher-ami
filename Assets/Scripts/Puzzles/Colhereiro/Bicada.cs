@@ -1,9 +1,10 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class EsticaCabeca : MonoBehaviour
+public class Bicada : MonoBehaviour
 {
     [SerializeField] private Vector3 EsticaPos;
+    [SerializeField] private GameEvent BicadaEvent;
     private readonly float MoveDuration = 0.2f;
     private readonly float MaxVelocity = 2000f;
 
@@ -23,8 +24,10 @@ public class EsticaCabeca : MonoBehaviour
             ResetaPosicao();
 
         if (_attackAction.triggered)
+        {
             transform.localPosition = EsticaPos;
-
+            BicadaEvent.Broadcast();
+        }
     }
 
     private void ResetaPosicao()

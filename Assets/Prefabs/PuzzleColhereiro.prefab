@@ -443,7 +443,7 @@ Transform:
   m_GameObject: {fileID: 4428275801178684849}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.6122893, y: -0.37391078, z: -0.05697615}
+  m_LocalPosition: {x: 0.6122893, y: -0.15, z: -0.05697615}
   m_LocalScale: {x: 0.9, y: 0.9, z: 0.9}
   m_ConstrainProportionsScale: 1
   m_Children:
@@ -1247,6 +1247,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   EsticaPos: {x: 0, y: 1.8, z: 0}
+  BicadaEvent: {fileID: 11400000, guid: f50201d35ccd00242a7829298355d2ff, type: 2}
 --- !u!1 &8983218745418760243
 GameObject:
   m_ObjectHideFlags: 0
