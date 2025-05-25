@@ -11,6 +11,9 @@ public class TangaraManager : Singleton<TangaraManager>
     [SerializeField] private Transform _startingPosition;
     [SerializeField] private float _distanceBetween = 1.5f;
 
+    [Header("Sound Effects")]
+    [SerializeField] private GameEvent _winSound;
+
     private Tangara _alpha;
     private List<GameObject> _tangaras;
     private List<Transform> _places;
@@ -63,7 +66,8 @@ public class TangaraManager : Singleton<TangaraManager>
 
     public void PlayerWins()
     {
-        Debug.Log("Aeee, você acertou!");
+        _winSound.Broadcast();
+
         _level.AdvanceRound();
 
         if (_level.IsFinished)
