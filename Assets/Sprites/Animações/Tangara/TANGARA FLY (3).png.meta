@@ -103,7 +103,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -613,7 +613,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TANGARA FLY (3)_0: 6294980046813675727
+      TANGARA FLY (3)_1: 9042747554981083586
+      TANGARA FLY (3)_10: -4388542788233697006
+      TANGARA FLY (3)_11: 4373416383397430226
+      TANGARA FLY (3)_12: -7930145632598722042
+      TANGARA FLY (3)_13: -724312611243583286
+      TANGARA FLY (3)_14: 6644502897845527072
+      TANGARA FLY (3)_15: 2163678389684903647
+      TANGARA FLY (3)_16: 3585369588728583392
+      TANGARA FLY (3)_17: -3029456944523467327
+      TANGARA FLY (3)_18: -2747587841320846337
+      TANGARA FLY (3)_19: 515241492277586772
+      TANGARA FLY (3)_2: -7983752503424245389
+      TANGARA FLY (3)_3: 4969213160920846251
+      TANGARA FLY (3)_4: -5236899251997137707
+      TANGARA FLY (3)_5: 7366945520550397137
+      TANGARA FLY (3)_6: -7709864127438511962
+      TANGARA FLY (3)_7: 729596508529366748
+      TANGARA FLY (3)_8: 5127568216278946800
+      TANGARA FLY (3)_9: -5365185069241220608
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

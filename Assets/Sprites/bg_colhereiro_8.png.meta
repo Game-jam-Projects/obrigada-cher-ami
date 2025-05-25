@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bg_colhereiro_8_0: 2537197118247929560
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
