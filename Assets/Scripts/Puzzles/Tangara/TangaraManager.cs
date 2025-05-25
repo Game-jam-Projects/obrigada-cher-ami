@@ -151,6 +151,11 @@ public class TangaraManager : Singleton<TangaraManager>
             }
 
             tangaras.Add(tangara);
+
+            if (tangara.TryGetComponent(out Animator animator))
+            {
+                animator.SetTrigger("summon");
+            }
         }
 
         return tangaras;
@@ -189,6 +194,11 @@ public class TangaraManager : Singleton<TangaraManager>
 
             place.position = tangara.transform.position;
             _places.Add(place);
+
+            if (tangara.TryGetComponent(out Animator animator))
+            {
+                animator.SetTrigger("summon");
+            }
         }
     }
 
