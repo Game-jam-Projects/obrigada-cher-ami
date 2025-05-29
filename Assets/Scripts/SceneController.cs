@@ -30,7 +30,7 @@ public class SceneController : MonoBehaviour
                 fader = fader3;
             }
 
-            fader.rectTransform.sizeDelta = new Vector2(fader.rectTransform., Camera.main.pixelHeight);
+            fader.rectTransform.sizeDelta = new Vector2(Camera.main.pixelWidth, Camera.main.pixelHeight);
             fader.gameObject.SetActive(false);
             fader1.gameObject.SetActive(false);
             fader2.gameObject.SetActive(false);
