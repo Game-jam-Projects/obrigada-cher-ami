@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 5511903883132558772}
   - component: {fileID: 6472233540372173596}
   - component: {fileID: 2934204984982454461}
+  - component: {fileID: 6727094866007650719}
   m_Layer: 0
   m_Name: Music
   m_TagString: Untagged
@@ -143,6 +144,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   VolumeInfo: {fileID: 11400000, guid: 2c553c8add554f846bc4d82ff2a4dd38, type: 2}
+--- !u!114 &6727094866007650719
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 640039152666389264}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8edcb3496a2636147a0d5f60e18f3887, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _playMusic: {fileID: 0}
 --- !u!1 &1330953564149896727
 GameObject:
   m_ObjectHideFlags: 0

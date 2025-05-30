@@ -6,6 +6,7 @@ public class OnEnablePlayMusic : MonoBehaviour
 
     private void Start()
     {
-        _playMusic.Broadcast();
+        if(_playMusic != null)
+            _playMusic.Broadcast();
     }
 }

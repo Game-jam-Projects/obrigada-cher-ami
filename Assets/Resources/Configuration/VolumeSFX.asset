@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: VolumeSFX
   m_EditorClassIdentifier: 
   Tipo: 1
-  Volume: 1
+  Volume: 0.5
   EventoBroadcast: {fileID: 11400000, guid: e216313adef67c144b0c9d36812d103b, type: 2}
   EventoAtualizacao: {fileID: 11400000, guid: a5ec5cd61b458fe4d835c8e8c71edd42, type: 2}

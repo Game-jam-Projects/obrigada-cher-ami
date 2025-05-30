@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 05ceab6c9a03e1a4485fafa0c76cfa1a, type: 3}
-  m_Name: TangaraMusica
+  m_Name: MusicaCutsceneFinal
   m_EditorClassIdentifier: 
   Clips:
-  - {fileID: 8300000, guid: a203120c35861024cafa10cdac1c51ee, type: 3}
+  - {fileID: 8300000, guid: 626ed0aab7ddf6643895a70da1ea5c3e, type: 3}
   IsMusic: 1

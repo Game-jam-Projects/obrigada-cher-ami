@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: VolumeMusic
   m_EditorClassIdentifier: 
   Tipo: 0
-  Volume: 1
+  Volume: 0.5
   EventoBroadcast: {fileID: 11400000, guid: ab53461f4c4baba47a35c133a187a13e, type: 2}
   EventoAtualizacao: {fileID: 11400000, guid: 583b138d850f3344bb656594a0fb4d8d, type: 2}
