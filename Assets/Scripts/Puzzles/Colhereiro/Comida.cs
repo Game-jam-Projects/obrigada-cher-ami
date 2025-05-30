@@ -58,10 +58,10 @@ public class Comida : MonoBehaviour
     {
         Pontuacao.Pontos = TipoComida switch
         {
-            TipoComida.Crustaceo => Pontuacao.Pontos += 30,
-            TipoComida.Peixe => Pontuacao.Pontos += 10,
-            TipoComida.Inseto => Pontuacao.Pontos += 5,
-            TipoComida.Lixo => Pontuacao.Pontos -= 15,
+            TipoComida.Crustaceo => Pontuacao.Pontos += 10,
+            TipoComida.Peixe => Pontuacao.Pontos += 2,
+            TipoComida.Inseto => Pontuacao.Pontos += 1,
+            TipoComida.Lixo => Pontuacao.Pontos -= 10,
             TipoComida.Aleatorio => Pontuacao.Pontos
         };
     }

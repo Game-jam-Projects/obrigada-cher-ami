@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 936a1739c07dd8d469c21874974ac43c, type: 3}
   m_Name: ColhereiroPontuacao
   m_EditorClassIdentifier: 
-  Pontos: 0
+  Pontos: 138
