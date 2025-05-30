@@ -1,10 +1,23 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
 public class Comida : MonoBehaviour
 {
     [SerializeField] private TipoComida TipoComida = TipoComida.Aleatorio;
+    [SerializeField] private float ValorCrustaceo = 30;
+    [SerializeField] private float ValorPeixe = 10;
+    [SerializeField] private float ValorInseto = 5;
+    [SerializeField] private float ValorLixo = -15;
+
+    [Header("Configuração")]
     [SerializeField] private Pontuacao Pontuacao;
+
+    [Header("Game Events")]
+    [SerializeField] private GameEvent ComeLixo;
+    [SerializeField] private GameEvent ComeCrustaceo;
+    [SerializeField] private GameEvent ComePeixe;
+
 
     private SpriteRenderer _spriteRenderer;
     private InputAction _jumpAction;
@@ -37,7 +50,8 @@ public class Comida : MonoBehaviour
             TipoComida.Peixe => new Color(0, 0, 255, 0.3f),
             TipoComida.Inseto => new Color(0, 255, 0, 0.3f),
             TipoComida.Lixo => new Color(0, 0, 0, 0.3f),
-            TipoComida.Aleatorio => _spriteRenderer.color
+            TipoComida.Aleatorio => _spriteRenderer.color,
+            _ => _spriteRenderer.color
         };
     }
 
@@ -58,14 +72,35 @@ public class Comida : MonoBehaviour
     {
         Pontuacao.Pontos = TipoComida switch
         {
-            TipoComida.Crustaceo => Pontuacao.Pontos += 10,
-            TipoComida.Peixe => Pontuacao.Pontos += 2,
-            TipoComida.Inseto => Pontuacao.Pontos += 1,
-            TipoComida.Lixo => Pontuacao.Pontos -= 10,
-            TipoComida.Aleatorio => Pontuacao.Pontos
+            TipoComida.Crustaceo => Pontuacao.AddPontos(ValorCrustaceo),
+            TipoComida.Peixe => Pontuacao.AddPontos(ValorPeixe),
+            TipoComida.Inseto => Pontuacao.AddPontos(ValorInseto),
+            TipoComida.Lixo => Pontuacao.AddPontos(ValorLixo),
+            TipoComida.Aleatorio => Pontuacao.Pontos,
+            _ => Pontuacao.Pontos
         };
+
+        var comidaEvent = TipoComida switch
+        {
+            TipoComida.Crustaceo => ComeCrustaceo,
+            TipoComida.Peixe => ComePeixe,
+            TipoComida.Inseto => ComePeixe,
+            TipoComida.Lixo => ComeLixo,
+            TipoComida.Aleatorio => null,
+            _ => null
+        };
+
+        if (comidaEvent != null)
+            StartCoroutine(Broadcast(comidaEvent, 0.2f));
+    }
+
+    private IEnumerator Broadcast(GameEvent gameEvent, float delay)
+    {
+        yield return new WaitForSeconds(delay);
+        gameEvent.Broadcast();
     }
 }
+
 
 public enum TipoComida
 {

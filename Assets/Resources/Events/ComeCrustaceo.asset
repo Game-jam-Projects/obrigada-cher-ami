@@ -9,8 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 936a1739c07dd8d469c21874974ac43c, type: 3}
-  m_Name: ColhereiroPontuacao
+  m_Script: {fileID: 11500000, guid: 05ceab6c9a03e1a4485fafa0c76cfa1a, type: 3}
+  m_Name: ComeCrustaceo
   m_EditorClassIdentifier: 
-  Pontos: 0
-  FinalizaPuzzle: {fileID: 11400000, guid: 205bf24e1a6ef814eb0a18f16e954db1, type: 2}
+  Clips:
+  - {fileID: 8300000, guid: 4a9533471833dda4fba58b377e16ab7e, type: 3}
+  IsMusic: 0

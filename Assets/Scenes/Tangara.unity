@@ -1921,7 +1921,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6057386467280404373, guid: 07918f791a2a89f458613dc0cd1fdb3f, type: 3}
       propertyPath: winAction.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: Hub 2
+      value: Hub 3
       objectReference: {fileID: 0}
     - target: {fileID: 6057386467280404373, guid: 07918f791a2a89f458613dc0cd1fdb3f, type: 3}
       propertyPath: winAction.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
