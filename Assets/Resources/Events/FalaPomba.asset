@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05ceab6c9a03e1a4485fafa0c76cfa1a, type: 3}
+  m_Name: FalaPomba
+  m_EditorClassIdentifier: 
+  Clips:
+  - {fileID: 8300000, guid: 701000f5fc99a0b4581bcffbaae4f797, type: 3}
+  - {fileID: 8300000, guid: 26e1a9a6a3fffa14bb0c22106f3976a5, type: 3}
+  - {fileID: 8300000, guid: eacecee51bb2aba4da493c85b33b0afd, type: 3}
+  - {fileID: 8300000, guid: 56af29a22ceb7a94e95021913aa366f7, type: 3}
+  - {fileID: 8300000, guid: 11dcf41e50023e64aba7b1202146856e, type: 3}
+  - {fileID: 8300000, guid: 1957050433afa1146a0e262188920261, type: 3}
+  - {fileID: 8300000, guid: 7244fe395a6a1004c94cf4d0b238a75c, type: 3}
+  - {fileID: 8300000, guid: e58aee95817364e479ac89702899d51e, type: 3}
+  IsMusic: 0

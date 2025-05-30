@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.InputSystem;
 
 public class TangaraManager : Singleton<TangaraManager>
@@ -15,6 +16,8 @@ public class TangaraManager : Singleton<TangaraManager>
     [SerializeField] private RectTransform _uiChoose;
     [SerializeField] private RectTransform _uiRight;
     [SerializeField] private RectTransform _uiWrong;
+    [SerializeField] private GameObject _uiWin;
+    [SerializeField] private UnityEvent winAction;
 
     [Header("Sound Effects")]
     [SerializeField] private AudioSource _sfx;
@@ -60,6 +63,7 @@ public class TangaraManager : Singleton<TangaraManager>
             _uiStart.gameObject.SetActive(false);
             _uiRight.gameObject.SetActive(false);
             _uiWrong.gameObject.SetActive(false);
+            _uiWin.gameObject.SetActive(false);
 
             if (_alpha.TryGetComponent(out Animator animator))
             {
@@ -89,9 +93,10 @@ public class TangaraManager : Singleton<TangaraManager>
 
         _level.AdvanceRound();
 
-        if (_level.IsFinished)
+        if (true) //_level.IsFinished
         {
-            Debug.Log("ACABOU!");
+            _uiRight.gameObject.SetActive(false);
+            _uiWin.SetActive(true);
         }
         else if (_level.CurrentRound.NewAmount > 0)
         {

@@ -25,12 +25,13 @@ public class AudioEventListener : MonoBehaviour, IEventListener
     {
         AtualizarVolume();
 
-        if(data is AudioClip audioClip)
+        if (data is AudioClip audioClip)
         {
             if (VolumeInfo.Tipo == VolumeType.Musica && _audioSource.isPlaying)
             {
-                //_audioSource.Stop();
-                //return;
+                _audioSource.clip = audioClip;
+                _audioSource.Play();
+                return;
             }
 
             _audioSource.PlayOneShot(audioClip);
@@ -41,7 +42,7 @@ public class AudioEventListener : MonoBehaviour, IEventListener
 
     private void LoadDependencies()
     {
-        if(_audioSource == default)
+        if (_audioSource == default)
             _audioSource = GetComponent<AudioSource>();
     }
 }

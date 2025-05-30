@@ -17,6 +17,9 @@ public class Player : MonoBehaviour
     [SerializeField] private float _groundCheckRadius = 0.2f;
     [SerializeField] private LayerMask _groundLayer;
 
+    [Header("Events")]
+    [SerializeField] private GameEvent Pulo;
+
     private bool _isGrounded;
 
     private Rigidbody2D _rigidBody;
@@ -87,6 +90,7 @@ public class Player : MonoBehaviour
         if (_input.IsJumping && _isGrounded)
         {
             _rigidBody.linearVelocity = new Vector2(_rigidBody.linearVelocity.x, _jumpForce);
+            Pulo.Broadcast();
         }
 
         _input.IsJumping = false;
