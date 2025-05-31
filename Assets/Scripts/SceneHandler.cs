@@ -3,8 +3,8 @@ using UnityEngine.SceneManagement;
 
 public class SceneHandler : MonoBehaviour
 {
-    public float fadeDuration = 1f;
-    public float waitTime = 0f;
+    public float fadeDuration = 2;
+    public float waitTime = 0.3f;
 
     public void LoadNextScene(int i)
     {

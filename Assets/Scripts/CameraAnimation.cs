@@ -6,9 +6,10 @@ using UnityEngine.InputSystem.XR;
 public class CameraAnimation : MonoBehaviour
 {
     public List<GameObject> cameras;
+    public GameEvent FinalizaCutscene;
     public int index;
-    public int cena;
-    public bool finished;
+
+    private bool finished = false;
 
     private void Start()
     {
@@ -32,10 +33,9 @@ public class CameraAnimation : MonoBehaviour
             index++;
             if (index >= cameras.Count)
             {
-                SceneController.LoadScene(cena, 1, 1);
+                FinalizaCutscene.Broadcast();
                 finished = true;
                 return;
-
             }
             DisableAll();
             cameras[index].SetActive(true);

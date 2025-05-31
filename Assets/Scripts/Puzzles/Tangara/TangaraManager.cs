@@ -23,6 +23,7 @@ public class TangaraManager : Singleton<TangaraManager>
     [SerializeField] private AudioSource _sfx;
     [SerializeField] private GameEvent _winSound;
     [SerializeField] private GameEvent _wrongSound;
+    [SerializeField] private GameEvent _piruetaSound;
 
     private Tangara _alpha;
     private List<GameObject> _tangaras;
@@ -63,11 +64,12 @@ public class TangaraManager : Singleton<TangaraManager>
             _uiStart.gameObject.SetActive(false);
             _uiRight.gameObject.SetActive(false);
             _uiWrong.gameObject.SetActive(false);
-            _uiWin.gameObject.SetActive(false);
+            _uiWin.SetActive(false);
 
             if (_alpha.TryGetComponent(out Animator animator))
             {
                 animator.SetTrigger("flip");
+                _piruetaSound.Broadcast();
             }
         }
     }
@@ -93,7 +95,7 @@ public class TangaraManager : Singleton<TangaraManager>
 
         _level.AdvanceRound();
 
-        if (true) //_level.IsFinished
+        if (_level.IsFinished)
         {
             _uiRight.gameObject.SetActive(false);
             _uiWin.SetActive(true);

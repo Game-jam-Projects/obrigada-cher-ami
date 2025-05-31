@@ -30,7 +30,8 @@ public class OnEnterObjectActive : MonoBehaviour
     void OnTriggerEnter2D(Collider2D other){
         if (other.gameObject.CompareTag("Player"))
         {
-            objeto.SetActive(true);
+            if (objeto != null)
+                objeto.SetActive(true);
         }
     }
 
@@ -38,7 +39,8 @@ public class OnEnterObjectActive : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player"))
         {
-            objeto.SetActive(false);
+            if(objeto != null)
+                objeto.SetActive(false);
         }
     }
 }

@@ -58,7 +58,7 @@ public class Player : MonoBehaviour
         _animator.SetFloat("horizontal", xPos);
         _animator.SetFloat("vertical", yPos);
 
-        Debug.Log($"x:{xPos} y:{yPos}");
+        //Debug.Log($"x:{xPos} y:{yPos}");
 
         if (_rigidBody.linearVelocity != Vector2.zero)
         {
