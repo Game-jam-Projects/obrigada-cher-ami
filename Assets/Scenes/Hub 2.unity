@@ -974,9 +974,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6013606891432980119, guid: 9c99f47a932245248a5c06853c7ed120, type: 3}
       propertyPath: m_text
-      value: "<b>*cof*</b>\nque estranho\u2026 estou doente?\r\ntalvez essa humana
-        seja legal, ela gosta de muitas aves, olha esse <b>Tangar\xE1!</b> \n\nse
-        eu soubesse dan\xE7ar como <color=#8A181B>e</color><color=#0B0F8E>les</color>..."
+      value: "<b>*cof*</b>\nque estranho... estou doente?\r\ntalvez essa humana seja
+        legal, ela gosta de muitas aves, olha esse <b>Tangar\xE1!</b> \n\nse eu soubesse
+        dan\xE7ar como <color=#8A181B>e</color><color=#0B0F8E>les</color>..."
       objectReference: {fileID: 0}
     - target: {fileID: 6013606891432980119, guid: 9c99f47a932245248a5c06853c7ed120, type: 3}
       propertyPath: m_fontColor.b
@@ -2226,7 +2226,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6013606891432980119, guid: 9c99f47a932245248a5c06853c7ed120, type: 3}
       propertyPath: m_text
-      value: "\xC9, mas eu tenho essas penas cinzas\u2026 ser\xE1 que aquela humana
+      value: "\xE9... mas eu tenho essas penas cinzas... ser\xE1 que aquela humana
         me achou bonita?"
       objectReference: {fileID: 0}
     - target: {fileID: 6013606891432980119, guid: 9c99f47a932245248a5c06853c7ed120, type: 3}
