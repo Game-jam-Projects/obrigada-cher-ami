@@ -1,0 +1,292 @@
+key,ptbr,enus
+1orni1,"Foi uma queda e tanto, né?","That was quite a fall, huh?"
+1cher1,Onde estou? O que aconteceu?,Where am I? What happened?
+1orni2,"Tenta não se mexer muito, sua asa está luxada.",Try not to move too much—your wing is dislocated.
+1cher2,Luxada? Eu não posso voar? Eu devia ter ficado no ninho...,Dislocated? I can’t fly? I should’ve stayed in the nest...
+col.cher,Colhereiro... tão... rosa. Será que se eu comesse crustáceos eu também ficaria assim?,"Spoonbill... so... pink. If I ate crustaceans, would I turn that color too?"
+col.orni,"Este é o colhereiro! Seu bico em forma de colher serve para peneirar a água em busca de alimentos. Use o mouse para direcionar seu bico e clique para comer. Observe as cores na água: evite lixo. Colhereiros comem peixes e insetos, mas seu alimento favorito são crustáceos!","This is the spoonbill! Its spoon-shaped bill helps it sift through water for food. Use your mouse to guide its beak and click to eat. Watch the colors in the water—avoid trash. Spoonbills eat fish and insects, but their favorite food is crustaceans!"
+col.pos,"Se eu fosse assim, eu seria mais valorizada...",If I looked like that... maybe I’d be valued more.
+2cher1,Que estranho... anda difícil de respirar.,Something’s wrong... it’s hard to breathe.
+2orni1,"Não, eu sei, ela foi resgatada.... Não, mas... Vi que vocês atendem pássaros também, mas— O quê? [som de linha ocupada] ...desligou.","No, I know, she was rescued... No, but— I saw you treat birds too, but— What? [dial tone] ...They hung up."
+2cher2,"Humanos são estranhos. Ficam falando com essa telha de metal... Bom, eu ouvi que éramos amigos no passado. Fomos trazidos pra cá, entregávamos mensagens... Fico me perguntando como fazem isso sem nós hoje.","Humans are strange. Always talking to that metal slab... I heard we used to be friends. Brought here, delivering messages... I wonder how they do it without us now."
+tang.cher,Os tangarás machos costumam dançar para atrair as fêmeas... Sou desengonçada demais pra dançar assim.,Male manakins dance to attract females... I’m too clumsy to dance like that.
+tang.orni,Os tangarás machos fazem uma apresentação coletiva para a fêmea. Tente encontrar o macho alfa enquanto eles dançam!,The male manakins perform a group dance for the female. Try to spot the alpha male while they dance!
+tang.pos,Seria incrível dançar assim... Mas sou apenas uma pomba.,It’d be amazing to dance like that... But I’m just a pigeon.
+3orni1,"Vem cá, bebe isso aqui...","Come here, drink this..."
+3cher1,Glup! Mas que coisa amarga é essa? ELA QUER ME MATAR?,Gulp! What is this bitter stuff? IS SHE TRYING TO KILL ME?
+3orni2,Foi o que consegui por hora... Você vai ficar bem. Só preciso de mais tempo...,It’s all I could get for now... You’ll be okay. I just need more time...
+3cher2,Mais tempo pra quê? Estou ótima!,More time for what? I’m fine!
+uru.cher,Urutau... a 'ave-fantasma'. Todos dizem que ele é misterioso. Talvez porque ninguém se importe em olhar direito...,Potoo... the 'ghost bird.' Everyone says they’re mysterious. Maybe because no one bothers to really look...
+uru.orni,TUTORIAL URUTAL XXX,POTOO TUTORIAL XXX
+uru.pos,Se esconder é fácil... Difícil é fazer alguém te enxergar.,Hiding is easy... The hard part is making someone see you.
+4orni1,"Veja só, pequena guerreira... Hoje você conhecerá o mestre da paciência.","Look here, little warrior... Today, you’ll meet the master of patience."
+4cher1,Guerreira? Eu mal consigo levantar a cabeça... Mas essa luz no seu olho... Parece importante.,Warrior? I can barely lift my head... But that light in your eyes... It feels important.
+soc.cher,Ele fica parado por horas... Será que também sente que não pertence aqui?,It stands still for hours... Does it also feel like it doesn’t belong here?
+soc.orni,TUTORIAL SOCOZINHO XXX,STRIATED HERON TUTORIAL XXX
+soc.pos,Ele espera... porque sabe que a recompensa virá. E eu? O que eu espero agora...?,It waits... because it knows the reward will come. And me? What am I waiting for now...?
+5orni1,Cher Ami... Por favor. Olha pra mim. [pausa] Você... você me mostrou tantos mundos...,Cher Ami... Please. Look at me. [pause] You... you showed me so many worlds
+5cher1,O colhereiro... ensinou que até na lama há beleza. O tangará... que dançar é resistir. O urutau... que desaparecer não é sumir. E o socozinho... [tosse] ...que esperar não é desistir.,"The spoonbill... taught me that even in mud, there’s beauty. The manakin... that dancing is resistance. The potoo... that vanishing isn’t disappearing. And the heron... [coughs] ...that waiting isn’t giving up."
+5orni2,Você não é 'apenas uma pomba'. Você é... a mensageira que me lembrou como voar.,You’re not 'just a pigeon.' You’re... the messenger who reminded me how to fly.
+5cher2,Marginalizada? Sim. Mas existi. Vi cores que nenhum pombo viu... Senti mãos que me trataram como rara... Mesmo sendo comum.,Marginalized? Yes. But I existed. Saw colors no pigeon ever saw... Felt hands that treated me as rare... Even though I’m common.
+5orni3,"Você é rara, sabe... Pois se tornou uma ponte entre eles e eu.","You are rare, you know... Because you became a bridge between them and me."
+5cher3,"Então me deixe dar uma ultima mensagem: uma pomba comum... amou seu lugar no mundo. E agora, vou voar.",Then let me deliver one last message: A common pigeon... loved her place in the world. And now... I’ll fly away.
+,,
+,"DIA 1: 
+ORNITOLOGA
+""Foi uma queda e tanto, né?""
+
+CHER AMI
+""Onde estou? O que aconteceu?""
+
+ORNITOLOGA
+""Tenta não se mexer muito, sua asa está luxada.""
+
+CHER AMI
+""Luxada? Eu não posso voar? Eu devia ter ficado no ninho...""
+
+(Exploração: Cher Ami observa quadro do Colhereiro)
+CHER AMI
+""Colhereiro... tão... rosa. Será que se eu comesse crustáceos eu também ficaria assim?""
+
+→ MINIGAME: COLHEREIRO
+ORNITOLOGA:
+""Este é o colhereiro! Seu bico em forma de colher serve para peneirar a água em busca de alimentos. Use o mouse para direcionar seu bico e clique para comer. Observe as cores na água: evite lixo. Colhereiros comem peixes e insetos, mas seu alimento favorito são crustáceos!""
+
+(Pós-minigame)
+CHER AMI
+""Se eu fosse assim, eu seria mais valorizada...""
+
+DIA 2: 
+CHER AMI
+""Que estranho... anda difícil de respirar.""
+
+ORNITOLOGA
+(no telefone, voz abafada)
+""Não, eu sei, ela foi resgatada.... Não, mas... Vi que vocês atendem pássaros também, mas— O quê? [som de linha ocupada] ...desligou.""
+
+CHER AMI
+""Humanos são estranhos. Ficam falando com essa telha de metal... Bom, eu ouvi que éramos amigos no passado. Fomos trazidos pra cá, entregávamos mensagens... Fico me perguntando como fazem isso sem nós hoje.""
+
+(Exploração: Cher Ami vê bonecos de Tangará)
+CHER AMI
+""Os tangarás machos costumam dançar para atrair as fêmeas... Sou desengonçada demais pra dançar assim.""
+
+→ MINIGAME: TANGARÁ
+ORNITOLOGA:
+""Os tangarás machos fazem uma apresentação coletiva para a fêmea. Tente encontrar o macho alfa enquanto eles dançam!""
+
+(Pós-minigame)
+CHER AMI
+""Seria incrível dançar assim... Mas sou apenas uma pomba.""
+
+DIA 3
+ORNITOLOGA
+""Vem cá, bebe isso aqui...""
+
+CHER AMI
+""Glup! Mas que coisa amarga é essa? ELA QUER ME MATAR?""
+
+ORNITOLOGA
+""Foi o que consegui por hora... Você vai ficar bem. Só preciso de mais tempo...""
+
+CHER AMI
+""Mais tempo pra quê? Estou ótima!""
+
+(Exploração: Cher Ami encontra Urutau)
+CHER AMI
+""Urutau... a 'ave-fantasma'. Todos dizem que ele é misterioso. Talvez porque ninguém se importe em olhar direito...""
+
+→ MINIGAME: URUTAU
+ORNITOLOGA:
+""TUTORIAL URUTAL XXX""
+
+(Pós-minigame)
+CHER AMI
+""Se esconder é fácil... Difícil é fazer alguém te enxergar.""
+
+DIA 4:
+ORNITOLOGA
+""Veja só, pequena guerreira... Hoje você conhecerá o mestre da paciência.""
+
+CHER AMI
+(fraco)
+""Guerreira? Eu mal consigo levantar a cabeça... Mas essa luz no seu olho... Parece importante.""
+
+(Exploração: Cher Ami observa Socozinho)
+CHER AMI
+""Ele fica parado por horas... Será que também sente que não pertence aqui?""
+
+→ MINIGAME: SOCOZINHO
+ORNITOLOGA:
+""TUTORIAL SOCOZINHO XXX""
+
+(Pós-minigame)
+CHER AMI
+""Ele espera... porque sabe que a recompensa virá. E eu? O que eu espero agora...?""
+
+DIA 5
+(Cenário: Cher Ami agoniza. Bouba avançada cobre seu corpo. Sem minigame.)
+
+ORNITOLOGA
+""Cher Ami... Por favor. Olha pra mim. [pausa] Você... você me mostrou tantos mundos...""
+
+CHER AMI
+""O colhereiro... ensinou que até na lama há beleza. O tangará... que dançar é resistir. O urutau... que desaparecer não é sumir. E o socozinho... [tosse] ...que esperar não é desistir.""
+
+ORNITOLOGA
+""Você não é 'apenas uma pomba'. Você é... a mensageira que me lembrou como voar.""
+
+CHER AMI
+""Marginalizada? Sim. Mas existi. Vi cores que nenhum pombo viu... Senti mãos que me trataram como rara... Mesmo sendo comum.""
+
+ORNITOLOGA
+(chorando)
+""Você é rara, sabe... Pois se tornou uma ponte entre eles e eu.""
+
+CHER AMI
+""Então me deixe dar uma ultima mensagem: uma pomba comum... amou seu lugar no mundo. E agora, vou voar.""
+
+Ultima cutscene roda",
+,,
+,,
+,"DAY 1:
+ORNITHOLOGIST:
+""That was quite a fall, huh?""
+
+CHER AMI:
+""Where am I? What happened?""
+
+ORNITHOLOGIST:
+""Try not to move too much—your wing is dislocated.""
+
+CHER AMI:
+""Dislocated? I can’t fly? I should’ve stayed in the nest...""
+
+(Exploration: Cher Ami observes a Spoonbill painting)
+CHER AMI:
+""Spoonbill... so... pink. If I ate crustaceans, would I turn that color too?""
+
+→ MINIGAME: SPOONBILL
+ORNITHOLOGIST:
+""This is the spoonbill! Its spoon-shaped bill helps it sift through water for food. Use your mouse to guide its beak and click to eat. Watch the colors in the water—avoid trash. Spoonbills eat fish and insects, but their favorite food is crustaceans!""
+
+(Post-minigame)
+CHER AMI:
+""If I looked like that... maybe I’d be valued more.""
+
+DAY 2:
+CHER AMI:
+""Something’s wrong... it’s hard to breathe.""
+
+ORNITHOLOGIST: (on the phone, muffled voice)
+""No, I know, she was rescued... No, but— I saw you treat birds too, but— What? [dial tone] ...They hung up.""
+
+CHER AMI:
+""Humans are strange. Always talking to that metal slab... I heard we used to be friends. Brought here, delivering messages... I wonder how they do it without us now.""
+
+(Exploration: Cher Ami sees Manakin figurines)
+CHER AMI:
+""Male manakins dance to attract females... I’m too clumsy to dance like that.""
+
+→ MINIGAME: MANAKIN
+ORNITHOLOGIST:
+""The male manakins perform a group dance for the female. Try to spot the alpha male while they dance!""
+
+(Post-minigame)
+CHER AMI:
+""It’d be amazing to dance like that... But I’m just a pigeon.""
+
+DAY 3:
+ORNITHOLOGIST:
+""Come here, drink this...""
+
+CHER AMI:
+""Gulp! What is this bitter stuff? IS SHE TRYING TO KILL ME?""
+
+ORNITHOLOGIST:
+""It’s all I could get for now... You’ll be okay. I just need more time...""
+
+CHER AMI:
+""More time for what? I’m fine!""
+
+(Exploration: Cher Ami encounters a Potoo)
+CHER AMI:
+""Potoo... the 'ghost bird.' Everyone says they’re mysterious. Maybe because no one bothers to really look...""
+
+→ MINIGAME: POTOO
+ORNITHOLOGIST:
+""POTOO TUTORIAL XXX""
+
+(Post-minigame)
+CHER AMI:
+""Hiding is easy... The hard part is making someone see you.""
+
+DAY 4:
+ORNITHOLOGIST:
+""Look here, little warrior... Today, you’ll meet the master of patience.""
+
+CHER AMI: (weakly)
+""Warrior? I can barely lift my head... But that light in your eyes... It feels important.""
+
+(Exploration: Cher Ami observes a Striated Heron)
+CHER AMI:
+""It stands still for hours... Does it also feel like it doesn’t belong here?""
+
+→ MINIGAME: STRIATED HERON
+ORNITHOLOGIST:
+""STRIATED HERON TUTORIAL XXX""
+
+(Post-minigame)
+CHER AMI:
+""It waits... because it knows the reward will come. And me? What am I waiting for now...?""
+
+DAY 5:
+(Scene: Cher Ami is fading. Advanced bumblefoot covers her body. No minigame.)
+
+ORNITHOLOGIST:
+""Cher Ami... Please. Look at me. [pause] You... you showed me so many worlds.""
+
+CHER AMI:
+""The spoonbill... taught me that even in mud, there’s beauty. The manakin... that dancing is resistance. The potoo... that vanishing isn’t disappearing. And the heron... [coughs] ...that waiting isn’t giving up.""
+
+ORNITHOLOGIST: (crying)
+""You’re not 'just a pigeon.' You’re... the messenger who reminded me how to fly.""
+
+CHER AMI:
+""Marginalized? Yes. But I existed. Saw colors no pigeon ever saw... Felt hands that treated me as rare... Even though I’m common.""
+
+ORNITHOLOGIST:
+""You are rare, you know... Because you became a bridge between them and me.""
+
+CHER AMI:
+""Then let me deliver one last message: A common pigeon... loved her place in the world. And now... I’ll fly away.""
+
+(Final cutscene plays)",
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+dialogos ENG,,
