@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 6370cebbd4a446a4b8c380963bf19aaa
+guid: 85349a2a4afbf114884cef0cc472b137
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -668228608552993210
-    second: colhereiro-placeholder_0
+      213: -5532801431239155467
+    second: socozinho-pescando_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -96,40 +96,27 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: colhereiro-placeholder_0
+      name: socozinho-pescando_0
       rect:
         serializedVersion: 2
-        x: 22
-        y: 20
-        width: 121
-        height: 335
-      alignment: 9
-      pivot: {x: 0.5, y: 0.35553584}
+        x: 75
+        y: 16
+        width: 431
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 64ef176fe99f9b6f0800000000000000
-      internalID: -668228608552993210
+      spriteID: 5f0a73e896a8733b0800000000000000
+      internalID: -5532801431239155467
       vertices: []
       indices: 
       edges: []
@@ -138,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: fe14bea2246b8fc4083758796bc49bcd
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      colhereiro-placeholder_0: -668228608552993210
+      socozinho-pescando_0: -5532801431239155467
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
