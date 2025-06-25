@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      colhereiro-cabeca-placeholder_0: 8707581062598306020
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

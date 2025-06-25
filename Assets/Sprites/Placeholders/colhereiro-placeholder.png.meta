@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      colhereiro-placeholder_0: -668228608552993210
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
