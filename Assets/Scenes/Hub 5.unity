@@ -466,6 +466,22 @@ CapsuleCollider2D:
   m_Offset: {x: 0.1500002, y: -0.62237084}
   m_Size: {x: 9.874204, y: 11.684731}
   m_Direction: 0
+--- !u!1 &47148712 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3156523933384319948, guid: 9c99f47a932245248a5c06853c7ed120, type: 3}
+  m_PrefabInstance: {fileID: 368594644}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &122417914 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1612445153291078260, guid: 9c99f47a932245248a5c06853c7ed120, type: 3}
+  m_PrefabInstance: {fileID: 368594644}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &238738419
 GameObject:
   m_ObjectHideFlags: 0
@@ -475,6 +491,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 238738420}
+  - component: {fileID: 238738421}
   m_Layer: 5
   m_Name: Dialogos
   m_TagString: Untagged
@@ -507,6 +524,36 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &238738421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 238738419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de34f6c4461e511468a7e34d3ab22d8c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textoDialogo: {fileID: 122417914}
+  paineis:
+  - {fileID: 47148712}
+  - {fileID: 1625597361}
+  - {fileID: 1109353397}
+  - {fileID: 1109703318}
+  - {fileID: 1321357964}
+  - {fileID: 741289113}
+  velocidadeDigitacao: 0.05
+  aoIniciarDialogo:
+    m_PersistentCalls:
+      m_Calls: []
+  aoCompletarDialogo:
+    m_PersistentCalls:
+      m_Calls: []
+  aoFinalizarTodosDialogos:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &322915064
 GameObject:
   m_ObjectHideFlags: 0
@@ -729,13 +776,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1612445153291078260, guid: 9c99f47a932245248a5c06853c7ed120, type: 3}
+      propertyPath: m_text
+      value: "Cher Ami... Por favor. Olha pra mim. [pausa] Voc\xEA... voc\xEA me
+        mostrou tantos mundos..."
+      objectReference: {fileID: 0}
     - target: {fileID: 3156523933384319948, guid: 9c99f47a932245248a5c06853c7ed120, type: 3}
       propertyPath: m_Name
       value: DialogoOrni (1)
       objectReference: {fileID: 0}
     - target: {fileID: 3156523933384319948, guid: 9c99f47a932245248a5c06853c7ed120, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4234562389321328003, guid: 9c99f47a932245248a5c06853c7ed120, type: 3}
       propertyPath: LocalizationKey
@@ -1101,7 +1153,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4747888788934557425, guid: c8c35c985a6e07e4cb87ee3ce4c05e77, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5021005707669332788, guid: c8c35c985a6e07e4cb87ee3ce4c05e77, type: 3}
+      propertyPath: m_text
+      value: "Ent\xE3o me deixe dar uma ultima mensagem: uma pomba comum... amou
+        seu lugar no mundo. E agora, vou voar."
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1201,13 +1258,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1612445153291078260, guid: 9c99f47a932245248a5c06853c7ed120, type: 3}
+      propertyPath: m_text
+      value: "Voc\xEA n\xE3o \xE9 'apenas uma pomba'. Voc\xEA \xE9... a mensageira
+        que me lembrou como voar."
+      objectReference: {fileID: 0}
     - target: {fileID: 3156523933384319948, guid: 9c99f47a932245248a5c06853c7ed120, type: 3}
       propertyPath: m_Name
       value: DialogoOrni (2)
       objectReference: {fileID: 0}
     - target: {fileID: 3156523933384319948, guid: 9c99f47a932245248a5c06853c7ed120, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4234562389321328003, guid: 9c99f47a932245248a5c06853c7ed120, type: 3}
       propertyPath: LocalizationKey
@@ -1385,6 +1447,11 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &741289113 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4747888788934557425, guid: c8c35c985a6e07e4cb87ee3ce4c05e77, type: 3}
+  m_PrefabInstance: {fileID: 604828524}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &786156003
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1483,7 +1550,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4747888788934557425, guid: c8c35c985a6e07e4cb87ee3ce4c05e77, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5021005707669332788, guid: c8c35c985a6e07e4cb87ee3ce4c05e77, type: 3}
+      propertyPath: m_text
+      value: "O colhereiro... ensinou que at\xE9 na lama h\xE1 beleza. O tangar\xE1...
+        que dan\xE7ar \xE9 resistir. O urutau... que desaparecer n\xE3o \xE9 sumir.
+        E o socozinho... [tosse] ...que esperar n\xE3o \xE9 desistir."
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1564,6 +1637,16 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 584a482affe42da41aa81ff9bb1fa697, type: 3}
+--- !u!1 &1109353397 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3156523933384319948, guid: 9c99f47a932245248a5c06853c7ed120, type: 3}
+  m_PrefabInstance: {fileID: 668564182}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1109703318 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4747888788934557425, guid: c8c35c985a6e07e4cb87ee3ce4c05e77, type: 3}
+  m_PrefabInstance: {fileID: 1878103270}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1113938392
 GameObject:
   m_ObjectHideFlags: 0
@@ -1604,6 +1687,11 @@ Transform:
   - {fileID: 714029748}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1321357964 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3156523933384319948, guid: 9c99f47a932245248a5c06853c7ed120, type: 3}
+  m_PrefabInstance: {fileID: 1645862634}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1361921478
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2253,6 +2341,11 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1625597361 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4747888788934557425, guid: c8c35c985a6e07e4cb87ee3ce4c05e77, type: 3}
+  m_PrefabInstance: {fileID: 786156003}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1627484911
 GameObject:
   m_ObjectHideFlags: 0
@@ -2443,13 +2536,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1612445153291078260, guid: 9c99f47a932245248a5c06853c7ed120, type: 3}
+      propertyPath: m_text
+      value: "Voc\xEA \xE9 rara, sabe... Pois se tornou uma ponte entre eles e eu."
+      objectReference: {fileID: 0}
     - target: {fileID: 3156523933384319948, guid: 9c99f47a932245248a5c06853c7ed120, type: 3}
       propertyPath: m_Name
       value: DialogoOrni (3)
       objectReference: {fileID: 0}
     - target: {fileID: 3156523933384319948, guid: 9c99f47a932245248a5c06853c7ed120, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4234562389321328003, guid: 9c99f47a932245248a5c06853c7ed120, type: 3}
       propertyPath: LocalizationKey
@@ -2899,7 +2996,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4747888788934557425, guid: c8c35c985a6e07e4cb87ee3ce4c05e77, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5021005707669332788, guid: c8c35c985a6e07e4cb87ee3ce4c05e77, type: 3}
+      propertyPath: m_text
+      value: "Marginalizada? Sim. Mas existi. Vi cores que nenhum pombo viu... Senti
+        m\xE3os que me trataram como rara... Mesmo sendo comum."
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
