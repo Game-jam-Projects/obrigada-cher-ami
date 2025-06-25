@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 4121607901521019964}
   - component: {fileID: 8111729953655268415}
   - component: {fileID: 1304611479197374101}
+  - component: {fileID: 4725653466686525962}
   m_Layer: 0
   m_Name: Tangara
   m_TagString: Untagged
@@ -119,6 +120,34 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a542c8968f837647a2e7be1f07b7f6b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &4725653466686525962
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2397553000736148607}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9726e7a11ef7bf244b9ff90e88c1db97, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  GameEvent: {fileID: 11400000, guid: 205bf24e1a6ef814eb0a18f16e954db1, type: 2}
+  Response:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 4552918436165340460}
+        m_TargetAssemblyTypeName: UnityEngine.Behaviour, UnityEngine
+        m_MethodName: set_enabled
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &3774364010280896883
 GameObject:
   m_ObjectHideFlags: 0

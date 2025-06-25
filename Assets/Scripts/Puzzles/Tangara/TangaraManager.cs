@@ -24,6 +24,7 @@ public class TangaraManager : Singleton<TangaraManager>
     [SerializeField] private GameEvent _winSound;
     [SerializeField] private GameEvent _wrongSound;
     [SerializeField] private GameEvent _piruetaSound;
+    [SerializeField] private GameEvent _fimPuzzle;
 
     private Tangara _alpha;
     private List<GameObject> _tangaras;
@@ -98,6 +99,7 @@ public class TangaraManager : Singleton<TangaraManager>
         if (_level.IsFinished)
         {
             _uiRight.gameObject.SetActive(false);
+            _fimPuzzle.Broadcast();
             _uiWin.SetActive(true);
         }
         else if (_level.CurrentRound.NewAmount > 0)

@@ -830,9 +830,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6013606891432980119, guid: 9c99f47a932245248a5c06853c7ed120, type: 3}
       propertyPath: m_text
-      value: "fomos trazidas pra c\xE1, aqui \xE9 tudo que conhe\xE7o\u2026 \xE9
-        como se eu n\xE3o fosse daqui e nem de l\xE1\u2026 mas,  <b>*cof*</b> ainda
-        sou um p\xE1ssaro e sei que o c\xE9u pertence a todas n\xF3s."
+      value: "fomos trazidas pra c\xE1, aqui \xE9 tudo que conhe\xE7o... \xE9 como
+        se eu n\xE3o fosse daqui e nem de l\xE1... mas,  <b>*cof*</b> ainda sou um
+        p\xE1ssaro e sei que o c\xE9u pertence a todas n\xF3s."
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1352,11 +1352,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7174680523778648568, guid: 584a482affe42da41aa81ff9bb1fa697, type: 3}
       propertyPath: m_Size.x
-      value: 15.302492
+      value: 11.880911
       objectReference: {fileID: 0}
     - target: {fileID: 7174680523778648568, guid: 584a482affe42da41aa81ff9bb1fa697, type: 3}
       propertyPath: m_Offset.x
-      value: 0.7280779
+      value: -0.98271275
       objectReference: {fileID: 0}
     - target: {fileID: 8277444468910543006, guid: 584a482affe42da41aa81ff9bb1fa697, type: 3}
       propertyPath: objeto
@@ -3303,7 +3303,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6013606891432980119, guid: 9c99f47a932245248a5c06853c7ed120, type: 3}
       propertyPath: m_text
-      value: "<b>*cof* *cof*</b>\neu\u2026 eu n\xE3o consigo respirar direito\u2026"
+      value: "<b>*cof* *cof*</b>\neu... eu n\xE3o consigo respirar direito..."
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
