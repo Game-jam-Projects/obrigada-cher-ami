@@ -25,6 +25,8 @@ public class Player : MonoBehaviour
     private Rigidbody2D _rigidBody;
     private PlayerInput _input;
     private Animator _animator;
+    private bool _isFacingRight = true;
+    private float _currentDirection = 1f;
 
     #endregion
 
@@ -52,20 +54,47 @@ public class Player : MonoBehaviour
 
     private void UpdateAnimator()
     {
-        var xPos = _rigidBody.linearVelocityX;
-        var yPos = _rigidBody.linearVelocityY > 0 ? _rigidBody.linearVelocityY : 0;
+        // var xPos = _rigidBody.linearVelocityX;
+        // var yPos = _rigidBody.linearVelocityY > 0 ? _rigidBody.linearVelocityY : 0;
 
-        _animator.SetFloat("horizontal", xPos);
-        _animator.SetFloat("vertical", yPos);
+        // _animator.SetFloat("horizontal", xPos);
+        // _animator.SetFloat("vertical", yPos);
 
         //Debug.Log($"x:{xPos} y:{yPos}");
 
-        if (_rigidBody.linearVelocity != Vector2.zero)
+        // if (_rigidBody.linearVelocity != Vector2.zero)
+        // {
+        //     _animator.SetFloat("ultHorizontal", xPos);
+        //     _animator.SetFloat("ultVertical", yPos);
+        // }
+
+        float xSpeed = Mathf.Abs(_rigidBody.linearVelocity.x);
+        float ySpeed = _rigidBody.linearVelocity.y;
+
+        // Atualiza direção
+        if (_input.Movement.x > 0.1f) _currentDirection = 1f;
+        else if (_input.Movement.x < -0.1f) _currentDirection = -1f;
+
+        _animator.SetFloat("Speed", xSpeed);
+        _animator.SetFloat("VerticalVelocity", ySpeed);
+        _animator.SetBool("IsGrounded", _isGrounded);
+        _animator.SetFloat("Direction", _currentDirection);
+
+        // Controle manual do pulo quando necessário
+        if (!_isGrounded)
         {
-            _animator.SetFloat("ultHorizontal", xPos);
-            _animator.SetFloat("ultVertical", yPos);
+            if (ySpeed > 0.5f)
+            {
+                _animator.Play(_currentDirection > 0 ? "comeco voo direito" : "comeco voo esquerdo");
+            }
+            else if (ySpeed < -0.5f)
+            {
+                _animator.Play(_currentDirection > 0 ? "fim voo direito" : "fim voo direito");
+            }
         }
+
     }
+
 
     //private void OnDrawGizmosSelected()
     //{
