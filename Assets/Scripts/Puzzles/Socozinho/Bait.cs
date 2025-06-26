@@ -18,7 +18,6 @@ public class Bait : MonoBehaviour
     public static Bait CurrentBait;
 
     [SerializeField] private int _hitPoints = 1;
-    [SerializeField] private float _waterSurfaceLevel = 2.15f;
 
     private bool _isFloating = false;
 
@@ -81,6 +80,13 @@ public class Bait : MonoBehaviour
         return false;
     }
 
+    public void Launch(Vector2 startPosition, Vector2 endPosition, float arcHeight, float speed)
+    {
+        _rigidbody.bodyType = RigidbodyType2D.Kinematic;
+
+        StartCoroutine(LaunchArcRoutine(startPosition, endPosition, arcHeight, speed));
+    }
+
     #endregion
 
     #region Private Methods
@@ -89,13 +95,13 @@ public class Bait : MonoBehaviour
     {
         while (!_isFloating)
         {
-            if (_rigidbody.linearVelocity.y <= 0.01f && transform.position.y <= _waterSurfaceLevel)
+            if (_rigidbody.linearVelocity.y <= 0.01f && transform.position.y <= BaitSpawner.Instance.WaterSurfaceLevel)
             {
                 _rigidbody.linearVelocity = Vector2.zero;
                 _rigidbody.bodyType = RigidbodyType2D.Kinematic;
 
                 Vector3 position = transform.position;
-                position.y = _waterSurfaceLevel;
+                position.y = BaitSpawner.Instance.WaterSurfaceLevel;
 
                 transform.position = position;
 
@@ -119,6 +125,33 @@ public class Bait : MonoBehaviour
             1 => Color.red,
             _ => Color.gray,
         };
+    }
+
+    private IEnumerator LaunchArcRoutine(Vector2 startPosition, Vector2 endPosition, float height, float speed)
+    {
+        float distance = Vector2.Distance(startPosition, endPosition);
+        float adjustedSpeed = speed + distance * 1.0f;
+        float duration = distance / adjustedSpeed;
+
+        float time = 0.0f;
+
+        while (time < duration)
+        {
+            float t = time / duration;
+
+            Vector2 position = Vector2.Lerp(startPosition, endPosition, t);
+            position.y += height * 4 * (t - t * t);
+
+            transform.position = position;
+
+            time += Time.deltaTime;
+
+            yield return null;
+        }
+
+        transform.position = endPosition;
+
+        _rigidbody.bodyType = RigidbodyType2D.Dynamic;
     }
 
     #endregion

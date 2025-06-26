@@ -7,6 +7,7 @@ public class Socozinho : Singleton<Socozinho>
 
     [SerializeField] private float _biteRange = 3.0f;
     [SerializeField] private float _scareRadius = 6.0f;
+    [SerializeField] private Transform _beakPosition;
 
     private bool _isCatching = false;
 
@@ -18,6 +19,7 @@ public class Socozinho : Singleton<Socozinho>
     #region Properties
 
     public float BiteRange => _biteRange;
+    public Vector3 BeakPosition => _beakPosition.position;
 
     #endregion
 

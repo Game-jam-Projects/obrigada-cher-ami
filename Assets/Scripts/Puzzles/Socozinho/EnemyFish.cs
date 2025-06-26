@@ -11,6 +11,15 @@ public class EnemyFish : Fish
     [SerializeField] private LayerMask _fishLayerMask;
     [SerializeField] private Lane _enemyLane;
 
+    [Header("Full Belly Cooldown")]
+    [SerializeField] private int _maxFishBeforeFull = 6;
+    [SerializeField] private float _fullBellyDuration = 5.0f;
+
+    private int _fishEaten = 0;
+    private bool _isFull = false;
+
+    private Coroutine _fullBellyRoutine;
+
     #endregion
 
     #region Unity Methods
@@ -31,6 +40,8 @@ public class EnemyFish : Fish
     protected override void Update()
     {
         base.Update();
+
+        if (_currentState == FishState.Idle) return;
 
         if (!_hasReachedStartPosition && Vector2.Distance(transform.position, _startPosition) < 0.01f)
         {
@@ -65,13 +76,20 @@ public class EnemyFish : Fish
 
     #endregion
 
-    #region Protected Methods
+    #region Protected Overriden Methods
 
     protected override void ChaseBait()
     {
         if (ShouldAbortChase()) return;
 
         SwimDirectlyToBait();
+    }
+
+    protected override void HandleBaitPlaced()
+    {
+        if (_isFull) return;
+
+        base.HandleBaitPlaced();
     }
 
     protected override IEnumerator EnterCatchWindowRoutine()
@@ -85,6 +103,8 @@ public class EnemyFish : Fish
 
     private void CheckForFishToEat()
     {
+        if (_isFull) return;
+
         Vector2 eatCenter = GetEatRadiusCenter();
 
         Collider2D[] hits = Physics2D.OverlapCircleAll(eatCenter, _eatRadius, _fishLayerMask);
@@ -110,6 +130,21 @@ public class EnemyFish : Fish
         Destroy(fish.gameObject);
 
         ScoreManager.Instance.AddEnemyScore(fish.ScoreValue);
+
+        _fishEaten++;
+
+        if (_fishEaten >= _maxFishBeforeFull)
+        {
+            _isFull = true;
+            _fishEaten = 0;
+
+            if (_fullBellyRoutine != null)
+            {
+                StopCoroutine(_fullBellyRoutine);
+            }
+
+            _fullBellyRoutine = StartCoroutine(FullBellyCooldownRoutine());
+        }
     }
 
     private void SwimDirectlyToBait()
@@ -138,6 +173,32 @@ public class EnemyFish : Fish
 
         return (Vector2)transform.position + offset;
     }
+
+    #region Coroutines
+
+    private IEnumerator FullBellyCooldownRoutine()
+    {
+        _spriteRenderer.color = Color.magenta; // debug
+
+        ChangeToReturningState(_patrolSpeed);
+
+        while (Vector2.Distance(transform.position, _startPosition) > 0.01f)
+        {
+            yield return null;
+        }
+
+        _currentState = FishState.Idle;
+
+        yield return new WaitForSeconds(_fullBellyDuration);
+
+        _isFull = false;
+
+        _currentState = FishState.Patrolling;
+
+        _spriteRenderer.color = Color.white; // debug
+    }
+
+    #endregion
 
     #endregion
 }

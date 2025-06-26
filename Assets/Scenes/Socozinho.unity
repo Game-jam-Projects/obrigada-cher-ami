@@ -550,6 +550,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 1913580493}
   - {fileID: 343691463}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -567,6 +568,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _biteRange: 3
   _scareRadius: 5
+  _beakPosition: {fileID: 1913580493}
 --- !u!95 &802302921
 Animator:
   serializedVersion: 7
@@ -1211,6 +1213,9 @@ MonoBehaviour:
   - {fileID: 4048708704843530978, guid: cfaeda566014b2e48aaaa427758997dc, type: 3}
   - {fileID: 4048708704843530978, guid: 7e39b9d32c8758d4087ba61e381a334f, type: 3}
   _queueSize: 4
+  _arcHeight: 1.5
+  _throwSpeed: 3
+  _waterSurfaceLevel: 2.15
 --- !u!4 &1608619881
 Transform:
   m_ObjectHideFlags: 0
@@ -1406,6 +1411,37 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1530851322}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1913580492
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1913580493}
+  m_Layer: 0
+  m_Name: Beak
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1913580493
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1913580492}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.6, y: 0.45, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 802302919}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2100433189
 GameObject:
   m_ObjectHideFlags: 0
@@ -1553,6 +1589,10 @@ PrefabInstance:
       propertyPath: _enemyLane
       value: 
       objectReference: {fileID: 1815238847}
+    - target: {fileID: 4089664296402812339, guid: 273eafd75f2305547ac6c3f2d1fa0daa, type: 3}
+      propertyPath: _patrolSpeed
+      value: 4
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

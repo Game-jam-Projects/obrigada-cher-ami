@@ -76,8 +76,8 @@ MonoBehaviour:
   _clickCollider: {fileID: 0}
   _detectionCollider: {fileID: 0}
   _patrolSpeed: 5
-  _patrolRange: 2
-  _points: 1
+  _enteringSpeed: 5
+  _scoreValue: 1
   _biteDamage: 1
   _baitBiteRange: 1
   _timeBetweenBites: 0
@@ -86,13 +86,16 @@ MonoBehaviour:
   _canBeEaten: 1
   _canBeScared: 1
   _catchWindowDuration: 0.5
+  _scaredSpeed: 5
   _scaredStateDuration: 1
-  _scaredSpeedMultiplier: 2
   _eatRadius: 0.5
   _eatRadiusOffset: {x: 0.6, y: -0.1}
   _fishLayerMask:
     serializedVersion: 2
     m_Bits: 256
+  _enemyLane: {fileID: 0}
+  _maxFishBeforeFull: 6
+  _fullBellyDuration: 5
 --- !u!1 &5491849484208077291
 GameObject:
   m_ObjectHideFlags: 0

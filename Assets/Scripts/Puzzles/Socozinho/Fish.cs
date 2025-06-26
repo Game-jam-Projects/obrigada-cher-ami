@@ -40,7 +40,7 @@ public class Fish : MonoBehaviour
     private Vector2 _currentPatrolTarget;
     private Vector2 _fleeDirection;
 
-    private FishState _currentState = FishState.Patrolling;
+    protected FishState _currentState = FishState.Patrolling;
 
     protected bool _hasReachedStartPosition = false;
     private bool _isPreparingToChase = false;
@@ -155,7 +155,7 @@ public class Fish : MonoBehaviour
     {
         _assignedLane = lane;
 
-        _startPosition = lane.GetRandomPosition();
+        _startPosition = lane.GetRandomPosition(0.3f);
 
         _patrolPointA = lane.PointA;
         _patrolPointB = lane.PointB;
@@ -383,9 +383,15 @@ public class Fish : MonoBehaviour
 
     #region Returning and Cooldown Logic
 
-    private void ChangeToReturningState(float speed)
+    protected void ChangeToReturningState(float speed)
     {
         _currentReturnSpeed = speed;
+
+        if (_hasReachedStartPosition)
+        {
+            _startPosition = _assignedLane.GetRandomPosition();
+        }
+
         _currentState = FishState.Returning;
     }
 
@@ -451,7 +457,7 @@ public class Fish : MonoBehaviour
 
     #region Event Handlers
 
-    private void HandleBaitPlaced()
+    protected virtual void HandleBaitPlaced()
     {
         if (!_hasReachedStartPosition || _currentState == FishState.Scared) return;
 

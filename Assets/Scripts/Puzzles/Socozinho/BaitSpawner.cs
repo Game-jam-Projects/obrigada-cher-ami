@@ -2,12 +2,20 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class BaitSpawner : MonoBehaviour
+public class BaitSpawner : Singleton<BaitSpawner>
 {
     #region Fields
 
+    [Header("Bait Settings")]
     [SerializeField] private GameObject[] _baitPrefabs;
     [SerializeField] private int _queueSize = 4;
+
+    [Header("Throw Arc Settings")]
+    [SerializeField] private float _arcHeight = 1.5f;
+    [SerializeField] private float _throwSpeed = 3.0f;
+
+    [Header("Water Settings")]
+    [SerializeField] private float _waterSurfaceLevel = 2.15f;
 
     private readonly Queue<GameObject> _baitQueue = new();
 
@@ -15,10 +23,18 @@ public class BaitSpawner : MonoBehaviour
 
     #endregion
 
+    #region Properties
+
+    public float WaterSurfaceLevel => _waterSurfaceLevel;
+
+    #endregion
+
     #region Unity Methods
 
-    private void Awake()
+    protected override void Awake()
     {
+        base.Awake();
+
         _mainCamera = Camera.main;
     }
 
@@ -36,11 +52,15 @@ public class BaitSpawner : MonoBehaviour
             Vector2 mousePosition = Mouse.current.position.ReadValue();
             Vector2 worldPosition = _mainCamera.ScreenToWorldPoint(mousePosition);
 
-            GameObject bait = _baitQueue.Dequeue();
+            Vector2 targetPoint = new(worldPosition.x, _waterSurfaceLevel);
 
-            Instantiate(bait, worldPosition, Quaternion.identity);
+            GameObject baitPrefab = _baitQueue.Dequeue();
+            GameObject baitInstance = Instantiate(baitPrefab, Socozinho.Instance.BeakPosition, Quaternion.identity);
 
             AddRandomBaitToQueue();
+
+            Bait bait = baitInstance.GetComponent<Bait>();
+            bait.Launch(Socozinho.Instance.BeakPosition, targetPoint, _arcHeight, _throwSpeed);
         }
     }
 

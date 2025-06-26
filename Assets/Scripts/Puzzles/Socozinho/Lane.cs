@@ -50,9 +50,9 @@ public class Lane : MonoBehaviour
 
     #region Public Methods
 
-    public Vector2 GetRandomPosition()
+    public Vector2 GetRandomPosition(float range = 1.0f)
     {
-        return Vector2.Lerp(_pointA, _pointB, Random.Range(0.0f, 1.0f));
+        return Vector2.Lerp(_pointA, _pointB, Random.Range(0.0f, range));
     }
 
     public void SetOccupied()

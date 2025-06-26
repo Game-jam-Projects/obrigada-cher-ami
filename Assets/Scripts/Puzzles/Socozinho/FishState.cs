@@ -1,5 +1,6 @@
 public enum FishState
 {
+    Idle,
     Patrolling,
     DelayBeforeChase,
     Chasing,
