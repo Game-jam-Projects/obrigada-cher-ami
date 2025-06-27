@@ -20,6 +20,7 @@ public class DialogoController : MonoBehaviour
     private bool emDigitacao = false;
     private bool textoCompleto = false;
     private string textoAtual;
+    private bool dialogoIncompleto = true;
 
     void Start()
     {
@@ -43,7 +44,7 @@ public class DialogoController : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetMouseButtonDown(0))
+        if (dialogoIncompleto && Input.GetMouseButtonDown(0))
         {
             if (emDigitacao)
             {
@@ -97,6 +98,7 @@ public class DialogoController : MonoBehaviour
         {
             // Fim dos diálogos
             aoFinalizarTodosDialogos?.Invoke();
+            dialogoIncompleto = false;
         }
     }
 }
