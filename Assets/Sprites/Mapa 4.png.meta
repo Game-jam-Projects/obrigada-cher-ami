@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: fea013a24c3169c4fb56e0320d2d6fe4
+guid: 3ece8b2ed875dea489db53e1618d27e7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1204807771635183992
-    second: dialogo_0
+      213: 8820652139039857808
+    second: Mapa 4_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,23 +100,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: dialogo_0
+      name: Mapa 4_0
       rect:
         serializedVersion: 2
-        x: 104
-        y: 152
-        width: 1609
-        height: 794
+        x: 0
+        y: 0
+        width: 6000
+        height: 2088
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 455, y: 292, z: 495, w: 302}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 88e0e0d07b9a74fe0800000000000000
-      internalID: -1204807771635183992
+      spriteID: 09c92caf260496a70800000000000000
+      internalID: 8820652139039857808
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 92c9925a4b533b14c82a1f9397826fe7
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      dialogo_0: -1204807771635183992
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,0 +1,640 @@
+fileFormatVersion: 2
+guid: ab6f40c4c9a2f88478dba76693915f4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9134944251351750138
+    second: retrato cher ami_0
+  - first:
+      213: 1902628291252115004
+    second: retrato cher ami_1
+  - first:
+      213: -8649593803372991647
+    second: retrato cher ami_2
+  - first:
+      213: -3680860973318925753
+    second: retrato cher ami_3
+  - first:
+      213: 7846811368440658164
+    second: retrato cher ami_4
+  - first:
+      213: 5151174340889424889
+    second: retrato cher ami_5
+  - first:
+      213: -8487686836419692069
+    second: retrato cher ami_6
+  - first:
+      213: -3071605700396156589
+    second: retrato cher ami_7
+  - first:
+      213: -2179659299663487836
+    second: retrato cher ami_8
+  - first:
+      213: 6752708094894168269
+    second: retrato cher ami_9
+  - first:
+      213: -575700868392246688
+    second: retrato cher ami_10
+  - first:
+      213: 9011935971966418038
+    second: retrato cher ami_11
+  - first:
+      213: -6288587474071039220
+    second: retrato cher ami_12
+  - first:
+      213: -7822956649040392132
+    second: retrato cher ami_13
+  - first:
+      213: -194632648589146838
+    second: retrato cher ami_14
+  - first:
+      213: -1629495259439597242
+    second: retrato cher ami_15
+  - first:
+      213: 6701841676408693640
+    second: retrato cher ami_16
+  - first:
+      213: 1079712209531020720
+    second: retrato cher ami_17
+  - first:
+      213: 935996995877616973
+    second: retrato cher ami_18
+  - first:
+      213: -4329173167125007775
+    second: retrato cher ami_19
+  - first:
+      213: 7130241571987896768
+    second: retrato cher ami_20
+  - first:
+      213: -524068145931607568
+    second: retrato cher ami_21
+  - first:
+      213: -3908661045350596313
+    second: retrato cher ami_22
+  - first:
+      213: -2665577850012978659
+    second: retrato cher ami_23
+  - first:
+      213: -4792133189152503997
+    second: retrato cher ami_24
+  - first:
+      213: -1943241864273923336
+    second: retrato cher ami_25
+  - first:
+      213: 1610431176042694790
+    second: retrato cher ami_26
+  - first:
+      213: -3955635498253703813
+    second: retrato cher ami_27
+  - first:
+      213: 5017585746847159164
+    second: retrato cher ami_28
+  - first:
+      213: 3714458242559784218
+    second: retrato cher ami_29
+  - first:
+      213: 8485095767582926164
+    second: retrato cher ami_30
+  - first:
+      213: 7129587995345601168
+    second: retrato cher ami_31
+  - first:
+      213: 1808815451409603411
+    second: retrato cher ami_32
+  - first:
+      213: 4124806053776643229
+    second: retrato cher ami_33
+  - first:
+      213: 2535016303328343491
+    second: retrato cher ami_34
+  - first:
+      213: 3398375112941920296
+    second: retrato cher ami_35
+  - first:
+      213: 9182748954390518894
+    second: retrato cher ami_36
+  - first:
+      213: 5132756101251484091
+    second: retrato cher ami_37
+  - first:
+      213: -6049227952257877833
+    second: retrato cher ami_38
+  - first:
+      213: -7402959053825723381
+    second: retrato cher ami_39
+  - first:
+      213: 1949525791464425549
+    second: retrato cher ami_40
+  - first:
+      213: -4523800072653012072
+    second: retrato cher ami_41
+  - first:
+      213: -1425738977306153076
+    second: retrato cher ami_42
+  - first:
+      213: -2620436086012839079
+    second: retrato cher ami_43
+  - first:
+      213: -1161826091086527847
+    second: retrato cher ami_44
+  - first:
+      213: 2455552336465750751
+    second: retrato cher ami_45
+  - first:
+      213: 6782700283435260571
+    second: retrato cher ami_46
+  - first:
+      213: -1559935939109084279
+    second: retrato cher ami_47
+  - first:
+      213: 3327036630082372934
+    second: retrato cher ami_48
+  - first:
+      213: 7920509253822929361
+    second: retrato cher ami_49
+  - first:
+      213: 3863649697946207648
+    second: retrato cher ami_50
+  - first:
+      213: -4634331675707033889
+    second: retrato cher ami_51
+  - first:
+      213: 7448464201379716304
+    second: retrato cher ami_52
+  - first:
+      213: 3802501273835968418
+    second: retrato cher ami_53
+  - first:
+      213: 7116052766517325428
+    second: retrato cher ami_54
+  - first:
+      213: -3700580252081980873
+    second: retrato cher ami_55
+  - first:
+      213: -7933303702523504624
+    second: retrato cher ami_56
+  - first:
+      213: -3910353007541090406
+    second: retrato cher ami_57
+  - first:
+      213: 4784266883588926965
+    second: retrato cher ami_58
+  - first:
+      213: -7329846148658935128
+    second: retrato cher ami_59
+  - first:
+      213: 8716969899372334463
+    second: retrato cher ami_60
+  - first:
+      213: -8997064962712639434
+    second: retrato cher ami_61
+  - first:
+      213: 8064393332790657751
+    second: retrato cher ami_62
+  - first:
+      213: 6234888224767414594
+    second: retrato cher ami_63
+  - first:
+      213: 751725895597120503
+    second: retrato cher ami_64
+  - first:
+      213: 3269879247536234351
+    second: retrato cher ami_65
+  - first:
+      213: 352038534777013744
+    second: retrato cher ami_66
+  - first:
+      213: -671790177176900347
+    second: retrato cher ami_67
+  - first:
+      213: 9040821983244128917
+    second: retrato cher ami_68
+  - first:
+      213: -7957449783982806799
+    second: retrato cher ami_69
+  - first:
+      213: -190710425342078689
+    second: retrato cher ami_70
+  - first:
+      213: -8202781280838564238
+    second: retrato cher ami_71
+  - first:
+      213: -3298477397333300130
+    second: retrato cher ami_72
+  - first:
+      213: -633239998471256176
+    second: retrato cher ami_73
+  - first:
+      213: -425666267197763792
+    second: retrato cher ami_74
+  - first:
+      213: -1262213018545621311
+    second: retrato cher ami_75
+  - first:
+      213: 5759341444559580267
+    second: retrato cher ami_76
+  - first:
+      213: 6862831288638997917
+    second: retrato cher ami_77
+  - first:
+      213: -5250257656253571985
+    second: retrato cher ami_78
+  - first:
+      213: 3293512972647805634
+    second: retrato cher ami_79
+  - first:
+      213: -928738490368634875
+    second: retrato cher ami_80
+  - first:
+      213: -4252127843332613593
+    second: retrato cher ami_81
+  - first:
+      213: 2606619432734078134
+    second: retrato cher ami_82
+  - first:
+      213: 3817931736148662252
+    second: retrato cher ami_83
+  - first:
+      213: 83171576423268180
+    second: retrato cher ami_84
+  - first:
+      213: 8137756215970851743
+    second: retrato cher ami_85
+  - first:
+      213: 456171257211345347
+    second: retrato cher ami_86
+  - first:
+      213: 2403807946525348005
+    second: retrato cher ami_87
+  - first:
+      213: 8054959286940303689
+    second: retrato cher ami_88
+  - first:
+      213: -6673995445726006337
+    second: retrato cher ami_89
+  - first:
+      213: -3835349059878238337
+    second: retrato cher ami_90
+  - first:
+      213: -55406316380462733
+    second: retrato cher ami_91
+  - first:
+      213: 1980041296062019132
+    second: retrato cher ami_92
+  - first:
+      213: -98714321276321698
+    second: retrato cher ami_93
+  - first:
+      213: -1780085330840580395
+    second: retrato cher ami_94
+  - first:
+      213: 3474377528932762479
+    second: retrato cher ami_95
+  - first:
+      213: -6526202651305934456
+    second: retrato cher ami_96
+  - first:
+      213: -3919057781236331607
+    second: retrato cher ami_97
+  - first:
+      213: 2575713984768416505
+    second: retrato cher ami_98
+  - first:
+      213: 1631432823724064363
+    second: retrato cher ami_99
+  - first:
+      213: -2636759645263431622
+    second: retrato cher ami_100
+  - first:
+      213: -5855215374801194734
+    second: retrato cher ami_101
+  - first:
+      213: -8753175297712780097
+    second: retrato cher ami_102
+  - first:
+      213: 1154134009110533659
+    second: retrato cher ami_103
+  - first:
+      213: -738378187896131002
+    second: retrato cher ami_104
+  - first:
+      213: -391363170989923225
+    second: retrato cher ami_105
+  - first:
+      213: 5071415893692073361
+    second: retrato cher ami_106
+  - first:
+      213: 4135103880313692248
+    second: retrato cher ami_107
+  - first:
+      213: 2434213705233983092
+    second: retrato cher ami_108
+  - first:
+      213: 7335979619445181162
+    second: retrato cher ami_109
+  - first:
+      213: -3666870313530695455
+    second: retrato cher ami_110
+  - first:
+      213: -6183027730601639140
+    second: retrato cher ami_111
+  - first:
+      213: -6818113057656167143
+    second: retrato cher ami_112
+  - first:
+      213: -3576615274223814640
+    second: retrato cher ami_113
+  - first:
+      213: 2276927557837563918
+    second: retrato cher ami_114
+  - first:
+      213: -4878295187595557863
+    second: retrato cher ami_115
+  - first:
+      213: -1634330851614714783
+    second: retrato cher ami_116
+  - first:
+      213: -4169600144912076514
+    second: retrato cher ami_117
+  - first:
+      213: 697518539861633040
+    second: retrato cher ami_118
+  - first:
+      213: -2098841877462623586
+    second: retrato cher ami_119
+  - first:
+      213: -1358886002934783887
+    second: retrato cher ami_120
+  - first:
+      213: 7572266434266005377
+    second: retrato cher ami_121
+  - first:
+      213: 5002948857685353681
+    second: retrato cher ami_122
+  - first:
+      213: -1040985312787024166
+    second: retrato cher ami_123
+  - first:
+      213: -948792056704717460
+    second: retrato cher ami_124
+  - first:
+      213: -7812045092245872902
+    second: retrato cher ami_125
+  - first:
+      213: -8103444379187934232
+    second: retrato cher ami_126
+  - first:
+      213: -7695604372814305486
+    second: retrato cher ami_127
+  - first:
+      213: -7292044575815198348
+    second: retrato cher ami_128
+  - first:
+      213: 143499408740999651
+    second: retrato cher ami_129
+  - first:
+      213: -364877307768347388
+    second: retrato cher ami_130
+  - first:
+      213: 993906505514361112
+    second: retrato cher ami_131
+  - first:
+      213: -4928810463707343631
+    second: retrato cher ami_132
+  - first:
+      213: 5228585671312845942
+    second: retrato cher ami_133
+  - first:
+      213: -4022297563839460743
+    second: retrato cher ami_134
+  - first:
+      213: -5980059253873879776
+    second: retrato cher ami_135
+  - first:
+      213: 1646555106006559489
+    second: retrato cher ami_136
+  - first:
+      213: 3672696448801170907
+    second: retrato cher ami_137
+  - first:
+      213: 257381446963954879
+    second: retrato cher ami_138
+  - first:
+      213: -8055323030548143422
+    second: retrato cher ami_139
+  - first:
+      213: -4894720826655421511
+    second: retrato cher ami_140
+  - first:
+      213: -7583734623653417636
+    second: retrato cher ami_141
+  - first:
+      213: 951789863653046213
+    second: retrato cher ami_142
+  - first:
+      213: -3618564845426912450
+    second: retrato cher ami_143
+  - first:
+      213: -4113700984109336896
+    second: retrato cher ami_144
+  - first:
+      213: 2232360568236744988
+    second: retrato cher ami_145
+  - first:
+      213: 3658188838853378983
+    second: retrato cher ami_146
+  - first:
+      213: 23106056145368420
+    second: retrato cher ami_147
+  - first:
+      213: 4470618699289996076
+    second: retrato cher ami_148
+  - first:
+      213: 7346601988947108806
+    second: retrato cher ami_149
+  - first:
+      213: -626315230001135221
+    second: retrato cher ami_150
+  - first:
+      213: -4285568159444763196
+    second: retrato cher ami_151
+  - first:
+      213: 888285706958219569
+    second: retrato cher ami_152
+  - first:
+      213: -7855176191217424103
+    second: retrato cher ami_153
+  - first:
+      213: -8937695369380570351
+    second: retrato cher ami_154
+  - first:
+      213: 8085793899594167055
+    second: retrato cher ami_155
+  - first:
+      213: -7233250268412050491
+    second: retrato cher ami_156
+  - first:
+      213: 4208115417051865358
+    second: retrato cher ami_157
+  - first:
+      213: 2362205578441234191
+    second: retrato cher ami_158
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: retrato cher ami_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1060
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60aae273a982a3180800000000000000
+      internalID: -9134944251351750138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato cher ami_1
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 0
+        width: 1060
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36d0bfa95e776a10800000000000000
+      internalID: 1902628291252115004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      retrato cher ami_0: -9134944251351750138
+      retrato cher ami_1: 1902628291252115004
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
