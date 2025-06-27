@@ -76,6 +76,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bait Small
       objectReference: {fileID: 0}
+    - target: {fileID: 7485652405543891823, guid: 76c08dd4614c95747bc30ade61797b55, type: 3}
+      propertyPath: _arcDistanceMultiplier
+      value: 0.15
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

@@ -80,6 +80,8 @@ public class FishSpawnManager : Singleton<FishSpawnManager>
         _activeFish.Add(fish);
     }
 
+    #region Coroutines
+
     private IEnumerator RespawnRoutine()
     {
         _isRespawning = true;
@@ -93,6 +95,8 @@ public class FishSpawnManager : Singleton<FishSpawnManager>
 
         _isRespawning = false;
     }
+
+    #endregion
 
     #endregion
 }

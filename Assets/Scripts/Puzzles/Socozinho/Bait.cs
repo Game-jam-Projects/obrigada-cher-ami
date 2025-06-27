@@ -80,16 +80,31 @@ public class Bait : MonoBehaviour
         return false;
     }
 
-    public void Launch(Vector2 startPosition, Vector2 endPosition, float arcHeight, float speed)
+    public void Launch(Vector2 startPosition, Vector2 endPosition, float arcHeight, float arcDistanceMultiplier, float speed)
     {
         _rigidbody.bodyType = RigidbodyType2D.Kinematic;
 
-        StartCoroutine(LaunchArcRoutine(startPosition, endPosition, arcHeight, speed));
+        StartCoroutine(LaunchArcRoutine(startPosition, endPosition, arcHeight, arcDistanceMultiplier, speed));
     }
 
     #endregion
 
     #region Private Methods
+
+    private void UpdateColor()
+    {
+        if (_spriteRenderer == null) return;
+
+        _spriteRenderer.color = _hitPoints switch
+        {
+            3 => Color.green,
+            2 => Color.yellow,
+            1 => Color.red,
+            _ => Color.gray,
+        };
+    }
+
+    #region Coroutines
 
     private IEnumerator FloatToSurfaceRoutine()
     {
@@ -114,22 +129,10 @@ public class Bait : MonoBehaviour
         }
     }
 
-    private void UpdateColor()
-    {
-        if (_spriteRenderer == null) return;
-
-        _spriteRenderer.color = _hitPoints switch
-        {
-            3 => Color.green,
-            2 => Color.yellow,
-            1 => Color.red,
-            _ => Color.gray,
-        };
-    }
-
-    private IEnumerator LaunchArcRoutine(Vector2 startPosition, Vector2 endPosition, float height, float speed)
+    private IEnumerator LaunchArcRoutine(Vector2 startPosition, Vector2 endPosition, float arcHeight, float arcDistanceMultiplier, float speed)
     {
         float distance = Vector2.Distance(startPosition, endPosition);
+        float adjustedHeight = arcHeight + distance * arcDistanceMultiplier;
         float adjustedSpeed = speed + distance * 1.0f;
         float duration = distance / adjustedSpeed;
 
@@ -140,7 +143,7 @@ public class Bait : MonoBehaviour
             float t = time / duration;
 
             Vector2 position = Vector2.Lerp(startPosition, endPosition, t);
-            position.y += height * 4 * (t - t * t);
+            position.y += adjustedHeight * 4 * (t - t * t);
 
             transform.position = position;
 
@@ -153,6 +156,8 @@ public class Bait : MonoBehaviour
 
         _rigidbody.bodyType = RigidbodyType2D.Dynamic;
     }
+
+    #endregion
 
     #endregion
 }

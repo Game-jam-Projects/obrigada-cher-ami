@@ -9,6 +9,8 @@ public class EnemyFish : Fish
     [SerializeField] private float _eatRadius = 0.5f;
     [SerializeField] private Vector2 _eatRadiusOffset = Vector2.zero;
     [SerializeField] private LayerMask _fishLayerMask;
+
+    [Header("Lane")]
     [SerializeField] private Lane _enemyLane;
 
     [Header("Full Belly Cooldown")]
@@ -125,6 +127,8 @@ public class EnemyFish : Fish
 
     private void EatFish(Fish fish)
     {
+        _animator.SetTrigger("eat");
+
         FishSpawnManager.Instance.HandleFishDestroyed(fish);
 
         Destroy(fish.gameObject);
@@ -137,6 +141,8 @@ public class EnemyFish : Fish
         {
             _isFull = true;
             _fishEaten = 0;
+
+            _animator.SetBool("isFull", true);
 
             if (_fullBellyRoutine != null)
             {
@@ -153,7 +159,7 @@ public class EnemyFish : Fish
 
         if (distance > _baitBiteRange)
         {
-            SwimTowards(_currentTargetBait.transform.position, _patrolSpeed);
+            SwimTowards(_currentTargetBait.transform.position, _chaseSpeed);
             UpdateFacingDirection(_currentTargetBait.transform.position);
 
             _spriteRenderer.transform.localRotation = Quaternion.identity;
@@ -192,6 +198,8 @@ public class EnemyFish : Fish
         yield return new WaitForSeconds(_fullBellyDuration);
 
         _isFull = false;
+
+        _animator.SetBool("isFull", false);
 
         _currentState = FishState.Patrolling;
 

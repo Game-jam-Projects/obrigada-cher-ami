@@ -10,8 +10,9 @@ public class Fish : MonoBehaviour
     [SerializeField] private Collider2D _detectionCollider;
 
     [Header("Movement")]
-    [SerializeField] protected float _patrolSpeed = 2.0f;
-    [SerializeField] private float _enteringSpeed = 5.0f;
+    [SerializeField] protected float _patrolSpeed = 3.0f;
+    [SerializeField] protected float _chaseSpeed = 4.0f;
+    [SerializeField] private float _enteringSpeed = 6.0f;
 
     [Header("Score")]
     [SerializeField] private int _scoreValue = 1;
@@ -54,9 +55,10 @@ public class Fish : MonoBehaviour
     private Coroutine _scaredRoutine;
 
     protected Bait _currentTargetBait;
-    protected SpriteRenderer _spriteRenderer;
-
     private Lane _assignedLane;
+
+    protected SpriteRenderer _spriteRenderer;
+    protected Animator _animator;
 
     #endregion
 
@@ -73,6 +75,7 @@ public class Fish : MonoBehaviour
     protected virtual void Start()
     {
         _spriteRenderer = GetComponentInChildren<SpriteRenderer>();
+        _animator = GetComponent<Animator>();
 
         if (_clickCollider != null) _clickCollider.enabled = false;
         if (_detectionCollider != null) _detectionCollider.isTrigger = true;
@@ -300,7 +303,7 @@ public class Fish : MonoBehaviour
 
         if (distance > _baitBiteRange)
         {
-            SwimTowards(_currentTargetBait.transform.position, _patrolSpeed);
+            SwimTowards(_currentTargetBait.transform.position, _chaseSpeed);
             UpdateFacingDirection(_currentTargetBait.transform.position);
 
             _spriteRenderer.transform.localRotation = Quaternion.identity;
@@ -338,6 +341,8 @@ public class Fish : MonoBehaviour
 
             if (isDestroyed)
             {
+                _animator.SetTrigger("eat");
+
                 _currentTargetBait = null;
 
                 FishChaseManager.Instance.Unregister(this);
@@ -359,7 +364,7 @@ public class Fish : MonoBehaviour
 
             if (registered)
             {
-                SwimTowards(_currentTargetBait.transform.position, _patrolSpeed);
+                SwimTowards(_currentTargetBait.transform.position, _chaseSpeed);
                 UpdateFacingDirection(_currentTargetBait.transform.position);
             }
             else
@@ -367,12 +372,12 @@ public class Fish : MonoBehaviour
                 Vector2 waitDirection = ((Vector2)transform.position - (Vector2)_currentTargetBait.transform.position).normalized;
                 Vector2 waitPosition = (Vector2)_currentTargetBait.transform.position + waitDirection * _waitingDistance;
 
-                SwimTowards(waitPosition, _patrolSpeed);
+                SwimTowards(waitPosition, _chaseSpeed);
             }
         }
         else
         {
-            SwimTowards(_currentTargetBait.transform.position, _patrolSpeed);
+            SwimTowards(_currentTargetBait.transform.position, _chaseSpeed);
             UpdateFacingDirection(_currentTargetBait.transform.position);
         }
 
