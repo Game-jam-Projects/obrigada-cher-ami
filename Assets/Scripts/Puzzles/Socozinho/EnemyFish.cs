@@ -142,6 +142,8 @@ public class EnemyFish : Fish
             _isFull = true;
             _fishEaten = 0;
 
+            _animator.SetBool("isFull", true);
+
             if (_fullBellyRoutine != null)
             {
                 StopCoroutine(_fullBellyRoutine);
@@ -196,6 +198,8 @@ public class EnemyFish : Fish
         yield return new WaitForSeconds(_fullBellyDuration);
 
         _isFull = false;
+
+        _animator.SetBool("isFull", false);
 
         _currentState = FishState.Patrolling;
 
