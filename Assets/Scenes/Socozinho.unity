@@ -566,8 +566,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 04bce7a85e97eb449806c5342fd4b974, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _biteRange: 3
-  _scareRadius: 5
+  _biteRange: 4
+  _scareRadius: 5.5
   _beakPosition: {fileID: 1913580493}
 --- !u!95 &802302921
 Animator:
@@ -620,6 +620,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3966ac944a1e7d946a7f18693488be43, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _gameDuration: 60
   _enemyFish: {fileID: 1525908860}
 --- !u!4 &1009998245
 Transform:
@@ -923,7 +924,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _fishPrefabs:
-  - {fileID: 2908972050337428778, guid: dc2930bba57ad4f4baae37cadaf2f7a8, type: 3}
+  - {fileID: 9100919994301557853, guid: 20240402f19935f439a9fde813ae21fa, type: 3}
+  - {fileID: 9100919994301557853, guid: c484df172db9c6c4eb7d0813c8676e82, type: 3}
+  - {fileID: 9100919994301557853, guid: 8bb1afb93ba627e4db8d18dca405d6fb, type: 3}
+  - {fileID: 9100919994301557853, guid: 58f84bf5963cd7a43b738882a4749a57, type: 3}
+  - {fileID: 9100919994301557853, guid: 166e94f0ca87ef341b5c0a89688d7ad4, type: 3}
   _initialFishCount: 6
   _respawnDelay: 2
   _minimumActiveFishRatio: 0.75
@@ -1213,7 +1218,8 @@ MonoBehaviour:
   - {fileID: 4048708704843530978, guid: cfaeda566014b2e48aaaa427758997dc, type: 3}
   - {fileID: 4048708704843530978, guid: 7e39b9d32c8758d4087ba61e381a334f, type: 3}
   _queueSize: 4
-  _arcHeight: 1.5
+  _arcHeight: 0.1
+  _arcDistanceMultiplier: 0.15
   _throwSpeed: 3
   _waterSurfaceLevel: 2.15
 --- !u!4 &1608619881
@@ -1589,10 +1595,6 @@ PrefabInstance:
       propertyPath: _enemyLane
       value: 
       objectReference: {fileID: 1815238847}
-    - target: {fileID: 4089664296402812339, guid: 273eafd75f2305547ac6c3f2d1fa0daa, type: 3}
-      propertyPath: _patrolSpeed
-      value: 4
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

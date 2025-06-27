@@ -11,7 +11,8 @@ public class BaitSpawner : Singleton<BaitSpawner>
     [SerializeField] private int _queueSize = 4;
 
     [Header("Throw Arc Settings")]
-    [SerializeField] private float _arcHeight = 1.5f;
+    [SerializeField] private float _arcHeight = 0.1f;
+    [SerializeField] private float _arcDistanceMultiplier = 0.15f;
     [SerializeField] private float _throwSpeed = 3.0f;
 
     [Header("Water Settings")]
@@ -60,7 +61,7 @@ public class BaitSpawner : Singleton<BaitSpawner>
             AddRandomBaitToQueue();
 
             Bait bait = baitInstance.GetComponent<Bait>();
-            bait.Launch(Socozinho.Instance.BeakPosition, targetPoint, _arcHeight, _throwSpeed);
+            bait.Launch(Socozinho.Instance.BeakPosition, targetPoint, _arcHeight, _arcDistanceMultiplier, _throwSpeed);
         }
     }
 

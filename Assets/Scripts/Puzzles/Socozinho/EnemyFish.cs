@@ -9,6 +9,8 @@ public class EnemyFish : Fish
     [SerializeField] private float _eatRadius = 0.5f;
     [SerializeField] private Vector2 _eatRadiusOffset = Vector2.zero;
     [SerializeField] private LayerMask _fishLayerMask;
+
+    [Header("Lane")]
     [SerializeField] private Lane _enemyLane;
 
     [Header("Full Belly Cooldown")]
@@ -153,7 +155,7 @@ public class EnemyFish : Fish
 
         if (distance > _baitBiteRange)
         {
-            SwimTowards(_currentTargetBait.transform.position, _patrolSpeed);
+            SwimTowards(_currentTargetBait.transform.position, _chaseSpeed);
             UpdateFacingDirection(_currentTargetBait.transform.position);
 
             _spriteRenderer.transform.localRotation = Quaternion.identity;

@@ -10,8 +10,9 @@ public class Fish : MonoBehaviour
     [SerializeField] private Collider2D _detectionCollider;
 
     [Header("Movement")]
-    [SerializeField] protected float _patrolSpeed = 2.0f;
-    [SerializeField] private float _enteringSpeed = 5.0f;
+    [SerializeField] protected float _patrolSpeed = 3.0f;
+    [SerializeField] protected float _chaseSpeed = 4.0f;
+    [SerializeField] private float _enteringSpeed = 6.0f;
 
     [Header("Score")]
     [SerializeField] private int _scoreValue = 1;
@@ -300,7 +301,7 @@ public class Fish : MonoBehaviour
 
         if (distance > _baitBiteRange)
         {
-            SwimTowards(_currentTargetBait.transform.position, _patrolSpeed);
+            SwimTowards(_currentTargetBait.transform.position, _chaseSpeed);
             UpdateFacingDirection(_currentTargetBait.transform.position);
 
             _spriteRenderer.transform.localRotation = Quaternion.identity;
@@ -359,7 +360,7 @@ public class Fish : MonoBehaviour
 
             if (registered)
             {
-                SwimTowards(_currentTargetBait.transform.position, _patrolSpeed);
+                SwimTowards(_currentTargetBait.transform.position, _chaseSpeed);
                 UpdateFacingDirection(_currentTargetBait.transform.position);
             }
             else
@@ -367,12 +368,12 @@ public class Fish : MonoBehaviour
                 Vector2 waitDirection = ((Vector2)transform.position - (Vector2)_currentTargetBait.transform.position).normalized;
                 Vector2 waitPosition = (Vector2)_currentTargetBait.transform.position + waitDirection * _waitingDistance;
 
-                SwimTowards(waitPosition, _patrolSpeed);
+                SwimTowards(waitPosition, _chaseSpeed);
             }
         }
         else
         {
-            SwimTowards(_currentTargetBait.transform.position, _patrolSpeed);
+            SwimTowards(_currentTargetBait.transform.position, _chaseSpeed);
             UpdateFacingDirection(_currentTargetBait.transform.position);
         }
 

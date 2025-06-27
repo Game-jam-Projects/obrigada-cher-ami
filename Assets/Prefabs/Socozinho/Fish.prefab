@@ -257,6 +257,7 @@ MonoBehaviour:
   _clickCollider: {fileID: 514058549299943919}
   _detectionCollider: {fileID: 7526905348610474355}
   _patrolSpeed: 3
+  _chaseSpeed: 4
   _enteringSpeed: 6
   _scoreValue: 1
   _biteDamage: 1

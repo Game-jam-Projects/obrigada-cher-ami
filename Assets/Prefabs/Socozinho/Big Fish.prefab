@@ -75,7 +75,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _clickCollider: {fileID: 0}
   _detectionCollider: {fileID: 0}
-  _patrolSpeed: 5
+  _patrolSpeed: 3.5
+  _chaseSpeed: 5
   _enteringSpeed: 5
   _scoreValue: 1
   _biteDamage: 1
