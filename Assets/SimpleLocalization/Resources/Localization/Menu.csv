@@ -1,6 +1,16 @@
-Key,English,German,Russian
-Menu.Example.Title,Menu,Menü,Меню
-Menu.Example.NewGame,New game,Neues Spiel,Новая игра
-Menu.Example.Continue,Continue,Fortsetzen,Продолжить
-Menu.Example.Settings,Settings,Einstellungen,Настройки
-Menu.Example.Review,Write a review,Eine Rezension schreiben,Написать отзыв
+key,ptbr,enus
+menu.creditos,CRÉDITOS,CRÉDITOS
+menu.marcelo,"<b>Marcelo Camargo</b>
+Programador","<b>Marcelo Camargo</b>
+Programmer"
+menu.lucy,"<b>Maria Lucy (Polyastra)</b>
+Narrative Designer e Sound Designer","<b>Maria Lucy (Polyastra)</b>
+Narrative Designer and Sound Designer"
+menu.mila,"<b>Mila Milanese</b>
+Programadore","<b>Mila Milanese</b>
+Programmer"
+menu.zago,"<b>zagoiris</b>
+Artista","<b>zagoiris</b>
+Artist"
+menu.jogar,JOGAR,PLAY
+menu.sair,SAIR,EXIT
