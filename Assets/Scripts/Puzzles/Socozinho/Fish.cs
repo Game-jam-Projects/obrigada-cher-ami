@@ -55,9 +55,10 @@ public class Fish : MonoBehaviour
     private Coroutine _scaredRoutine;
 
     protected Bait _currentTargetBait;
-    protected SpriteRenderer _spriteRenderer;
-
     private Lane _assignedLane;
+
+    protected SpriteRenderer _spriteRenderer;
+    protected Animator _animator;
 
     #endregion
 
@@ -74,6 +75,7 @@ public class Fish : MonoBehaviour
     protected virtual void Start()
     {
         _spriteRenderer = GetComponentInChildren<SpriteRenderer>();
+        _animator = GetComponent<Animator>();
 
         if (_clickCollider != null) _clickCollider.enabled = false;
         if (_detectionCollider != null) _detectionCollider.isTrigger = true;
@@ -339,6 +341,8 @@ public class Fish : MonoBehaviour
 
             if (isDestroyed)
             {
+                _animator.SetTrigger("eat");
+
                 _currentTargetBait = null;
 
                 FishChaseManager.Instance.Unregister(this);

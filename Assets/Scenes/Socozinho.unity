@@ -924,11 +924,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _fishPrefabs:
-  - {fileID: 9100919994301557853, guid: 20240402f19935f439a9fde813ae21fa, type: 3}
-  - {fileID: 9100919994301557853, guid: c484df172db9c6c4eb7d0813c8676e82, type: 3}
-  - {fileID: 9100919994301557853, guid: 8bb1afb93ba627e4db8d18dca405d6fb, type: 3}
-  - {fileID: 9100919994301557853, guid: 58f84bf5963cd7a43b738882a4749a57, type: 3}
-  - {fileID: 9100919994301557853, guid: 166e94f0ca87ef341b5c0a89688d7ad4, type: 3}
+  - {fileID: 8318533873671166844, guid: 20240402f19935f439a9fde813ae21fa, type: 3}
+  - {fileID: 4751126009527615290, guid: c484df172db9c6c4eb7d0813c8676e82, type: 3}
+  - {fileID: 8166262809380623479, guid: 4a04667ebb4e93f4c9fba48c88f67250, type: 3}
+  - {fileID: 2234001042492802826, guid: bea720555d4ba084ab7e869a6479ceab, type: 3}
+  - {fileID: 6939231204957728856, guid: 166e94f0ca87ef341b5c0a89688d7ad4, type: 3}
   _initialFishCount: 6
   _respawnDelay: 2
   _minimumActiveFishRatio: 0.75
@@ -1545,11 +1545,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1301117693109784900, guid: 273eafd75f2305547ac6c3f2d1fa0daa, type: 3}
       propertyPath: m_Name
-      value: Big Fish
-      objectReference: {fileID: 0}
-    - target: {fileID: 1301117693109784900, guid: 273eafd75f2305547ac6c3f2d1fa0daa, type: 3}
-      propertyPath: m_IsActive
-      value: 1
+      value: Baiacu
       objectReference: {fileID: 0}
     - target: {fileID: 3597680702884110728, guid: 273eafd75f2305547ac6c3f2d1fa0daa, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1591,10 +1587,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4089664296402812339, guid: 273eafd75f2305547ac6c3f2d1fa0daa, type: 3}
-      propertyPath: _enemyLane
-      value: 
-      objectReference: {fileID: 1815238847}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

@@ -127,6 +127,8 @@ public class EnemyFish : Fish
 
     private void EatFish(Fish fish)
     {
+        _animator.SetTrigger("eat");
+
         FishSpawnManager.Instance.HandleFishDestroyed(fish);
 
         Destroy(fish.gameObject);
