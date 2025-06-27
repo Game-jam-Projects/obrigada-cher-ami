@@ -3,12 +3,28 @@ using UnityEngine;
 
 public class LocalizationController : MonoBehaviour
 {
-    public string LocalizationKey;
+    public LocalizationSettings LocalizationSettings;
+
+    private void Start()
+    {
+        SetLocalizationKey();
+    }
+
+    private void SetLocalizationKey()
+    {
+        LocalizationManager.Language = LocalizationSettings.LocalizationKey.ToString();
+        LocalizationManager.Read();
+    }
 
     public void SetLocalizationKey(string key)
     {
-        LocalizationKey = key;
-        LocalizationManager.Language = LocalizationKey;
-        LocalizationManager.Read();
-    }
+        LocalizationSettings.LocalizationKey = key switch
+        {
+            "ptbr" => LocalizationKey.ptbr,
+            "enus" => LocalizationKey.enus,
+            _ => LocalizationSettings.LocalizationKey
+        };
+
+        SetLocalizationKey();
+    }   
 }
