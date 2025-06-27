@@ -1,11 +1,12 @@
 using UnityEngine;
 
-public class Player : MonoBehaviour
+public class Player : MonoBehaviour, IEventListener
 {
     #region Fields
 
     [Header("Movement")]
     [SerializeField] private float _moveSpeed = 5.0f;
+    private bool _canMove = true;
 
     [Header("Jumping")]
     [SerializeField] private float _jumpForce = 10.0f;
@@ -19,16 +20,31 @@ public class Player : MonoBehaviour
 
     [Header("Events")]
     [SerializeField] private GameEvent Pulo;
+    [SerializeField] private GameEvent TravaMovimentacao;
+    [SerializeField] private GameEvent DestravaMovimentacao;
 
     private bool _isGrounded;
 
     private Rigidbody2D _rigidBody;
     private PlayerInput _input;
     private Animator _animator;
+    private bool _isFacingRight = true;
+    private float _currentDirection = 1f;
 
     #endregion
 
     #region Unity Methods
+    private void OnEnable()
+    {
+        TravaMovimentacao.Subscribe(this);
+        DestravaMovimentacao.Subscribe(this);
+    }
+
+    private void OnDisable()
+    {
+        TravaMovimentacao.Unsubscribe(this);
+        DestravaMovimentacao.Unsubscribe(this);
+    }
 
     private void Start()
     {
@@ -39,33 +55,52 @@ public class Player : MonoBehaviour
 
     private void Update()
     {
+
         CheckGround();
         UpdateAnimator();
     }
 
     private void FixedUpdate()
     {
-        Move();
-        Jump();
-        JumpPhysics();
+        if (_canMove)
+        {
+            Move();
+            Jump();
+            JumpPhysics();
+        }
     }
 
     private void UpdateAnimator()
     {
-        var xPos = _rigidBody.linearVelocityX;
-        var yPos = _rigidBody.linearVelocityY > 0 ? _rigidBody.linearVelocityY : 0;
+        float xSpeed = Mathf.Abs(_rigidBody.linearVelocity.x);
+        float ySpeed = _rigidBody.linearVelocity.y;
 
-        _animator.SetFloat("horizontal", xPos);
-        _animator.SetFloat("vertical", yPos);
+        // Atualiza direção
+        if (_input.Movement.x > 0.1f) _currentDirection = 1f;
+        else if (_input.Movement.x < -0.1f) _currentDirection = -1f;
 
-        //Debug.Log($"x:{xPos} y:{yPos}");
+        _animator.SetFloat("Speed", xSpeed);
+        _animator.SetFloat("VerticalVelocity", ySpeed);
+        _animator.SetBool("IsGrounded", _isGrounded);
 
-        if (_rigidBody.linearVelocity != Vector2.zero)
+        if (_canMove)
+            _animator.SetFloat("Direction", _currentDirection);
+
+        // Controle manual do pulo quando necessário
+        if (!_isGrounded)
         {
-            _animator.SetFloat("ultHorizontal", xPos);
-            _animator.SetFloat("ultVertical", yPos);
+            if (ySpeed > 0.5f)
+            {
+                _animator.Play(_currentDirection > 0 ? "comeco voo direito" : "comeco voo esquerdo");
+            }
+            else if (ySpeed < -0.5f)
+            {
+                _animator.Play(_currentDirection > 0 ? "fim voo direito" : "fim voo esquerdo");
+            }
         }
+
     }
+
 
     //private void OnDrawGizmosSelected()
     //{
@@ -75,7 +110,6 @@ public class Player : MonoBehaviour
     //        Gizmos.DrawWireSphere(_groundCheck.position, _groundCheckRadius);
     //    }
     //}
-
     #endregion
 
     #region Private Methods
@@ -113,5 +147,20 @@ public class Player : MonoBehaviour
         _isGrounded = Physics2D.OverlapCircle(_groundCheck.position, _groundCheckRadius, _groundLayer);
     }
 
+    public void LockMovement() => _canMove = false;
+    public void UnlockMovement() => _canMove = true;
+    #endregion
+
+    #region Public Methods
+
+    public void OnEventRaised(IEvent gameEvent, Component sender, object data)
+    {
+        gameEvent = (GameEvent) gameEvent;
+        if (gameEvent.Name == TravaMovimentacao.Name) 
+            LockMovement();
+
+        if (gameEvent.Name == DestravaMovimentacao.Name)
+            UnlockMovement();
+    }
     #endregion
 }
