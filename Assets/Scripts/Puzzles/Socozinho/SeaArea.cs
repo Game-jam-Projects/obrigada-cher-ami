@@ -18,14 +18,11 @@ public class SeaArea : Singleton<SeaArea>
 
     private void OnDrawGizmos()
     {
-        Gizmos.color = new Color(0f, 0.5f, 1f, 0.25f);
-
         Vector2 size = _maxBounds - _minBounds;
         Vector2 center = (_minBounds + _maxBounds) / 2;
 
-        Gizmos.DrawCube(center, size);
+        Gizmos.color = Color.cyan;
 
-        Gizmos.color = new Color(0f, 0.5f, 1f, 1f);
         Gizmos.DrawWireCube(center, size);
     }
 
