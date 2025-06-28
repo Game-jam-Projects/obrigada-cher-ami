@@ -553,7 +553,7 @@ MonoBehaviour:
   - {fileID: 786156005}
   - {fileID: 668564184}
   - {fileID: 1878103272}
-  velocidadeDigitacao: 0.05
+  velocidadeDigitacao: 0.07
   aoIniciarDialogo:
     m_PersistentCalls:
       m_Calls:
@@ -686,6 +686,14 @@ PrefabInstance:
     - target: {fileID: 4234562389321328003, guid: 9c99f47a932245248a5c06853c7ed120, type: 3}
       propertyPath: LocalizationKey
       value: 3orni1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6940080136871156995, guid: 9c99f47a932245248a5c06853c7ed120, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6940080136871156995, guid: 9c99f47a932245248a5c06853c7ed120, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 20.170013
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1167,6 +1175,14 @@ PrefabInstance:
     - target: {fileID: 4234562389321328003, guid: 9c99f47a932245248a5c06853c7ed120, type: 3}
       propertyPath: LocalizationKey
       value: 3orni2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6940080136871156995, guid: 9c99f47a932245248a5c06853c7ed120, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6940080136871156995, guid: 9c99f47a932245248a5c06853c7ed120, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 20.170013
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
