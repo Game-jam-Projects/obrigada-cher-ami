@@ -1,5 +1,7 @@
 key,ptbr,enus
 menu.creditos,CRÉDITOS,CREDITS
+menu.jogar,JOGAR,PLAY
+menu.sair,SAIR,EXIT
 menu.marcelo,"<b>Marcelo Camargo</b>
 Programador","<b>Marcelo Camargo</b>
 Programmer"
@@ -12,5 +14,3 @@ Programmer"
 menu.zago,"<b>zagoiris</b>
 Artista","<b>zagoiris</b>
 Artist"
-menu.jogar,JOGAR,PLAY
-menu.sair,SAIR,EXIT

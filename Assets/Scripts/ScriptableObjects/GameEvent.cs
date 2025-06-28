@@ -19,7 +19,7 @@ public class GameEvent : ScriptableObject, IEvent
         Listeners = new List<IEventListener>();
 
         if (Clips.Count > 0)
-            SoundEvent = IsMusic ? ResourcesHelper.GetGameEvent("_PlayMusica") : ResourcesHelper.GetGameEvent("_PlaySom");
+            SoundEvent = IsMusic ? ResourcesHelper.GetGameEvent("Configuracoes/_PlayMusica") : ResourcesHelper.GetGameEvent("Configuracoes/_PlaySom");
     }
 
     public void Broadcast(object data)

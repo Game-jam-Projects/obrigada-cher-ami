@@ -296,7 +296,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   TipoComida: 0
+  ValorCrustaceo: 30
+  ValorPeixe: 10
+  ValorInseto: 5
+  ValorLixo: -15
   Pontuacao: {fileID: 11400000, guid: 72cab1f85c0772447b41764ac057cd68, type: 2}
+  ComeLixo: {fileID: 0}
+  ComeCrustaceo: {fileID: 0}
+  ComePeixe: {fileID: 0}
 --- !u!1 &3205466680045341070
 GameObject:
   m_ObjectHideFlags: 0
@@ -435,7 +442,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   TipoComida: 0
+  ValorCrustaceo: 30
+  ValorPeixe: 10
+  ValorInseto: 5
+  ValorLixo: -15
   Pontuacao: {fileID: 11400000, guid: 72cab1f85c0772447b41764ac057cd68, type: 2}
+  ComeLixo: {fileID: 0}
+  ComeCrustaceo: {fileID: 0}
+  ComePeixe: {fileID: 0}
 --- !u!1 &3460812196374918335
 GameObject:
   m_ObjectHideFlags: 0
@@ -574,7 +588,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   TipoComida: 0
+  ValorCrustaceo: 30
+  ValorPeixe: 10
+  ValorInseto: 5
+  ValorLixo: -15
   Pontuacao: {fileID: 11400000, guid: 72cab1f85c0772447b41764ac057cd68, type: 2}
+  ComeLixo: {fileID: 0}
+  ComeCrustaceo: {fileID: 0}
+  ComePeixe: {fileID: 0}
 --- !u!1 &3623176344645104418
 GameObject:
   m_ObjectHideFlags: 0
@@ -713,7 +734,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   TipoComida: 0
+  ValorCrustaceo: 30
+  ValorPeixe: 10
+  ValorInseto: 5
+  ValorLixo: -15
   Pontuacao: {fileID: 11400000, guid: 72cab1f85c0772447b41764ac057cd68, type: 2}
+  ComeLixo: {fileID: 0}
+  ComeCrustaceo: {fileID: 0}
+  ComePeixe: {fileID: 0}
 --- !u!1 &4384049415235901217
 GameObject:
   m_ObjectHideFlags: 0
@@ -852,7 +880,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   TipoComida: 0
+  ValorCrustaceo: 30
+  ValorPeixe: 10
+  ValorInseto: 5
+  ValorLixo: -15
   Pontuacao: {fileID: 11400000, guid: 72cab1f85c0772447b41764ac057cd68, type: 2}
+  ComeLixo: {fileID: 0}
+  ComeCrustaceo: {fileID: 0}
+  ComePeixe: {fileID: 0}
 --- !u!1 &4428275801178684849
 GameObject:
   m_ObjectHideFlags: 0
@@ -1038,7 +1073,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   TipoComida: 0
+  ValorCrustaceo: 30
+  ValorPeixe: 10
+  ValorInseto: 5
+  ValorLixo: -15
   Pontuacao: {fileID: 11400000, guid: 72cab1f85c0772447b41764ac057cd68, type: 2}
+  ComeLixo: {fileID: 0}
+  ComeCrustaceo: {fileID: 0}
+  ComePeixe: {fileID: 0}
 --- !u!1 &5280977167809658933
 GameObject:
   m_ObjectHideFlags: 0
@@ -1178,7 +1220,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   TipoComida: 0
+  ValorCrustaceo: 30
+  ValorPeixe: 10
+  ValorInseto: 5
+  ValorLixo: -15
   Pontuacao: {fileID: 11400000, guid: 72cab1f85c0772447b41764ac057cd68, type: 2}
+  ComeLixo: {fileID: 0}
+  ComeCrustaceo: {fileID: 0}
+  ComePeixe: {fileID: 0}
 --- !u!114 &252120490873044277
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1333,7 +1382,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   TipoComida: 0
+  ValorCrustaceo: 30
+  ValorPeixe: 10
+  ValorInseto: 5
+  ValorLixo: -15
   Pontuacao: {fileID: 11400000, guid: 72cab1f85c0772447b41764ac057cd68, type: 2}
+  ComeLixo: {fileID: 0}
+  ComeCrustaceo: {fileID: 0}
+  ComePeixe: {fileID: 0}
 --- !u!1 &5415909457264201950
 GameObject:
   m_ObjectHideFlags: 0
@@ -1482,7 +1538,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1867030896282081985}
   - component: {fileID: 5706308093107083606}
-  - component: {fileID: 3253593467153926354}
   m_Layer: 0
   m_Name: Corpo
   m_TagString: Untagged
@@ -1560,22 +1615,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 1
---- !u!114 &3253593467153926354
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7619397183915093719}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ee158225ee1e59f4791627785501d950, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  currentShaderType: 0
-  normalStrength: 5
-  normalSmoothing: 1
-  computingNormal: 0
 --- !u!1 &8454820845143780345
 GameObject:
   m_ObjectHideFlags: 0

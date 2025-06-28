@@ -86,6 +86,7 @@ GameObject:
   - component: {fileID: 6058298716446824311}
   - component: {fileID: 2760777027945178474}
   - component: {fileID: 3505480469632910561}
+  - component: {fileID: 8502873792624607485}
   m_Layer: 0
   m_Name: SceneManager
   m_TagString: Untagged
@@ -148,7 +149,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 750d064d39c9ac548bc327b19a835d46, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fader1: {fileID: 2419088060507050543}
-  fader2: {fileID: 2419088060507050543}
-  fader3: {fileID: 2419088060507050543}
   fader: {fileID: 2419088060507050543}
+--- !u!114 &8502873792624607485
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4436132960407140990}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d812e5bb9b38e0b4d8188ecfbb111744, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fadeDuration: 2
+  waitTime: 0.3

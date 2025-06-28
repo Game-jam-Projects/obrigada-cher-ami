@@ -55,7 +55,6 @@ public class Player : MonoBehaviour, IEventListener
 
     private void Update()
     {
-
         CheckGround();
         UpdateAnimator();
     }
@@ -68,6 +67,8 @@ public class Player : MonoBehaviour, IEventListener
             Jump();
             JumpPhysics();
         }
+        else
+            StopMovement();
     }
 
     private void UpdateAnimator()
@@ -140,6 +141,13 @@ public class Player : MonoBehaviour, IEventListener
         {
             _rigidBody.linearVelocity += (_lowJumpMultiplier - 1) * Physics2D.gravity.y * Time.fixedDeltaTime * Vector2.up;
         }
+    }
+
+    private void StopMovement()
+    {
+        _rigidBody.linearVelocity = Vector2.zero;
+        _animator.SetFloat("Speed", 0);
+        _animator.SetFloat("VerticalVelocity", 0);
     }
 
     private void CheckGround()

@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 4351116887349902936}
   - component: {fileID: 7174680523778648568}
-  - component: {fileID: 8277444468910543006}
   - component: {fileID: 8589077856314695984}
   m_Layer: 0
   m_Name: Dialogo Point
@@ -80,19 +79,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 3.06, y: 3.15}
   m_EdgeRadius: 0
---- !u!114 &8277444468910543006
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3113888927494163333}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a2e245347cb3a1e4889ed5ab5b5bff76, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  objeto: {fileID: 0}
 --- !u!114 &8589077856314695984
 MonoBehaviour:
   m_ObjectHideFlags: 0

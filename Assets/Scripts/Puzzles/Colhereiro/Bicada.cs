@@ -11,6 +11,7 @@ public class Bicada : MonoBehaviour
     private InputAction _attackAction;
     private Vector2 _currentVelocity;
     private Vector3 _initialPos;
+    private bool _canMove = false;
 
     void Start()
     {
@@ -23,7 +24,7 @@ public class Bicada : MonoBehaviour
         if (transform.localPosition != _initialPos)
             ResetaPosicao();
 
-        if (_attackAction.triggered)
+        if (_attackAction.triggered && _canMove)
         {
             transform.localPosition = EsticaPos;
             BicadaEvent.Broadcast();
@@ -34,4 +35,7 @@ public class Bicada : MonoBehaviour
     {
         transform.localPosition = Vector2.SmoothDamp(transform.localPosition, _initialPos, ref _currentVelocity, MoveDuration - 0.1f, MaxVelocity);
     }
+
+    public void BloquearMovimento() => _canMove = false;
+    public void DesbloquearMovimento() => _canMove = true;
 }
