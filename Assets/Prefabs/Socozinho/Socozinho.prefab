@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 3166004985554610839}
   - component: {fileID: 2498683640618968692}
   m_Layer: 0
-  m_Name: Sprite (4)
+  m_Name: perna fundo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -99,7 +99,7 @@ GameObject:
   - component: {fileID: 3114547486592480577}
   - component: {fileID: 2613852547949266732}
   m_Layer: 0
-  m_Name: Sprite (3)
+  m_Name: sa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -365,7 +365,7 @@ GameObject:
   - component: {fileID: 38168415680095921}
   - component: {fileID: 6419923428792028236}
   m_Layer: 0
-  m_Name: Sprite (1)
+  m_Name: bico cima
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -452,7 +452,7 @@ GameObject:
   - component: {fileID: 7627114334427709234}
   - component: {fileID: 5462173935979255041}
   m_Layer: 0
-  m_Name: Sprite (5)
+  m_Name: perna frente
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -612,7 +612,7 @@ GameObject:
   - component: {fileID: 7479426088967364842}
   - component: {fileID: 2443981941020725970}
   m_Layer: 0
-  m_Name: Sprite (2)
+  m_Name: bico baixo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

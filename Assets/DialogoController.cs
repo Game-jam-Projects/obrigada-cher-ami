@@ -9,7 +9,7 @@ public class DialogoController : MonoBehaviour
     [Header("Configuração")]
     public TextMeshProUGUI textoDialogo;
     public GameObject[] paineis; // Array de todos os painéis de diálogo
-    public float velocidadeDigitacao = 0.05f;
+    public float velocidadeDigitacao = 0.07f;
 
     [Header("Eventos")]
     public UnityEvent aoIniciarDialogo;
