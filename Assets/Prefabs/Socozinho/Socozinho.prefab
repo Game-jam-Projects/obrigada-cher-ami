@@ -598,8 +598,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 04bce7a85e97eb449806c5342fd4b974, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _biteRange: 6
-  _scareRadius: 8
+  _biteRange: 5.1
+  _scareRadius: 7
   _beakPosition: {fileID: 5292325397122674917}
 --- !u!1 &5972034759750583084
 GameObject:
