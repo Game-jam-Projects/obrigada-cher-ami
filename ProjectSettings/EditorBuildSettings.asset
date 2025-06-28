@@ -29,6 +29,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Cutscene Final.unity
     guid: 755012406b06f26438c734f89d29b855
+  - enabled: 1
+    path: Assets/Scenes/Hub 4.unity
+    guid: dd8182b3baa4c7946a0cd213947b3be1
+  - enabled: 1
+    path: Assets/Scenes/Hub 5.unity
+    guid: 437d6d01c2721d146b6041eded6fbcd8
+  - enabled: 1
+    path: Assets/Scenes/Socozinho.unity
+    guid: c50637ccb00451646a7e601d6ff4fa1f
+  - enabled: 1
+    path: Assets/Scenes/Urutau.unity
+    guid: c9c3293eadd324b4aa627e5806ecd8b2
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
   m_UseUCBPForAssetBundles: 0
