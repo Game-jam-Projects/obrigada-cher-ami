@@ -70,28 +70,31 @@ public class Comida : MonoBehaviour
 
     private void OnMouseDown()
     {
-        Pontuacao.Pontos = TipoComida switch
+        if(Pontuacao.Pontos < Pontuacao.PontuacaoAlvo)
         {
-            TipoComida.Crustaceo => Pontuacao.AddPontos(ValorCrustaceo),
-            TipoComida.Peixe => Pontuacao.AddPontos(ValorPeixe),
-            TipoComida.Inseto => Pontuacao.AddPontos(ValorInseto),
-            TipoComida.Lixo => Pontuacao.AddPontos(ValorLixo),
-            TipoComida.Aleatorio => Pontuacao.Pontos,
-            _ => Pontuacao.Pontos
-        };
+            Pontuacao.Pontos = TipoComida switch
+            {
+                TipoComida.Crustaceo => Pontuacao.AddPontos(ValorCrustaceo),
+                TipoComida.Peixe => Pontuacao.AddPontos(ValorPeixe),
+                TipoComida.Inseto => Pontuacao.AddPontos(ValorInseto),
+                TipoComida.Lixo => Pontuacao.AddPontos(ValorLixo),
+                TipoComida.Aleatorio => Pontuacao.Pontos,
+                _ => Pontuacao.Pontos
+            };
 
-        var comidaEvent = TipoComida switch
-        {
-            TipoComida.Crustaceo => ComeCrustaceo,
-            TipoComida.Peixe => ComePeixe,
-            TipoComida.Inseto => ComePeixe,
-            TipoComida.Lixo => ComeLixo,
-            TipoComida.Aleatorio => null,
-            _ => null
-        };
+            var comidaEvent = TipoComida switch
+            {
+                TipoComida.Crustaceo => ComeCrustaceo,
+                TipoComida.Peixe => ComePeixe,
+                TipoComida.Inseto => ComePeixe,
+                TipoComida.Lixo => ComeLixo,
+                TipoComida.Aleatorio => null,
+                _ => null
+            };
 
-        if (comidaEvent != null)
-            StartCoroutine(Broadcast(comidaEvent, 0.2f));
+            if (comidaEvent != null)
+                StartCoroutine(Broadcast(comidaEvent, 0.2f));
+        }
     }
 
     private IEnumerator Broadcast(GameEvent gameEvent, float delay)

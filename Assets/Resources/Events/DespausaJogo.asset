@@ -12,6 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 05ceab6c9a03e1a4485fafa0c76cfa1a, type: 3}
   m_Name: DespausaJogo
   m_EditorClassIdentifier: 
-  Clips:
-  - {fileID: 8300000, guid: ee0f116cb645c02408861cfa69c71295, type: 3}
+  Clips: []
   IsMusic: 0
