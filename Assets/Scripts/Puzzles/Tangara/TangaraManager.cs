@@ -58,6 +58,9 @@ public class TangaraManager : Singleton<TangaraManager>
 
     private void Update()
     {
+        if (Input.GetKeyDown(KeyCode.P))
+            SceneController.LoadScene("Hub 3");
+
         if (_startAction.triggered && _canStart && !_level.IsFinished)
         {
             _canStart = false;
