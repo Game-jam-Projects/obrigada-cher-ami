@@ -1,18 +1,19 @@
+using System;
 using UnityEngine;
 
 public class ScoreManager : Singleton<ScoreManager>
 {
     #region Fields
 
-    private int _playerScore;
-    private int _enemyScore;
+    [SerializeField] private Pontuacao PontuacaoSocozinho;
+    [SerializeField] private Pontuacao PontuacaoBaiacu;
 
     #endregion
 
     #region Properties
 
-    public int PlayerScore => _playerScore;
-    public int EnemyScore => _enemyScore;
+    public int PlayerScore => (int)Math.Round(PontuacaoSocozinho.Pontos);
+    public int EnemyScore => (int)Math.Round(PontuacaoBaiacu.Pontos);
 
     #endregion
 
@@ -20,22 +21,20 @@ public class ScoreManager : Singleton<ScoreManager>
 
     public void AddPlayerScore(int amount)
     {
-        _playerScore += amount;
-
-        Debug.Log($"Player Score: {_playerScore}");
+        PontuacaoSocozinho.AddPontos(amount);
+        Debug.Log($"Player Score: {PlayerScore}");
     }
 
     public void AddEnemyScore(int amount)
     {
-        _enemyScore += amount;
-
-        Debug.Log($"Enemy Score: {_enemyScore}");
+        PontuacaoBaiacu.AddPontos(amount);
+        Debug.Log($"Enemy Score: {EnemyScore}");
     }
 
     public void ResetScores()
     {
-        _playerScore = 0;
-        _enemyScore = 0;
+        PontuacaoSocozinho.Resetar();
+        PontuacaoBaiacu.Resetar();
     }
 
     #endregion

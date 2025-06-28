@@ -26,7 +26,7 @@ public class SocozinhoGameManager : Singleton<SocozinhoGameManager>
 
     private void Start()
     {
-        StartCoroutine(WaitForGameStartRoutine());
+        StartGame();
     }
 
     #endregion
@@ -49,9 +49,12 @@ public class SocozinhoGameManager : Singleton<SocozinhoGameManager>
         Debug.Log("Fim do jogo!");
     }
 
+    public void StartGame() => StartCoroutine(WaitForGameStartRoutine());
+
     #endregion
 
     #region Private Methods
+
 
     private bool AreAllFishReady()
     {

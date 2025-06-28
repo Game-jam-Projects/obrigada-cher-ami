@@ -8,3 +8,8 @@ He did a backflip!"
 tangara.win,"<b>Parabéns!</b>
 Você tem bons olhos!","<b>Congratulations!</b>
 Your eyes are sharp!"
+socozinho.win,"<b>Parabéns!</b>
+Você superou o Baiacu!","<b>Congratulations!</b>
+You outmatched the Pufferfish"
+socozinho.lose,O Baiacú te superou... Tentar novamente?,The Puffer got the best of you... Try again?
+socozinho.inicio,Coma 10 peixes antes do Baiacú!,Eat 10 fish before the Pufferfish!
