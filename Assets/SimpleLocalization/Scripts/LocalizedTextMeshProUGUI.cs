@@ -11,10 +11,13 @@ namespace Assets.SimpleLocalization.Scripts
     public class LocalizedTextMeshProUGUI : MonoBehaviour
     {
         public string LocalizationKey;
+        private bool localized = false;
 
         public void Start()
         {
-            Localize();
+            if (!localized)
+                Localize();
+            
             LocalizationManager.OnLocalizationChanged += Localize;
         }
 
@@ -23,9 +26,10 @@ namespace Assets.SimpleLocalization.Scripts
             LocalizationManager.OnLocalizationChanged -= Localize;
         }
 
-        private void Localize()
+        public void Localize()
         {
             GetComponent<TextMeshProUGUI>().text = LocalizationManager.Localize(LocalizationKey);
+            localized = true;
         }
     }
 }

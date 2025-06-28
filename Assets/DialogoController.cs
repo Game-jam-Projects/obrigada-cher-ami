@@ -2,6 +2,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.Events;
 using System.Collections;
+using Assets.SimpleLocalization.Scripts;
 
 public class DialogoController : MonoBehaviour
 {
@@ -34,6 +35,9 @@ public class DialogoController : MonoBehaviour
         {
             painel.SetActive(false);
         }
+
+        if (textoDialogo.TryGetComponent<LocalizedTextMeshProUGUI>(out var localization))
+            localization.Localize();
 
         paineis[0].SetActive(true);
         textoAtual = textoDialogo.text;

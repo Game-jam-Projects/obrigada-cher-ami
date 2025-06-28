@@ -20,4 +20,7 @@ MonoBehaviour:
   - Name: Dialogos
     Id: 0
     TextAsset: {fileID: 4900000, guid: c248fef4429ae8644a89f827c1f39f8f, type: 3}
+  - Name: Puzzles
+    Id: 36863839
+    TextAsset: {fileID: 4900000, guid: 77e83ed44d756cc4795b47e83831b121, type: 3}
   SaveFolder: {fileID: 102900000, guid: c392831e85f928548b8494fefd912562, type: 3}
