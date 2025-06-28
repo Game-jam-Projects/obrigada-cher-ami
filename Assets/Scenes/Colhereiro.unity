@@ -1175,17 +1175,17 @@ MonoBehaviour:
   aoFinalizarTodosDialogos:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1341621352}
-        m_TargetAssemblyTypeName: SceneHandler, Assembly-CSharp
-        m_MethodName: LoadNextScene
-        m_Mode: 5
+      - m_Target: {fileID: 1398753026690289707}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: Hub 2
-          m_BoolArgument: 0
+          m_BoolArgument: 1
         m_CallState: 2
 --- !u!1001 &1454010043
 PrefabInstance:
@@ -1969,9 +1969,49 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 647303153}
     m_Modifications:
+    - target: {fileID: 1850931481461471967, guid: b2a9588a63cabb44d907e2313facd37a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1850931481461471967, guid: b2a9588a63cabb44d907e2313facd37a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1850931481461471967, guid: b2a9588a63cabb44d907e2313facd37a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1341621352}
+    - target: {fileID: 1850931481461471967, guid: b2a9588a63cabb44d907e2313facd37a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1850931481461471967, guid: b2a9588a63cabb44d907e2313facd37a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: LoadNextScene
+      objectReference: {fileID: 0}
+    - target: {fileID: 1850931481461471967, guid: b2a9588a63cabb44d907e2313facd37a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: SceneHandler, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 1850931481461471967, guid: b2a9588a63cabb44d907e2313facd37a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_StringArgument
+      value: Hub 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1850931481461471967, guid: b2a9588a63cabb44d907e2313facd37a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 2456773694903106802, guid: b2a9588a63cabb44d907e2313facd37a, type: 3}
+      propertyPath: LocalizationKey
+      value: col.pos
+      objectReference: {fileID: 0}
     - target: {fileID: 4336006836412750393, guid: b2a9588a63cabb44d907e2313facd37a, type: 3}
       propertyPath: m_Name
       value: PainelFimPuzzle
+      objectReference: {fileID: 0}
+    - target: {fileID: 4336006836412750393, guid: b2a9588a63cabb44d907e2313facd37a, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4994339334039428202, guid: b2a9588a63cabb44d907e2313facd37a, type: 3}
       propertyPath: m_Pivot.x
@@ -2053,11 +2093,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5185667112070769194, guid: b2a9588a63cabb44d907e2313facd37a, type: 3}
+      propertyPath: m_text
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b2a9588a63cabb44d907e2313facd37a, type: 3}
+--- !u!1 &1398753026690289707 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4336006836412750393, guid: b2a9588a63cabb44d907e2313facd37a, type: 3}
+  m_PrefabInstance: {fileID: 1398753026690289706}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1439604721567289707
 PrefabInstance:
   m_ObjectHideFlags: 0

@@ -14,7 +14,7 @@ public class Pontuacao : ScriptableObject
     public float AddPontos(float pontos)
     {
         Pontos += pontos;
-        PontuacaoAlterada.Invoke();
+        PontuacaoAlterada?.Invoke();
         if (Pontos >= PontuacaoAlvo)
             FinalizaPuzzle.Broadcast();
         return Pontos;
@@ -23,6 +23,6 @@ public class Pontuacao : ScriptableObject
     public void Resetar()
     {
         Pontos = 0;
-        PontuacaoAlterada.Invoke();
+        PontuacaoAlterada?.Invoke();
     }
 }

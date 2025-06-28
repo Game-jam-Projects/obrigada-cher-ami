@@ -1487,7 +1487,7 @@ PrefabInstance:
     - target: {fileID: 2177948485507590835, guid: a2d90034d25e7aa4299f1cc5fbbd1d87, type: 3}
       propertyPath: _playMusic
       value: 
-      objectReference: {fileID: 11400000, guid: e30d89a00d4f1004dac53b78408bb98d, type: 2}
+      objectReference: {fileID: 11400000, guid: 49c29283e3728c347aadae2e5ab33603, type: 2}
     - target: {fileID: 3663838846798803722, guid: a2d90034d25e7aa4299f1cc5fbbd1d87, type: 3}
       propertyPath: m_Name
       value: Core

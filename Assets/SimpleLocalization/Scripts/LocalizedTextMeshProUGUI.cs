@@ -16,7 +16,10 @@ namespace Assets.SimpleLocalization.Scripts
         public void Start()
         {
             if (!localized)
+            {
                 Localize();
+                localized = true;
+            }
             
             LocalizationManager.OnLocalizationChanged += Localize;
         }

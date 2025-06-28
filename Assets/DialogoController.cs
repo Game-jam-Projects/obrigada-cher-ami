@@ -93,6 +93,10 @@ public class DialogoController : MonoBehaviour
             // Configura novo painel
             paineis[indicePainelAtual].SetActive(true);
             textoDialogo = paineis[indicePainelAtual].GetComponentInChildren<TextMeshProUGUI>();
+
+            if (textoDialogo.TryGetComponent<LocalizedTextMeshProUGUI>(out var localization))
+                localization.Localize();
+
             textoAtual = textoDialogo.text;
             textoDialogo.text = "";
             StartCoroutine(DigitacaoTexto());
