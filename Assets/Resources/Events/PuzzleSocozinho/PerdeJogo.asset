@@ -12,6 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 05ceab6c9a03e1a4485fafa0c76cfa1a, type: 3}
   m_Name: PerdeJogo
   m_EditorClassIdentifier: 
-  Clips:
-  - {fileID: 8300000, guid: 48277cc4d7f987a4bbf79680f3f6d4f5, type: 3}
+  Clips: []
   IsMusic: 0
