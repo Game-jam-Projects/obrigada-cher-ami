@@ -184,8 +184,6 @@ public class EnemyFish : Fish
 
     private IEnumerator FullBellyCooldownRoutine()
     {
-        _spriteRenderer.color = Color.magenta; // debug
-
         ChangeToReturningState(_patrolSpeed);
 
         while (Vector2.Distance(transform.position, _startPosition) > 0.01f)
