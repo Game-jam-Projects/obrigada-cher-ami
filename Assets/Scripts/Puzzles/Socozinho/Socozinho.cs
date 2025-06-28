@@ -35,13 +35,12 @@ public class Socozinho : Singleton<Socozinho>
 
     private void Start()
     {
-        InputSystem.actions["Attack"].performed += OnCatchPerformed;
-        InputSystem.actions["Attack"].Enable();
+        PlayerInput.AttackAction.performed += OnCatchPerformed;
     }
 
     private void OnDestroy()
     {
-        InputSystem.actions["Attack"].performed -= OnCatchPerformed;
+        PlayerInput.AttackAction.performed -= OnCatchPerformed;
     }
 
 #if UNITY_EDITOR
@@ -94,11 +93,14 @@ public class Socozinho : Singleton<Socozinho>
 
     private void OnCatchPerformed(InputAction.CallbackContext context)
     {
+
+        print("catching");
         if (_isCatching || !SocozinhoGameManager.Instance.IsGameActive) return;
 
-        Vector2 mousePosition = _mainCamera.ScreenToWorldPoint(Mouse.current.position.ReadValue());
+        Vector2 cursorPosition = PlayerInput.Cursor;
+        Vector2 worldPosition = _mainCamera.ScreenToWorldPoint(cursorPosition);
 
-        if (SeaArea.Instance.IsInsideSea(mousePosition))
+        if (SeaArea.Instance.IsInsideSea(worldPosition))
         {
             _isCatching = true;
             _animator.SetTrigger("catchFish");

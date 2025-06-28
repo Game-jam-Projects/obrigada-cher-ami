@@ -50,8 +50,8 @@ public class BaitSpawner : Singleton<BaitSpawner>
 
         if (_baitQueue.Count > 0 && Bait.CurrentBait == null)
         {
-            Vector2 mousePosition = Mouse.current.position.ReadValue();
-            Vector2 worldPosition = _mainCamera.ScreenToWorldPoint(mousePosition);
+            Vector2 cursorPosition = PlayerInput.Cursor;
+            Vector2 worldPosition = _mainCamera.ScreenToWorldPoint(cursorPosition);
 
             Vector2 targetPoint = new(worldPosition.x, _waterSurfaceLevel);
 
