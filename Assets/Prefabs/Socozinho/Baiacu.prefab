@@ -107,8 +107,8 @@ MonoBehaviour:
   _timeBetweenBites: 0
   _delayBeforeChasing: 0.5
   _waitingDistance: 2.5
-  _canBeEaten: 1
-  _canBeScared: 1
+  _canBeEaten: 0
+  _canBeScared: 0
   _catchWindowDuration: 0.5
   _scaredSpeed: 5
   _scaredStateDuration: 1

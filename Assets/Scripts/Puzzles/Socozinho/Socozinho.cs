@@ -93,8 +93,6 @@ public class Socozinho : Singleton<Socozinho>
 
     private void OnCatchPerformed(InputAction.CallbackContext context)
     {
-
-        print("catching");
         if (_isCatching || !SocozinhoGameManager.Instance.IsGameActive) return;
 
         Vector2 cursorPosition = PlayerInput.Cursor;

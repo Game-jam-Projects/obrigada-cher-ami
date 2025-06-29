@@ -98,7 +98,6 @@ GameObject:
   - component: {fileID: 4151484380351647570}
   - component: {fileID: 2495281040858088002}
   - component: {fileID: 4073231778916526887}
-  - component: {fileID: 514058549299943919}
   - component: {fileID: 7526905348610474355}
   - component: {fileID: 2067560928393861165}
   m_Layer: 8
@@ -173,52 +172,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!61 &514058549299943919
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2908972050337428778}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0.02, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Size: {x: 1.1, y: 0.5}
-  m_EdgeRadius: 0
 --- !u!61 &7526905348610474355
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -277,8 +230,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e606d53c195a34842b73eabf90775281, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _clickCollider: {fileID: 514058549299943919}
-  _detectionCollider: {fileID: 7526905348610474355}
   _patrolSpeed: 3
   _chaseSpeed: 4
   _enteringSpeed: 6
@@ -290,6 +241,6 @@ MonoBehaviour:
   _waitingDistance: 2.5
   _canBeEaten: 1
   _canBeScared: 1
-  _catchWindowDuration: 0.5
+  _catchWindowDuration: 0.85
   _scaredSpeed: 5
   _scaredStateDuration: 1

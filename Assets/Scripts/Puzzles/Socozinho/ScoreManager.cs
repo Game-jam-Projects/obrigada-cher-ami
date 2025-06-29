@@ -22,13 +22,11 @@ public class ScoreManager : Singleton<ScoreManager>
     public void AddPlayerScore(int amount)
     {
         PontuacaoSocozinho.AddPontos(amount);
-        Debug.Log($"Player Score: {PlayerScore}");
     }
 
     public void AddEnemyScore(int amount)
     {
         PontuacaoBaiacu.AddPontos(amount);
-        Debug.Log($"Enemy Score: {EnemyScore}");
     }
 
     public void ResetScores()

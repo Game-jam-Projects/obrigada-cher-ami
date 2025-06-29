@@ -76,6 +76,22 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7526905348610474355, guid: dc2930bba57ad4f4baae37cadaf2f7a8, type: 3}
+      propertyPath: m_Size.x
+      value: 1.18
+      objectReference: {fileID: 0}
+    - target: {fileID: 7526905348610474355, guid: dc2930bba57ad4f4baae37cadaf2f7a8, type: 3}
+      propertyPath: m_Size.y
+      value: 0.34
+      objectReference: {fileID: 0}
+    - target: {fileID: 7526905348610474355, guid: dc2930bba57ad4f4baae37cadaf2f7a8, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 7526905348610474355, guid: dc2930bba57ad4f4baae37cadaf2f7a8, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.04
+      objectReference: {fileID: 0}
     - target: {fileID: 8525761244427258572, guid: dc2930bba57ad4f4baae37cadaf2f7a8, type: 3}
       propertyPath: m_Sprite
       value: 

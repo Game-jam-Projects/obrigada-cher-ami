@@ -5,10 +5,6 @@ public class Fish : MonoBehaviour
 {
     #region Fields
 
-    [Header("Colliders")]
-    [SerializeField] private Collider2D _clickCollider;
-    [SerializeField] private Collider2D _detectionCollider;
-
     [Header("Movement")]
     [SerializeField] protected float _patrolSpeed = 3.0f;
     [SerializeField] protected float _chaseSpeed = 4.0f;
@@ -76,9 +72,6 @@ public class Fish : MonoBehaviour
     {
         _spriteRenderer = GetComponentInChildren<SpriteRenderer>();
         _animator = GetComponent<Animator>();
-
-        if (_clickCollider != null) _clickCollider.enabled = false;
-        if (_detectionCollider != null) _detectionCollider.isTrigger = true;
     }
 
     private void OnEnable()
@@ -135,11 +128,11 @@ public class Fish : MonoBehaviour
 
     private void OnMouseDown()
     {
-        if (_currentState == FishState.Scared) return;
+        if (!_canBeEaten || _currentState != FishState.Catchable) return;
 
         float distanceToPlayer = Vector2.Distance(transform.position, Socozinho.Instance.transform.position);
 
-        if (distanceToPlayer <= Socozinho.Instance.BiteRange && _canBeEaten)
+        if (distanceToPlayer <= Socozinho.Instance.BiteRange)
         {
             Socozinho.Instance.AddScore(_scoreValue);
             Socozinho.Instance.ScareNearbyFish();
@@ -182,8 +175,7 @@ public class Fish : MonoBehaviour
             StopCoroutine(_scaredRoutine);
         }
 
-        if (_clickCollider != null) _clickCollider.enabled = false;
-        _spriteRenderer.color = Color.white;
+        _spriteRenderer.color = Color.white; // debug
         _spriteRenderer.transform.localRotation = Quaternion.identity;
 
         _currentTargetBait = null;
@@ -333,7 +325,7 @@ public class Fish : MonoBehaviour
     {
         _biteCooldownTimer -= Time.deltaTime;
 
-        if (_biteCooldownTimer <= 0f)
+        if (_biteCooldownTimer <= 0.0f)
         {
             bool isDestroyed = _currentTargetBait.TakeDamageFromBite(_biteDamage);
 
@@ -455,7 +447,7 @@ public class Fish : MonoBehaviour
     {
         transform.position += (Vector3)(_scaredSpeed * Time.deltaTime * _fleeDirection);
 
-        _spriteRenderer.flipX = _fleeDirection.x < 0f;
+        _spriteRenderer.flipX = _fleeDirection.x < 0.0f;
     }
 
     #endregion
@@ -488,13 +480,12 @@ public class Fish : MonoBehaviour
 
         _currentState = FishState.Catchable;
 
-        if (_clickCollider != null) _clickCollider.enabled = true;
-        _spriteRenderer.color = Color.yellow;
+        _spriteRenderer.color = Color.yellow; // debug
 
         yield return new WaitForSeconds(_catchWindowDuration);
 
-        if (_clickCollider != null) _clickCollider.enabled = false;
-        _spriteRenderer.color = Color.white;
+        _spriteRenderer.color = Color.white; // debug
+
         _spriteRenderer.transform.localRotation = Quaternion.identity;
 
         ChangeToReturningState(_patrolSpeed);
